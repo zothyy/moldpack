@@ -50,7 +50,7 @@
     },
     {
       "path": "content/mods/cider-core.json",
-      "sha1": "2dae5760b2bbf6da065cc37e3ee8b8785b0ae588"
+      "sha1": "e1e0fae5f7330fe6582f580aaf69875947acb7e4"
     },
     {
       "path": "content/mods/cloth-config.json",
@@ -86,7 +86,7 @@
     },
     {
       "path": "content/mods/creature-feature.json",
-      "sha1": "dc4d6d7b0b5c2b3a98a1c164c82e7c0a06db2c46"
+      "sha1": "ed58f0377a9822e69659e680a69efecb5ce7cde4"
     },
     {
       "path": "content/mods/cultural-delights.json",
@@ -382,7 +382,7 @@
     },
     {
       "path": "content/mods/tt20.json",
-      "sha1": "bd620c51201b2e260156b5c5e3a812de81fedf15"
+      "sha1": "31bf3b0525740eae13c3850e878a997846d033a1"
     },
     {
       "path": "content/mods/vanillabackport.json",

@@ -16,7 +16,7 @@
 - [Biolith](https://modrinth.com/project/biolith) `3.0.14`
 - [Blueprint](https://modrinth.com/project/blueprint) `8.2.0`
 - [Caverns & Chasms](https://modrinth.com/project/caverns-and-chasms) `3.0.1`
-- [Cider Core](https://modrinth.com/project/cider-core) `1.13.2+1.21.1`
+- [Cider Core](https://modrinth.com/project/cider-core) `1.13.3+1.21.1`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.124+1.21.1`
 - [Crawl on Demand](https://modrinth.com/project/crawl-on-demand) `1.21-1.21.5-1.2.0+neoforge`
@@ -26,7 +26,7 @@
 - [Create Heat JS](https://www.curseforge.com/projects/1034948) `create_heat_js-1.21.1-0.0.6.jar`
 - [Create: Diesel Generators](https://modrinth.com/project/create-diesel-generators) `1.21.1-1.3.15`
 - [Create: Electro Energetics](https://modrinth.com/project/create-electro-energetics) `1.21.1-1.1.4`
-- [Creature Feature](https://modrinth.com/project/creature-feature) `1.2.3.3`
+- [Creature Feature](https://modrinth.com/project/creature-feature) `1.3.0`
 - [Cultural Delights](https://modrinth.com/project/cultural-delights) `0.19.8-1.21.1`
 - [DeclutterUI](https://modrinth.com/project/declutterui) `1.0.4`
 - [Ember Campfires](https://modrinth.com/project/ember-campfires) `1.1`
@@ -102,7 +102,7 @@
 - [Sun & Moon Fusion](https://modrinth.com/project/sun-moon-fusion) `2.1`
 - [Tide 2](https://modrinth.com/project/tide) `2.1.1`
 - [Tolerable Creepers](https://modrinth.com/project/tolerable-creepers) `2.3.0-1.21.1-neoforge`
-- [TT20 (TPS Fixer)](https://modrinth.com/project/tt20) `0.9.1`
+- [TT20 (TPS Fixer)](https://modrinth.com/project/tt20) `0.9.2`
 - [Vanilla Backport](https://modrinth.com/project/vanillabackport) `1.2.2`
 - [YetAnotherConfigLib (YACL)](https://modrinth.com/project/yacl) `3.8.2+1.21.1-neoforge`
 
