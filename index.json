@@ -50,7 +50,7 @@
     },
     {
       "path": "content/mods/cider-core.json",
-      "sha1": "9ab67e5854718956e97f6ae47bacd67f23eadf1f"
+      "sha1": "cf508ec7f17590637a9f8596c7920b4234f6acbf"
     },
     {
       "path": "content/mods/cloth-config.json",
@@ -326,7 +326,7 @@
     },
     {
       "path": "content/mods/reliable-remover.json",
-      "sha1": "3bd1e83d6723bb5578cb10966e2b57d97cee2cd3"
+      "sha1": "d2401dbcd5e27768371b19f430f8bfa2b12a3b53"
     },
     {
       "path": "content/mods/reliable-replacer.json",
