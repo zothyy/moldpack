@@ -1,0 +1,88 @@
+[
+  
+  {
+    "inputs": [],
+    "output": "minecraft:stone"
+  },
+
+  {
+    "inputs": ['minecraft:diorite'],
+    "output": "minecraft:calcite"
+  },
+
+  {
+    "inputs": ['nomansland:siltstone'],
+    "output": "create:limestone"
+  },
+
+  {
+    "inputs": [],
+    "output": "minecraft:deepslate"
+  },
+
+  {
+    "inputs": [ '#caverns_and_chasms:cassiterite_blocks'],
+    "output": "minecraft:blackstone"
+  },
+
+  {
+    "inputs": [],
+    "output": "minecraft:dripstone"
+  },
+
+  {
+    "inputs": [],
+    "output": "create:crimsite"
+  },
+
+  {
+    "inputs": [],
+    "output": "minecraft:granite"
+  },
+
+  {
+    "inputs": [],
+    "output": "create:ochrum"
+  },
+
+  {
+    "inputs": ['minecraft:andesite', 'caverns_and_chasms:schist'],
+    "output": "minecraft:tuff"
+  },
+
+  {
+    "inputs": [],
+    "output": "create:veridium"
+  },
+
+  {
+    "inputs": [],
+    "output": "minecraft:prismarine"
+  },
+
+  {
+    "inputs": ['caverns_and_chasms:rhyolite','caverns_and_chasms:magmatic_rhyolite', '#caverns_and_chasms:cylindrite_blocks'],
+    "output": "minecraft:basalt"
+  },
+
+  {
+    "inputs": [],
+    "output": "create:asurine"
+  },
+
+  {
+    "inputs": ['caverns_and_chasms:sugilite'],
+    "output": "minecraft:obsidian"
+  },
+
+  {
+    "inputs": [],
+    "output": "create:scoria"
+  },
+
+  {
+    "inputs": [],
+    "output": "minecraft:cinnabar"
+  }
+
+]

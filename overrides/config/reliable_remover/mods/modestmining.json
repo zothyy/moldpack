@@ -1,0 +1,9 @@
+[
+  {
+    "action": "remove",
+    "items": [
+      "modestmining:aluminium_dust",
+      "modestmining:meteoric_dust"
+    ]
+  }
+]

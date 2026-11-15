@@ -1,0 +1,23 @@
+{
+  "name": "DeclutterUI",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Tf6fFQCE",
+      "slug": "declutterui",
+      "versionId": "Y7FrOgxW",
+      "versionNumber": "1.0.4",
+      "filename": "declutterui-1.0.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Tf6fFQCE/versions/Y7FrOgxW/declutterui-1.0.4.jar",
+      "sha1": "13da0cc97d58d0caaf3a31927b8f4841101f4865",
+      "sha512": "b26d54e82a29e5632fb7407626d9f826ffbc8f9e5de936a32046be2d78c959178218f507129568c7e7d1b5ab208d756f39fff7b8223fb8f4bc98a72651ffdb91",
+      "fileSize": 62822
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

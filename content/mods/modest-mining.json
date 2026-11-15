@@ -1,0 +1,23 @@
+{
+  "name": "Modest Mining",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "5QcDoykP",
+      "slug": "modest-mining",
+      "versionId": "90MqjPXB",
+      "versionNumber": "1.5.0-1.21.1",
+      "filename": "modestmining-1.21.1-1.5.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/5QcDoykP/versions/90MqjPXB/modestmining-1.21.1-1.5.0.jar",
+      "sha1": "5b6cc6bbaf3e98a35de4f32c0f23c209842c2bbb",
+      "sha512": "a623961464cffe020262f6f19933072fd35d4bf7ded1a1af99c8deec43a5a33db8ec9dfdd58103f3168928d335384fa33eb7e6bf7a99fe0894db579c023f5f3c",
+      "fileSize": 1151908
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

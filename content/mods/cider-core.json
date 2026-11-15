@@ -1,0 +1,23 @@
+{
+  "name": "Cider Core",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Fg6qWws8",
+      "slug": "cider-core",
+      "versionId": "qnZawvBb",
+      "versionNumber": "1.12.0+1.21.1",
+      "filename": "spicedcider-1.12.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Fg6qWws8/versions/qnZawvBb/spicedcider-1.12.0.jar",
+      "sha1": "d5a902d09fc74b4fe7879c53de2acad196196844",
+      "sha512": "c51c7699ac5eeb3ab8058ea48a583a3f6b65b6960c09136024a4fde31ceface32be0aeffe8a85b94b360a0b5eea22787520f7ae497c1ac0a2d1f983078d30aa8",
+      "fileSize": 16472672
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

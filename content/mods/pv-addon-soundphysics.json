@@ -1,0 +1,23 @@
+{
+  "name": "pv-addon-soundphysics",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "K1y8brkJ",
+      "slug": "pv-addon-soundphysics",
+      "versionId": "kmyhU2jp",
+      "versionNumber": "1.1.2",
+      "filename": "pv-addon-soundphysics-1.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/K1y8brkJ/versions/kmyhU2jp/pv-addon-soundphysics-1.1.2.jar",
+      "sha1": "0ae889cc772b52446a4db96254db2e73f3688bb3",
+      "sha512": "67e92417e591af94df022e81e1891af476445cc5283259fe6586e495d4d8cc15841cd5590d926fa55406225524d4d6c5f8746e19deda2456aec4c4c3f202be07",
+      "fileSize": 16176
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

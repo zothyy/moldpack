@@ -1,0 +1,23 @@
+{
+  "name": "Nethermore",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "1Za9zwky",
+      "slug": "nethermore",
+      "versionId": "76GCjfv1",
+      "versionNumber": "1.1.3",
+      "filename": "nethermore-1.1.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/1Za9zwky/versions/76GCjfv1/nethermore-1.1.3.jar",
+      "sha1": "dc860e51738d5f19a0a164301b488c8aec0e27b4",
+      "sha512": "657426ad22a93018244800534cc55fc7df02c2edb380952b0cf1cf6a217357128574eaedc450aef23bbb0165e15cd225625a9617500c969a3f710b36a4363856",
+      "fileSize": 811003
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

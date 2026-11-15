@@ -1,0 +1,23 @@
+{
+  "name": "Cultural Delights",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "YttyNOFA",
+      "slug": "cultural-delights",
+      "versionId": "LYCtSz7r",
+      "versionNumber": "0.19.8-1.21.1",
+      "filename": "culturaldelights-1.21.1-0.19.8.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/YttyNOFA/versions/LYCtSz7r/culturaldelights-1.21.1-0.19.8.jar",
+      "sha1": "e4f9fbd0476c41999a41b7defd5c4d648bd4b4df",
+      "sha512": "536eef7784cebe6f826cb3fe2542cbf3807ad37ef659bb56d21271fa73b1dd21dfc61cb5f0ce29c4ef9d419f77d8c3b16f031217089a712255ec5aa14f2b8459",
+      "fileSize": 1004043
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

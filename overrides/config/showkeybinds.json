@@ -1,0 +1,19 @@
+{
+  "general": {
+    "enableHotBarText": true,
+    "offHandText": true,
+    "shadowedText": true,
+    "rainBowText": false,
+    "hotBarTextColor": 16777215,
+    "itemCountColor": 16777215,
+    "rainBowItemText": false,
+    "hotBarScale": 1.0
+  },
+  "container": {
+    "enableContainerText": true,
+    "shadowedText": true,
+    "rainBowText": false,
+    "containerTextColor": 16777045,
+    "containerScale": 1.0
+  }
+}

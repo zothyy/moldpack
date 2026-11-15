@@ -1,0 +1,23 @@
+{
+  "name": "Natural Temperature",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "QZt2fevq",
+      "slug": "natural-temperature",
+      "versionId": "8VhkEMUe",
+      "versionNumber": "1.2.3.1",
+      "filename": "naturaltemperature-1.2.3.1-NEOFORGE-MC-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/QZt2fevq/versions/8VhkEMUe/naturaltemperature-1.2.3.1-NEOFORGE-MC-1.21.1.jar",
+      "sha1": "c9d7a1458d478f2585eb9ccdc276a7ce44c03f70",
+      "sha512": "5684998bef0018d9ae55d3339e6d60e68c3b1f9f877c9a19b091b6fd4162fab57ec55caefe0cafc9153d3fa3dd61870dd014482924b33671f399b1e227b9ef94",
+      "fileSize": 103335
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Plasmo Voice Walkie-Talkie",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "KbXmELYr",
+      "slug": "pv-addon-walkietalkie",
+      "versionId": "YJFInzyf",
+      "versionNumber": "1.1.2",
+      "filename": "pv-addon-walkietalkie-1.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/KbXmELYr/versions/YJFInzyf/pv-addon-walkietalkie-1.1.2.jar",
+      "sha1": "446cd38e3092792ee7a589813d43aa9423b1f5a7",
+      "sha512": "b47eebdd024bc8faa1000fdf1c4f5e530c2cfa2b0333d7b704e47caae9214e3b58b454bba097301a69fd8fe25fa1995cc5e9e9a54588104cc6f130ed351ce3db",
+      "fileSize": 809345
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

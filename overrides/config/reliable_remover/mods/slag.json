@@ -1,0 +1,9 @@
+[
+  {
+    "action": "remove",
+    "items": [
+      "slag:modular_item",
+      "slag:dynamic_part"
+    ]
+  }
+]

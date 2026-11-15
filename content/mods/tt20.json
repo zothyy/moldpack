@@ -1,0 +1,23 @@
+{
+  "name": "TT20 (TPS Fixer)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "YS3ZignI",
+      "slug": "tt20",
+      "versionId": "sSEiQNhI",
+      "versionNumber": "0.9.0",
+      "filename": "tt20-0.9.0+mc1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/YS3ZignI/versions/sSEiQNhI/tt20-0.9.0%2Bmc1.21.1-neoforge.jar",
+      "sha1": "ac1b2abf78886a9d8cc720566968fa5b99016778",
+      "sha512": "81c7f19cb3186a60302cd76e3ccd2559a2c7cf0d9bd1d997caff41a38165d6fd136b289cc233c3048d56a28661f30c40a236df833fb73bae147586cf5cd3b6d5",
+      "fileSize": 686556
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

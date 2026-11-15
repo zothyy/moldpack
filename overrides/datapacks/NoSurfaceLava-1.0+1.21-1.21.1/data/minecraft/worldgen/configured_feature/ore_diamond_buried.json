@@ -1,0 +1,99 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "discard_chance_on_air_exposure": 0.0,
+    "size": 12,
+    "targets": [
+      {
+        "state": {
+          "Name": "minecraft:diamond_ore"
+        },
+        "target": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:stone_ore_replaceables"
+        }
+      },
+      {
+        "state": {
+          "Name": "minecraft:deepslate_diamond_ore"
+        },
+        "target": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:deepslate_ore_replaceables"
+        }
+      },
+      {
+        "state": {
+          "Name": "minecraft:diamond_ore"
+        },
+        "target": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:dripstone_block"
+        }
+      },
+      {
+        "state": {
+          "Name": "minecraft:diamond_ore"
+        },
+        "target": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:pointed_dripstone"
+        }
+      },
+      {
+        "state": {
+          "Name": "minecraft:diamond_ore"
+        },
+        "target": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:dirt"
+        }
+      },
+      {
+        "state": {
+          "Name": "minecraft:diamond_ore"
+        },
+        "target": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:gravel"
+        }
+      },
+      {
+        "state": {
+          "Name": "minecraft:diamond_ore"
+        },
+        "target": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:andesite"
+        }
+      },
+      {
+        "state": {
+          "Name": "minecraft:diamond_ore"
+        },
+        "target": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:diorite"
+        }
+      },
+      {
+        "state": {
+          "Name": "minecraft:diamond_ore"
+        },
+        "target": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:granite"
+        }
+      },
+      {
+        "state": {
+          "Name": "minecraft:diamond_ore"
+        },
+        "target": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:tuff"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Plasmo Voice",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "1bZhdhsH",
+      "slug": "plasmo-voice",
+      "versionId": "AykGyNFR",
+      "versionNumber": "neoforge-1.21.1-2.2.0-beta.3",
+      "filename": "plasmovoice-neoforge-1.21.1-2.2.0-beta.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/1bZhdhsH/versions/AykGyNFR/plasmovoice-neoforge-1.21.1-2.2.0-beta.3.jar",
+      "sha1": "6dbb213e6a577e0bc14044f1f7424954ead15c3f",
+      "sha512": "a78718898d5ee7db3bbd4d13de036c166be95de21e44c3cf0328d208dd9ef545130a42653db556a5a71ff0aa966dfb4c140de5557308fe2fabb7c6d9c88e1ae6",
+      "fileSize": 14457857
+    }
+  },
+  "dependents": [
+    "K1y8brkJ",
+    "KbXmELYr"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

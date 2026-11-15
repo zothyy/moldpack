@@ -1,0 +1,99 @@
+[titleScreen]
+	#Hide the Realms button from the main menu and any Realms options from settings screens
+	hideRealms = true
+	#Hide the accessibility shortcut button on the title screen
+	hideAccessibilityButton = false
+	#Hide the language shortcut button on the title screen
+	hideLanguageButton = false
+	#Hide the yellow rotating splash text on the title screen
+	hideSplashText = false
+	#Hide the copyright notice on the title screen
+	hideCopyright = true
+	#Hide the version and modded text in the bottom-left corner of the title screen
+	hideVersionText = true
+
+[menus]
+	#Hide the Credits & Attribution button from the Options screen
+	hideCredits = true
+	#Hide the recipe book button from inventory and crafting screens
+	hideRecipeBook = false
+	#Hide the Online Options button from the Options screen
+	hideOnlineOptions = true
+	#Hide server description text in the multiplayer list; server names, player counts, ping and connection errors remain visible
+	hideServerDescription = false
+
+[pauseMenu]
+	#Hide the Give Feedback and Report Bugs buttons from the Game Menu
+	hideFeedbackButtons = true
+	#Hide the Player Reporting button from the Game Menu
+	hidePlayerReporting = true
+	#Hide the Open to LAN button from the Game Menu
+	hideOpenToLan = false
+
+[popups]
+	#Suppress advancement unlock toast notifications
+	suppressAdvancementToasts = false
+	#Suppress recipe unlock toast notifications
+	suppressRecipeToasts = true
+	#Suppress tutorial hint toast notifications
+	suppressTutorialToasts = true
+	#Suppress the narrator on/off toast notification
+	suppressNarratorToast = false
+	#Suppress the unsecure server warning toast
+	suppressUnsafeServerToast = false
+	#Suppress the popup shown after a world backup completes
+	suppressWorldBackupToast = false
+	#Suppress resource pack load, copy, file import, and server pack download failure popups
+	suppressResourcePackErrorToasts = false
+	#Hide the resource pack download progress notification
+	hideResourcePackDownloadProgress = false
+
+[warnings]
+	#Skip the Caution: Third-Party Online Play warning screen
+	hideMultiplayerWarning = true
+	#Skip the experimental features confirmation screen
+	skipExperimentalWarning = true
+	#Skip the accessibility setup screen that appears on first launch
+	skipAccessibilityOnboarding = true
+	#Skip the world upgrade backup prompt (off by default for safety)
+	skipWorldUpgradeBackup = false
+
+[hudPrivacy]
+	#Hide item names shown above the hotbar when changing the selected item
+	hideSelectedItemName = false
+	#Hide the colored indicator bars shown next to chat messages
+	hideChatIndicators = false
+	#Disable all telemetry data collection
+	disableTelemetry = true
+	#Hide boss names and health bars displayed at the top of the screen
+	hideBossBars = false
+	#Hide the scoreboard sidebar displayed on the right side of the screen
+	hideScoreboardSidebar = false
+	#Hide action bar messages displayed above the hotbar
+	hideActionBarMessages = false
+	#Hide text displays and invisible armor stand nameplates commonly used for server holograms
+	hideFloatingHologramText = false
+	#Hide server messages above and below the list shown when you hold Tab.
+	hideTabHeaderFooter = false
+	#Hide glowing outlines around players, animals, and other creatures.
+	hideGlowingOutlines = false
+	#Hide the scores servers show under player names, such as health or kills
+	hideBelowNameScores = false
+	#Hide the numbers in the right column of the scoreboard sidebar; the panel itself stays
+	hideScoreboardNumbers = false
+	#Hide the names above other players and player-like NPCs, including names drawn by entities riding them
+	hidePlayerNameTags = false
+	#Hide title and subtitle text displayed in the center of the screen
+	hideTitles = false
+
+[chat]
+	#Chat messages containing any of these phrases are hidden (not case-sensitive)
+	hiddenChatPhrases = []
+	#Rank tags removed from the sender part of chat messages, e.g. OWNER or [VIP] (not case-sensitive)
+	hiddenChatTags = []
+	#Also hide messages typed by other players that contain a hidden phrase
+	hideMatchingPlayerMessages = false
+	#Also remove the hidden chat tags from names shown above heads
+	removeTagsAboveHeads = false
+	#Hide player details when you hover over names in chat.
+	hidePlayerProfilePopups = false

@@ -1,0 +1,23 @@
+{
+  "name": "Tolerable Creepers",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "k9OKXOrZ",
+      "slug": "tolerable-creepers",
+      "versionId": "3Y8Ax6sX",
+      "versionNumber": "2.3.0-1.21.1-neoforge",
+      "filename": "tolerable_creepers-neoforge-1.21.1-2.3.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/k9OKXOrZ/versions/3Y8Ax6sX/tolerable_creepers-neoforge-1.21.1-2.3.0.jar",
+      "sha1": "14bcd9dc8c812e27435be1930b54cf780c754479",
+      "sha512": "7a6755ffaa30f27aadd0570707259b1d8651de5789e0c56e67afb4d2fcc74c8cf2ce4ff89fa520ea9a202adddef9c33d33cd806788574989bdce6a14e1655e65",
+      "fileSize": 185111
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

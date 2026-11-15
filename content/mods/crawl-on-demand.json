@@ -1,0 +1,23 @@
+{
+  "name": "Crawl on Demand",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "wcXLQVhg",
+      "slug": "crawl-on-demand",
+      "versionId": "HNDAAz4p",
+      "versionNumber": "1.21-1.21.5-1.2.0+neoforge",
+      "filename": "crawlondemand-1.21-1.21.5-1.2.0+neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/wcXLQVhg/versions/HNDAAz4p/crawlondemand-1.21-1.21.5-1.2.0%2Bneoforge.jar",
+      "sha1": "8aa13f9324597500f0740158c367c957f5221667",
+      "sha512": "d307705d4834d91b6c1fb975574bd30eaee67f71455466bb57ab4c23d2056044634e4f97e5fee1f983a7b1c761eb5a5a64e17669b67f8d497707bb088254859c",
+      "fileSize": 26478
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

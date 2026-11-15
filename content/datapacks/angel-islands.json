@@ -1,0 +1,23 @@
+{
+  "name": "Angel Islands",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "kHqaSlhI",
+      "slug": "angel-islands",
+      "versionId": "eykQvORC",
+      "versionNumber": "2.0.3",
+      "filename": "Angel_Islands_2.0.3.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/kHqaSlhI/versions/eykQvORC/Angel_Islands_2.0.3.zip",
+      "sha1": "5a059f3adabbb78f73aa8786c6a596608e4b1036",
+      "sha512": "5c5964846ceb97bcb25192bfc0b7ab9815d983a91ffe392ee25799c932e9fb87fd8fc6dc92f7e44e93aef633c996700e979d4f286ca39ebff71f374e85377e0c",
+      "fileSize": 496580
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

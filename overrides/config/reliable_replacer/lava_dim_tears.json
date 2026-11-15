@@ -1,0 +1,8 @@
+{
+  "inputs": ["minecraft:lava", "minecraft:water"],
+  "output": "dimensional_tears:dimensional_tears",
+  "max_y": "-50",
+  "player_blocks": false,
+  "retrogen":false
+}
+

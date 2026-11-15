@@ -1,0 +1,23 @@
+{
+  "name": "Packdev Toolkit",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "FD6cyuqK",
+      "slug": "packdev-toolkit",
+      "versionId": "9chnkKW9",
+      "versionNumber": "2.1.0-1.21.1-neoforge",
+      "filename": "packdev_toolkit-neoforge-1.21.1-2.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/FD6cyuqK/versions/9chnkKW9/packdev_toolkit-neoforge-1.21.1-2.1.0.jar",
+      "sha1": "fe8003d92cabfa5c219f438fb2e9a3e3914b5b84",
+      "sha512": "268d67d3898f127740eac9aaa5257a34294cf16bb1d400b0384204a351a423fcb7e75f71748eb7ee099f743faa01110880b4773ae5e26b2954c8c792b8a7acd7",
+      "fileSize": 209464
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

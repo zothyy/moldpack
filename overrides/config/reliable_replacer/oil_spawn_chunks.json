@@ -1,0 +1,12 @@
+{
+  "inputs": ["minecraft:bedrock"],
+  "output": "minecraft:obsidian",
+  "retrogen": false,
+  "dimensions": ["minecraft:overworld"],
+  "not": { 
+  "min_x": "spawn-46",
+  "max_x": "spawn+46",
+  "min_z": "spawn-46",
+  "max_z": "spawn+46"
+  }
+}

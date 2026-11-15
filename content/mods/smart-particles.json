@@ -1,0 +1,23 @@
+{
+  "name": "Smart Particles",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "l8rWP4Tc",
+      "slug": "smart-particles",
+      "versionId": "bsUPkcRL",
+      "versionNumber": "21.8.10",
+      "filename": "smart_particles-21.8.10.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/l8rWP4Tc/versions/bsUPkcRL/smart_particles-21.8.10.jar",
+      "sha1": "f6f017e9d3f36f871781a1647937527bdc8a2fad",
+      "sha512": "d291d94be533abe673457dab7483ec5e3a1c6ddba67f5048d06a548ab70a7bb930c3682754b8bfc37edcc85ccc5b8e98f15294adbea77a6b528ce1ae41e282d5",
+      "fileSize": 50773
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

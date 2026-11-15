@@ -1,0 +1,19 @@
+{
+  "swapper": {
+    "nomansland:cave_weeds": "caverns_and_chasms:cave_growths",
+    "caverns_and_chasms:toolbox": "create:brown_toolbox",
+    "caverns_and_chasms:exposed_toolbox": "create:brown_toolbox",
+    "caverns_and_chasms:weathered_toolbox": "create:brown_toolbox",
+    "caverns_and_chasms:oxidized_toolbox": "create:brown_toolbox",
+    "caverns_and_chasms:waxed_toolbox": "create:brown_toolbox",
+    "caverns_and_chasms:waxed_exposed_toolbox": "create:brown_toolbox",
+    "caverns_and_chasms:waxed_weathered_toolbox": "create:brown_toolbox",
+    "caverns_and_chasms:waxed_oxidized_toolbox": "create:brown_toolbox",
+    "nomansland:cobbled_deepslate_bricks": "caverns_and_chasms:cobbled_deepslate_bricks",
+    "nomansland:cobbled_deepslate_brick_wall": "caverns_and_chasms:cobbled_deepslate_brick_wall",
+    "nomansland:cobbled_deepslate_brick_slab": "caverns_and_chasms:cobbled_deepslate_brick_slab",
+    "nomansland:cobbled_deepslate_brick_stairs": "caverns_and_chasms:cobbled_deepslate_brick_stairs",
+    "modestmining:clam": "nomansland:seashells",
+    "modestmining:shell": "nomansland:seashells"
+  }
+}

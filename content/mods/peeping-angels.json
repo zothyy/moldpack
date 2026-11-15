@@ -1,0 +1,23 @@
+{
+  "name": "Peeping Angels",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "pRWPunvR",
+      "slug": "peeping-angels",
+      "versionId": "bAOruOCk",
+      "versionNumber": "3.0.0",
+      "filename": "peeping_angels-1.21.1-3.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/pRWPunvR/versions/bAOruOCk/peeping_angels-1.21.1-3.0.0.jar",
+      "sha1": "3b70bfe1d9206ecf26a74419a7ea4ffd5ca14298",
+      "sha512": "b92920671ec613da3e710cfc70b3a1e55d570fcaf28e99dc0809b435d24f81aa3eadec8cb5e6bd11f15c6d75e1b43666ee7cec3975630b3f89c925d03bb49347",
+      "fileSize": 24972
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

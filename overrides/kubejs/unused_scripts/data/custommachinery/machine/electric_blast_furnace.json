@@ -1,0 +1,91 @@
+{
+  "name": {
+    "text": {
+      "translate": "Electric Blast Furnace"
+    }
+  },
+  "appearance": {
+    "running": {
+      "custommachinery:ambient_sound": {
+        "sound": "electroenergetics:dc_train"
+      }
+    },
+    "custommachinery:block": "custommachinery:machine/electric_blast_furnace"
+  },
+  "components": [
+    {
+      "type": "custommachinery:fluid",
+      "mode": "output",
+      "config": {
+        "TOP": "INPUT",
+        "BOTTOM": "INPUT",
+        "FRONT": "INPUT",
+        "RIGHT": "INPUT",
+        "BACK": "INPUT",
+        "LEFT": "INPUT"
+      },
+      "id": "output_fluid",
+      "capacity": 10000
+    },
+    {
+      "type": "custommachinery:item",
+      "id": "input",
+      "mode": "input",
+      "capacity": 64
+    },
+    {
+      "type": "custommachinery:item",
+      "config": {
+        "TOP": "INPUT",
+        "BOTTOM": "INPUT",
+        "FRONT": "INPUT",
+        "RIGHT": "INPUT",
+        "BACK": "INPUT",
+        "LEFT": "INPUT"
+      },
+      "id": "output_item",
+      "mode": "output",
+      "capacity": 64
+    }
+  ],
+  "gui": [
+    {
+      "type": "custommachinery:background",
+      "width": 256,
+      "height": 192
+    },
+    {
+      "type": "custommachinery:fluid",
+      "id": "output_fluid",
+      "x": 84,
+      "y": 60,
+      "width": 18,
+      "height": 44
+    },
+    {
+      "type": "custommachinery:player_inventory",
+      "x": 37,
+      "y": 109
+    },
+    {
+      "type": "custommachinery:progress",
+      "orientation": "BOTTOM",
+      "x": 100,
+      "y": 29,
+      "width": 16,
+      "height": 24
+    },
+    {
+      "type": "custommachinery:slot",
+      "id": "input",
+      "x": 99,
+      "y": 7
+    },
+    {
+      "type": "custommachinery:slot",
+      "id": "output_item",
+      "x": 105,
+      "y": 72
+    }
+  ]
+}

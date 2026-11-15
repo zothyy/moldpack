@@ -1,0 +1,23 @@
+{
+  "name": "Gentler Rain Sounds",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "pdFBGz8R",
+      "slug": "gentler-rain-sounds",
+      "versionId": "Br4DgX7i",
+      "versionNumber": "1.2",
+      "filename": "Gentler Rain Sounds.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/pdFBGz8R/versions/Br4DgX7i/Gentler%20Rain%20Sounds.zip",
+      "sha1": "a1d769de1a68b2ee150c9cadf5dbc2fb79f71df4",
+      "sha512": "8a407194b559ca9fe0ddd42fa35f00f35df43e304ea6b3e8b5f3a6cded10c472b46bd80918b0f863bc2116764776df5657ba2148b75950ff3e6ec3d0a46a9e18",
+      "fileSize": 926891
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

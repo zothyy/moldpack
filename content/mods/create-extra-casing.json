@@ -1,0 +1,23 @@
+{
+  "name": "Create Extra Casing",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "yEGVcr59",
+      "slug": "create-extra-casing",
+      "versionId": "8w86yown",
+      "versionNumber": "4.0.4",
+      "filename": "create_extra_casing-4.0.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/yEGVcr59/versions/8w86yown/create_extra_casing-4.0.4.jar",
+      "sha1": "8560d1568f4febdaacce55df72949e949c888f22",
+      "sha512": "4475da2d725228944163f49eac7614416afcdb955347c99c01a69caa553150fa46fbf7a96dd2618cf6b728ff3512535dcd231e9bcca163719813ebc5d711895c",
+      "fileSize": 1484026
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

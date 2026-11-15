@@ -1,0 +1,23 @@
+{
+  "name": "Beds Spawn Phantoms",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "LMMGswGT",
+      "slug": "beds-spawn-phantoms",
+      "versionId": "50Yw58f0",
+      "versionNumber": "1.0.3+datapack",
+      "filename": "beds_spawn_phantoms_21_1.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/LMMGswGT/versions/50Yw58f0/beds_spawn_phantoms_21_1.zip",
+      "sha1": "ebeaa2b15546bd015b786ad9ba410cce3b01e846",
+      "sha512": "d73af083d533bfe2f252a692699beee70c78c3042b7e2c12eaaaae058f5b1a3481108b120da8773f54cb81bdab5f734df6b660a4ce905ac4c58268c23a609bc5",
+      "fileSize": 6362
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

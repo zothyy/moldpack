@@ -1,0 +1,23 @@
+{
+  "name": "no f3",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "MPFUV2Ds",
+      "slug": "no-f3",
+      "versionId": "ajcRa0aS",
+      "versionNumber": "4+mod",
+      "filename": "no-f3-4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/MPFUV2Ds/versions/ajcRa0aS/no-f3-4.jar",
+      "sha1": "8f37029b23bb04e74834576c8ad8fef08b7b4a4a",
+      "sha512": "190e2d79399bfc6bd482768403c480b6e0ff50fb2eb14b7175825a7d3c5d85722200447c453c05be7cc04a4fdcec94ae3820d876c57a73e3520a6b113a612de1",
+      "fileSize": 161330
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

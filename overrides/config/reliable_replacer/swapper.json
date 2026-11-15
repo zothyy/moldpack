@@ -1,0 +1,14 @@
+[
+  {
+    "inputs": ["minecraft:coarse_dirt"],
+    "output": "caverns_and_chasms:rocky_dirt"
+  },
+  {
+    "inputs": ["caverns_and_chasms:fragile_deepslate"],
+    "output": "caverns_and_chasms:fragile_stone"
+  },
+  {
+    "inputs": ["nomansland:dried_grass"],
+    "output": "minecraft:short_dry_grass"
+  }  
+]

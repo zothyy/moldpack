@@ -1,0 +1,23 @@
+{
+  "name": "Ember Campfires",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "APBGUVKr",
+      "slug": "ember-campfires",
+      "versionId": "u61MyfTb",
+      "versionNumber": "1.1",
+      "filename": "ember_campfires_batlychee_v1.1.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/APBGUVKr/versions/u61MyfTb/ember_campfires_batlychee_v1.1.zip",
+      "sha1": "a13466d635d2494795cf2c69cf68998e5369babb",
+      "sha512": "bb0e85ea805a59570fe9acecd47c5644946513a3b121596a7a652389deda783282795b2590512fdeef867a11e345eda66e915b75a5f7852c7714cff8d235b921",
+      "fileSize": 14139
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

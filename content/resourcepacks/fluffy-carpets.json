@@ -1,0 +1,23 @@
+{
+  "name": "(Bee's) Fluffy Carpets and Wool",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "YvVQg79k",
+      "slug": "fluffy-carpets",
+      "versionId": "2q7GowmP",
+      "versionNumber": "1.1",
+      "filename": "Fluffy Carpets v1.1.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/YvVQg79k/versions/2q7GowmP/Fluffy%20Carpets%20v1.1.zip",
+      "sha1": "5914d8fe664f33b832b7181f84069e92f34dcf40",
+      "sha512": "dd4765456adb701cdfab0f543b63bb43c0b47fdcf1449fda018e7cc1fd5d3340596d8b23bfd7ae9ae6962541c039f2187ddd5daee0c09f425ec70839771d02fe",
+      "fileSize": 62654
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

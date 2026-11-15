@@ -1,0 +1,23 @@
+{
+  "name": "Strike After Swing",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "SS4Ij1nB",
+      "slug": "strike-after-swing",
+      "versionId": "58NIwyrC",
+      "versionNumber": "1.0.4",
+      "filename": "StrikeAfterSwing-neoforge-1.21.1-1.0.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/SS4Ij1nB/versions/58NIwyrC/StrikeAfterSwing-neoforge-1.21.1-1.0.4.jar",
+      "sha1": "e609b751e5a5d254224d1332356f503abab83f52",
+      "sha512": "11eee5623054a43c42a5caa8042feab4a1afaaa0947a04c5b8abffacaf494df056f45c9c8336dc4fbf880ae45531aad61031ecb02300614a241b78ed075cf5d6",
+      "fileSize": 24709
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

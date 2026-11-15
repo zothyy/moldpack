@@ -1,0 +1,23 @@
+{
+  "name": "Ratchel - Caverns & Chasms",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ssydorQs",
+      "slug": "ratchel-caverns-chasms",
+      "versionId": "uVq7KpNg",
+      "versionNumber": "1.0",
+      "filename": "ratchel-1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ssydorQs/versions/uVq7KpNg/ratchel-1.0.jar",
+      "sha1": "afd3cf2105d67034b18b088e202866b0815af52e",
+      "sha512": "c2b2d8a2826b5d84a13df544d3df7be2f97e5107e698163da6d31a110f243cc2b8526e0745ae3a78994b645f13d7d6bca555039ee03a89cd1fdaca8d6403f5c0",
+      "fileSize": 17055
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Reliable Replacer",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "swDAEYpN",
+      "slug": "reliable-replacer",
+      "versionId": "UF1v9jTk",
+      "versionNumber": "1.8.2+1.21.1-neoforge",
+      "filename": "reliable_replacer-1.8.2+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/swDAEYpN/versions/UF1v9jTk/reliable_replacer-1.8.2%2B1.21.1-neoforge.jar",
+      "sha1": "4ad3e0a4fd83f0100ead1277c3373b805bb464a9",
+      "sha512": "d14459ecac3a49ac436f78b2437e1692b5be6861921585c59eb44f97c2e615da711a7fd79fcacfeb53ff28cefbfe998f1f2bbd682dce2d27fbbd20886c71c4dd",
+      "fileSize": 172847
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

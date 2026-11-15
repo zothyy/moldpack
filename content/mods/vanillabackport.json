@@ -1,0 +1,23 @@
+{
+  "name": "Vanilla Backport",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "6xwxDTgf",
+      "slug": "vanillabackport",
+      "versionId": "mGS7BxD4",
+      "versionNumber": "1.2.2",
+      "filename": "VanillaBackport-neoforge-1.21.1-1.2.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/6xwxDTgf/versions/mGS7BxD4/VanillaBackport-neoforge-1.21.1-1.2.2.jar",
+      "sha1": "12871e5330f8b33df7740a975047fc9a584d0387",
+      "sha512": "89b0fbe66fb26cbc74d8ba55d2e6c76ea9652a0812582a955b1f32604a1d033f2be59f06df7cd4232520b8edba6074ac724525136d5ceaa1cfce88a53ab7d9a0",
+      "fileSize": 63870495
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
