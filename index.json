@@ -50,7 +50,7 @@
     },
     {
       "path": "content/mods/cider-core.json",
-      "sha1": "cf508ec7f17590637a9f8596c7920b4234f6acbf"
+      "sha1": "2dae5760b2bbf6da065cc37e3ee8b8785b0ae588"
     },
     {
       "path": "content/mods/cloth-config.json",
@@ -450,7 +450,7 @@
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles-mixin.properties",
-      "sha1": "eadf31d93417362fd85d89c83625c279f1631829"
+      "sha1": "93a2eecf246ea617dade493f5e579be99fda1ed4"
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles.json",
@@ -574,7 +574,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "df439a0e03ffcac7110dc371883fb2142b42fcba"
+      "sha1": "1e3360cd82ba643685f724eb3a4608574bf413a3"
     },
     {
       "path": "overrides/config/farmersdelight-client.toml",
@@ -778,7 +778,7 @@
     },
     {
       "path": "overrides/config/packetfixer.properties",
-      "sha1": "fe2103ea79fdcb1b1ea366d426a9b04933fe929f"
+      "sha1": "b369b1c600773d871c8a674875460babe6307eb5"
     },
     {
       "path": "overrides/config/peeping_angels-common.toml",
@@ -1226,7 +1226,7 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "788e6eba28191177e0406a0c8b08f8e8379b0a07"
+      "sha1": "8023bf530cfc762d091ccf91c4b62f96d71fc2cd"
     },
     {
       "path": "overrides/data/fabricDefaultResourcePacks.dat",
@@ -1545,7 +1545,7 @@
       "sha1": "057ac052a3a3bb7336eb98922e9d32366ea4039a"
     },
     {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/jam_jar.png",
+      "path": "overrides/kubejs/assets/kubejs/textures/item/jam.png",
       "sha1": "cb62548cabd791067ea6121b467e0c00223c165d"
     },
     {
@@ -2265,6 +2265,10 @@
       "sha1": "53e85c35cbc78c7505f696b0a7dae83f1767fba1"
     },
     {
+      "path": "overrides/kubejs/startup_scripts/food.js",
+      "sha1": "1074dd077d4f450c927ee1b40e5a01225187f341"
+    },
+    {
       "path": "overrides/kubejs/startup_scripts/heat_levels.js",
       "sha1": "648f0702886c3b65fae4b0a0bd7b441838371adc"
     },
@@ -2274,7 +2278,7 @@
     },
     {
       "path": "overrides/kubejs/startup_scripts/item_registry.js",
-      "sha1": "c412b66deef1eeb82d6cf85eaa0e087d4697d3f2"
+      "sha1": "7fc91053b0ac7d016665c17da191bd963f3f8d0e"
     },
     {
       "path": "overrides/kubejs/startup_scripts/raw_registry.js",
