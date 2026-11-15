@@ -1,6 +1,6 @@
 # moldpack
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 94 mods (4 dependencies), 4 resource packs, 2 data packs
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 94 mods (3 dependencies), 4 resource packs, 2 data packs
 
 ## Contents
 

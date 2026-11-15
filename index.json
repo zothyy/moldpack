@@ -333,12 +333,8 @@
       "sha1": "9a0e03b1b49b41029b5c80f179b303711610a71d"
     },
     {
-      "path": "content/mods/rhino-2.json",
-      "sha1": "f082316c370a23c9e3a9b82c635b0dbff48e8772"
-    },
-    {
       "path": "content/mods/rhino.json",
-      "sha1": "fbc2252b39a090e20c9e53386ffc6084e8448463"
+      "sha1": "82003696573a3567061e300a3f311220b4216c62"
     },
     {
       "path": "content/mods/sable.json",
