@@ -101,7 +101,7 @@
 - [Sun & Moon Fusion](https://modrinth.com/project/sun-moon-fusion) `2.1`
 - [Tide 2](https://modrinth.com/project/tide) `2.1.1`
 - [Tolerable Creepers](https://modrinth.com/project/tolerable-creepers) `2.3.0-1.21.1-neoforge`
-- [TT20 (TPS Fixer)](https://modrinth.com/project/tt20) `0.9.0`
+- [TT20 (TPS Fixer)](https://modrinth.com/project/tt20) `0.9.1`
 - [Vanilla Backport](https://modrinth.com/project/vanillabackport) `1.2.2`
 - [YetAnotherConfigLib (YACL)](https://modrinth.com/project/yacl) `3.8.2+1.21.1-neoforge`
 

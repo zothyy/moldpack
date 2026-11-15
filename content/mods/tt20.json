@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "YS3ZignI",
       "slug": "tt20",
-      "versionId": "sSEiQNhI",
-      "versionNumber": "0.9.0",
-      "filename": "tt20-0.9.0+mc1.21.1-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/YS3ZignI/versions/sSEiQNhI/tt20-0.9.0%2Bmc1.21.1-neoforge.jar",
-      "sha1": "ac1b2abf78886a9d8cc720566968fa5b99016778",
-      "sha512": "81c7f19cb3186a60302cd76e3ccd2559a2c7cf0d9bd1d997caff41a38165d6fd136b289cc233c3048d56a28661f30c40a236df833fb73bae147586cf5cd3b6d5",
-      "fileSize": 686556
+      "versionId": "RZgzcpJW",
+      "versionNumber": "0.9.1",
+      "filename": "tt20-0.9.1+mc1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/YS3ZignI/versions/RZgzcpJW/tt20-0.9.1%2Bmc1.21.1-neoforge.jar",
+      "sha1": "6e5515978161954fc22d9ce99e2d39ea293ef32f",
+      "sha512": "afce06d525f016d31b0b1ac5fdb24f667f282e305eaedba5d3832069e0313d5823be8b16eb971d75fa866cb5c455e816fe315e6b2062e246321111141969b9fd",
+      "fileSize": 686609
     }
   },
   "dependents": [],
