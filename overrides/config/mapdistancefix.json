@@ -1,9 +1,0 @@
-{
-  "showDistance": true,
-  "showDistanceWhenOffMap": true,
-  "showDistanceInsideBoundaries": false,
-  "showStructureDistances": true,
-  "distanceFormat": "%dm",
-  "useShortUnits": true,
-  "shortUnitThreshold": 1000
-}

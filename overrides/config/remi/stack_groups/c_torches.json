@@ -1,7 +1,0 @@
-{
-  "type": "remi:tag",
-  "id": "c:torches",
-  "tag": "c:torches",
-  "registry": "minecraft:item",
-  "enabled": false
-}

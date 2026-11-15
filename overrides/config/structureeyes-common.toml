@@ -13,7 +13,7 @@
 #Applied to every mapping created above. (Datapack JSON mappings set these per-entry instead.)
 [defaults]
 	#Whether the item is used up on a successful locate. false = reusable.
-	consumeOnUse = true
+	consumeOnUse = false
 	#Cooldown after a successful locate, in ticks (20 = 1 second). 0 = none.
 	# Default: 0
 	# Range: > 0
@@ -26,6 +26,6 @@
 [messages]
 	#If true, using an item in the wrong dimension tells the player the structure is elsewhere
 	#(works for the Nether, End, and modded dimensions). Requires the mapping to set a dimension.
-	wrongDimensionMessage = true
+	wrongDimensionMessage = false
 	#If true, tells the player when no matching structure was found within range.
 	notFoundMessage = true
