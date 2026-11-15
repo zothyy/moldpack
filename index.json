@@ -413,6 +413,74 @@
       "sha1": "e659b6c1d3b6f26a62255bb51188b963642a73ab"
     },
     {
+      "path": "overrides/config/MouseTweaks.cfg",
+      "sha1": "651b3e4db2d430dc1da3566b2984b264061a6794"
+    },
+    {
+      "path": "overrides/config/NoChatReports/NCR-Client.json",
+      "sha1": "1493c077473fe3f8a2216a24156d6ccab79de39a"
+    },
+    {
+      "path": "overrides/config/NoChatReports/NCR-Common.json",
+      "sha1": "6a83c8b806b818ae23a1976baa52bfc30436206a"
+    },
+    {
+      "path": "overrides/config/NoChatReports/NCR-Encryption.json",
+      "sha1": "c39b7586c81b8b8f81b3a6ea72475ba9e987d8a2"
+    },
+    {
+      "path": "overrides/config/NoChatReports/NCR-ServerPreferences.json",
+      "sha1": "3c04f45c210048b5e722b294dcc0d9f073374160"
+    },
+    {
+      "path": "overrides/config/NoChatReports/README.md",
+      "sha1": "75d98286a0aa3e180708523c8f582a2d23e590b3"
+    },
+    {
+      "path": "overrides/config/aeronautics-server.toml",
+      "sha1": "427bd55fa8cea09a79f6d00947cbca9944a36dd5"
+    },
+    {
+      "path": "overrides/config/alltheleaks.json",
+      "sha1": "0998feb77ff5864329a9eea9319407421994f051"
+    },
+    {
+      "path": "overrides/config/asynclogger.toml",
+      "sha1": "3b20df1f1a45a050bb0e1418ac1fe364a6b7cc12"
+    },
+    {
+      "path": "overrides/config/asyncparticles/asyncparticles-mixin.properties",
+      "sha1": "eadf31d93417362fd85d89c83625c279f1631829"
+    },
+    {
+      "path": "overrides/config/asyncparticles/asyncparticles.json",
+      "sha1": "4adefe8f8b78007d1af6610b5ce1332c3e95db2c"
+    },
+    {
+      "path": "overrides/config/badoptimizations.txt",
+      "sha1": "aff5e1434dd35e1349ef9ebb6a40148c71e7bab2"
+    },
+    {
+      "path": "overrides/config/better-advanced-tooltips-client.toml",
+      "sha1": "02b1eb43cb55013ca0316287eb7f2f88eaacf4fb"
+    },
+    {
+      "path": "overrides/config/better_log4j_config.xml",
+      "sha1": "2d7b094b121fda19dcb51abeaadf02eb87318ad7"
+    },
+    {
+      "path": "overrides/config/blueprint-client.toml",
+      "sha1": "2bab8e61f7c200f2177cee32758a8a877b023ce6"
+    },
+    {
+      "path": "overrides/config/blueprint-common.toml",
+      "sha1": "4732623baf36bcf3091f3fd2a75f6d989aaeda87"
+    },
+    {
+      "path": "overrides/config/c2me.toml",
+      "sha1": "4982bf96f31f04b80bd0214654c3ea3e33a20828"
+    },
+    {
       "path": "overrides/config/caverns_and_chasms-client.toml",
       "sha1": "7c404a68c27b98e64652ce8cc233884b534af3ca"
     },
@@ -453,6 +521,14 @@
       "sha1": "dd444d27c28d24dfd15901b483a568e18af166a9"
     },
     {
+      "path": "overrides/config/creaturefeature-client.toml",
+      "sha1": "90e29eef2b2f394ae10f3d30e40cb29737bb4412"
+    },
+    {
+      "path": "overrides/config/creaturefeature-server.toml",
+      "sha1": "28569a2321459df311353020a80ddcca7d9cce98"
+    },
+    {
       "path": "overrides/config/declutterui-common.toml",
       "sha1": "539442c63dd332f232fdcd2f0871d27d59e5d736"
     },
@@ -477,8 +553,64 @@
       "sha1": "47f12bc9d15cdca075a06c5ba8c680a331283099"
     },
     {
+      "path": "overrides/config/entityculling.json",
+      "sha1": "71d872172923ba0b593d8654bfd596f9520ddc8b"
+    },
+    {
       "path": "overrides/config/experience_obliterator.json",
       "sha1": "b232faac484f52decfc05f4f6d5b32bdf9060bde"
+    },
+    {
+      "path": "overrides/config/exposure-client.toml",
+      "sha1": "26d098ff16aa7fa5421ed77e0d8b046bcecc9387"
+    },
+    {
+      "path": "overrides/config/exposure-common.toml",
+      "sha1": "403cc66232153f39ff35d6c420fbe77d99f61c7f"
+    },
+    {
+      "path": "overrides/config/exposure-server.toml",
+      "sha1": "caf8c717995367850ecee88d695a8807d71f0bad"
+    },
+    {
+      "path": "overrides/config/fabric/indigo-renderer.properties",
+      "sha1": "df439a0e03ffcac7110dc371883fb2142b42fcba"
+    },
+    {
+      "path": "overrides/config/farmersdelight-client.toml",
+      "sha1": "376d9f84ec76953b4cd907387f4fc55069350250"
+    },
+    {
+      "path": "overrides/config/farmersdelight-common.toml",
+      "sha1": "7600f1899a7704d0cc4f0a81f4694b8c47026bcf"
+    },
+    {
+      "path": "overrides/config/ferritecore-mixin.toml",
+      "sha1": "a8af962ea8f0698377dba96a722ce21dedcde8cc"
+    },
+    {
+      "path": "overrides/config/flywheel-client.toml",
+      "sha1": "186af33b18709c2a60dd27a2619ca585fefc306a"
+    },
+    {
+      "path": "overrides/config/fml.toml",
+      "sha1": "5448b202d300702f6b654b522bbd2c39743702c0"
+    },
+    {
+      "path": "overrides/config/fzzy_config/keybinds.toml",
+      "sha1": "f808afa706d9a4934612b20e1efd513416a0e8f1"
+    },
+    {
+      "path": "overrides/config/galena_hats.json",
+      "sha1": "812a1b5b12d79b7397d09c4722904a772ef0ec42"
+    },
+    {
+      "path": "overrides/config/get_creative-startup.toml",
+      "sha1": "f948bf243755716a4565310c6019be2e0e3f9c68"
+    },
+    {
+      "path": "overrides/config/global_packs.toml",
+      "sha1": "9587e77b1d388801cef80bbde5e968fe0d463b34"
     },
     {
       "path": "overrides/config/grindenchantments/client.json",
@@ -487,6 +619,18 @@
     {
       "path": "overrides/config/grindenchantments/server.json",
       "sha1": "31254b153a4b80058f6167eabd0e1c7f6b9e19ff"
+    },
+    {
+      "path": "overrides/config/immediatelyfast.json",
+      "sha1": "9005fdfb4eeaa64cf158b244b263aa5347d03db0"
+    },
+    {
+      "path": "overrides/config/immersive_optimization.json",
+      "sha1": "7087f9ff0116afe5b7dc40e532c02955ef5149a3"
+    },
+    {
+      "path": "overrides/config/ixeris.toml",
+      "sha1": "b8c007109144f51b3cdc4ce33ffd2fa1d2d270be"
     },
     {
       "path": "overrides/config/jade/hide-blocks.json",
@@ -509,12 +653,76 @@
       "sha1": "93e793655088209f59258ee44ca9e8927b1e5993"
     },
     {
+      "path": "overrides/config/jasione.toml",
+      "sha1": "3f5e1d58736e689806eb67138ae643d4869fbadb"
+    },
+    {
+      "path": "overrides/config/jei/blacklist.json",
+      "sha1": "a8a4458dce77bc89e82e71719ad2cc14b2739d39"
+    },
+    {
+      "path": "overrides/config/jei/client/default/jei-client.ini",
+      "sha1": "1cf86d58fe30df29245c6bdeaea7deb3c34869ce"
+    },
+    {
+      "path": "overrides/config/jei/client/default/jei-colors.ini",
+      "sha1": "a0b5388f559355560719adc93408da864a72d3e8"
+    },
+    {
+      "path": "overrides/config/jei/client/default/jei-debug.ini",
+      "sha1": "21114b8d222eb2a62d43404e1496664037119b8d"
+    },
+    {
+      "path": "overrides/config/jei/client/default/jei-mod-id-format.ini",
+      "sha1": "a78ca513a5da04416aff948ed306253b15a2710a"
+    },
+    {
+      "path": "overrides/config/jei/client/recipe-category-sort-order.ini",
+      "sha1": "e90a1e649d482e35036bed656bd2a8bdec632db4"
+    },
+    {
+      "path": "overrides/config/jei/server/world/default/jei-server.ini",
+      "sha1": "e8b195526ded143c1666adfab8f11f4015c5c911"
+    },
+    {
+      "path": "overrides/config/kerria.json",
+      "sha1": "e92dc4643a44d69f695a7d890f7d3d5b242ab692"
+    },
+    {
+      "path": "overrides/config/krypton_fnp.yaml",
+      "sha1": "baefba3666c5470f1f445864cd93a06af3efdd86"
+    },
+    {
       "path": "overrides/config/lambdynlights.toml",
       "sha1": "a8bb06d6e668b9e678563d77977d5f3731e34959"
     },
     {
+      "path": "overrides/config/lithium.properties",
+      "sha1": "38f2993a7d80d0a6a25eb6182bd6898af24a16eb"
+    },
+    {
       "path": "overrides/config/localizedchat-common.toml",
       "sha1": "96b2f0d1c6745d706b0ea4a52cb93595c6455541"
+    },
+    {
+      "path": "overrides/config/mezz_config/client/default/settings.ini",
+      "sha1": "1f22cd48de02f98b8deda413d9f51a9b520e787c"
+    },
+    {
+      "path": "overrides/config/mixed_litter-startup.toml",
+      "sha1": "c50169f79757d41c249a426c56e581b8a25791a2"
+    },
+    {
+      "path": "overrides/config/modelfix-client.toml",
+      "sha1": "e5dbd8ee9d534eb28c70b8e56a45baa33f15f1d5"
+    },
+    {
+      "path": "overrides/config/modernfix-common.toml",
+      "sha1": "67d29a1db4c6d7d97b4912e5ef3aae34347d3e38"
+    },
+    {
+      "path": "overrides/config/modernfix-mixins.properties",
+      "sha1": "3df1a5d1b40d5db1291c4a507f34353bc2a408f1"
     },
     {
       "path": "overrides/config/modestmining-common.toml",
@@ -525,8 +733,24 @@
       "sha1": "99f2707b46cd7e88eaa8fec13d5b6182a6db1f6b"
     },
     {
+      "path": "overrides/config/moreculling.toml",
+      "sha1": "0700962f9731f2c9689263e6c25db710668c6df4"
+    },
+    {
       "path": "overrides/config/naturaltemperature-common.toml",
       "sha1": "419fc523ec90eda646181789c3ce9d7715b29fb6"
+    },
+    {
+      "path": "overrides/config/neoforge-client.toml",
+      "sha1": "90754349a7bc416f9242df9a24b821d8beccc15d"
+    },
+    {
+      "path": "overrides/config/neoforge-common.toml",
+      "sha1": "5a9caac83eb118eaf22abc37389f7b743e475fe1"
+    },
+    {
+      "path": "overrides/config/neoforge-server.toml",
+      "sha1": "6e589499975366719134967e8ad049ee10d8caac"
     },
     {
       "path": "overrides/config/nomansland-client.toml",
@@ -539,6 +763,270 @@
     {
       "path": "overrides/config/nomansland-startup.toml",
       "sha1": "3cadc314a7670122172bb760631912b958c2ed01"
+    },
+    {
+      "path": "overrides/config/notenoughanimations.json",
+      "sha1": "94adfc50f01a8c0719b38b1c55818984ee8831a8"
+    },
+    {
+      "path": "overrides/config/offroad-server.toml",
+      "sha1": "1dc8951f873e490ae81989d878cb8b5101455d49"
+    },
+    {
+      "path": "overrides/config/packdev_toolkit.json",
+      "sha1": "9f398c11292edc43193b8cba128258a0981fd949"
+    },
+    {
+      "path": "overrides/config/packetfixer.properties",
+      "sha1": "fe2103ea79fdcb1b1ea366d426a9b04933fe929f"
+    },
+    {
+      "path": "overrides/config/peeping_angels-common.toml",
+      "sha1": "ea1a085f56d7437b2909b0f50429617799974b77"
+    },
+    {
+      "path": "overrides/config/plasmovoice/.crowdin/cs_cz.json",
+      "sha1": "80ef270dab711e22c4ec378c006422e99303bf22"
+    },
+    {
+      "path": "overrides/config/plasmovoice/.crowdin/de_de.json",
+      "sha1": "9dbbe34f84e9d012d51f60c0a8435b260fbdc1ad"
+    },
+    {
+      "path": "overrides/config/plasmovoice/.crowdin/es_es.json",
+      "sha1": "b96432c33123aace28c9915579f2b7e5c841cbea"
+    },
+    {
+      "path": "overrides/config/plasmovoice/.crowdin/fr_fr.json",
+      "sha1": "ce0e6afc2309001b897ce9ae95e331325c7a48ed"
+    },
+    {
+      "path": "overrides/config/plasmovoice/.crowdin/he_il.json",
+      "sha1": "27fbec3263443459086ed7556fb7dc463eba65b4"
+    },
+    {
+      "path": "overrides/config/plasmovoice/.crowdin/ja_jp.json",
+      "sha1": "5bf821028b49c9396d3766f34d39e557abfd5536"
+    },
+    {
+      "path": "overrides/config/plasmovoice/.crowdin/ko_kr.json",
+      "sha1": "c75949dcf2d5e543028e3e5da6e7e6782a528e0b"
+    },
+    {
+      "path": "overrides/config/plasmovoice/.crowdin/pl_pl.json",
+      "sha1": "c0d0daedffbb23aa03c45171fa6a38eb47d81f70"
+    },
+    {
+      "path": "overrides/config/plasmovoice/.crowdin/pt_br.json",
+      "sha1": "ed7f5e2c77800a714130a1b4b1cb61d51ba7996f"
+    },
+    {
+      "path": "overrides/config/plasmovoice/.crowdin/ru_ru.json",
+      "sha1": "4c1fcc29b549fb6e7846c3f40a4e7b6fc0fb8253"
+    },
+    {
+      "path": "overrides/config/plasmovoice/.crowdin/sr_sp.json",
+      "sha1": "4684ad7158bddec0087bc51bfb22c2578b98172f"
+    },
+    {
+      "path": "overrides/config/plasmovoice/.crowdin/timestamp",
+      "sha1": "097aa7ade98c98fc5d53dbe18a89a98afdc5d4f0"
+    },
+    {
+      "path": "overrides/config/plasmovoice/.crowdin/tr_tr.json",
+      "sha1": "b99de0bde19b8f5578262fa6e4c6d9cf2b216d61"
+    },
+    {
+      "path": "overrides/config/plasmovoice/.crowdin/tt_ru.json",
+      "sha1": "340e7fe1b0ef87fceeac610b69075e6f9703e153"
+    },
+    {
+      "path": "overrides/config/plasmovoice/.crowdin/uk_ua.json",
+      "sha1": "467cf07734329628ba17e17c78e2b958ba770166"
+    },
+    {
+      "path": "overrides/config/plasmovoice/.crowdin/vi_vn.json",
+      "sha1": "2c54dc1185c13c49ed97703496ed082988716a35"
+    },
+    {
+      "path": "overrides/config/plasmovoice/.crowdin/zh_cn.json",
+      "sha1": "e47cd96507b3f18a08ef1d9d728c7b5a77bc8ab4"
+    },
+    {
+      "path": "overrides/config/plasmovoice/.crowdin/zh_tw.json",
+      "sha1": "a43069933e0467d3aaa134323411033feba1908b"
+    },
+    {
+      "path": "overrides/config/plasmovoice/client.toml",
+      "sha1": "2c4fa5f206486d7c5f91cec14317f940576f0ca9"
+    },
+    {
+      "path": "overrides/config/plasmovoice/meta_cache.json",
+      "sha1": "db35a4bf1b0f92c8aaa343cce1994a0ec9c38176"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/config.toml",
+      "sha1": "098c2a1477feca1a53dc1327af399a2bc705fa57"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/.crowdin/cs_cz.toml",
+      "sha1": "01a2944a87e1e5da3ff4872321b9cea705d80da7"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/.crowdin/de_de.toml",
+      "sha1": "e4750f54f66a69502befa31c91d17f14ff4b0170"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/.crowdin/es_es.toml",
+      "sha1": "f3d0a48cf500a83b15127d46ec4c820313568d4f"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/.crowdin/fr_fr.toml",
+      "sha1": "47a14d2e2defb9311d8767ea4e2fd96e56d8099c"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/.crowdin/he_il.toml",
+      "sha1": "37f952c9737eb17cb600c10967d7338920a62865"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/.crowdin/ja_jp.toml",
+      "sha1": "3b8ae72b73460301786027c694c8ccdfe431d13b"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/.crowdin/ko_kr.toml",
+      "sha1": "53db0bd05c9ba2b1c302d76695c780b92b780727"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/.crowdin/pl_pl.toml",
+      "sha1": "643a7bf713721276c671d0aa6f94208bad71f1df"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/.crowdin/pt_br.toml",
+      "sha1": "3ec4902eeb00b711e29f60719d4b225d4ab144a2"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/.crowdin/ru_ru.toml",
+      "sha1": "a4947889bdb7366d2e9d890a2b1d16857f406fa1"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/.crowdin/sr_sp.toml",
+      "sha1": "8e27071f5477ee29132b779bdfdae73bddea067f"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/.crowdin/timestamp",
+      "sha1": "2af3abd6ae45c8cac0062ea8f98e4cfe8809cc42"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/.crowdin/tr_tr.toml",
+      "sha1": "5903fb2c2d0161e8c88b72fa8dd41905368c6b88"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/.crowdin/tt_ru.toml",
+      "sha1": "8b07478af298be9244edca8ff155fbfec9694b3c"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/.crowdin/uk_ua.toml",
+      "sha1": "fa9f6b2a461728f09e58a18475a9b7d7c7f660e4"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/.crowdin/vi_vn.toml",
+      "sha1": "78ca8c0797357ba1d8529dc2e3600da68e21aab2"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/.crowdin/zh_cn.toml",
+      "sha1": "b612d0c728e5b17172aa6a9a6c3eed88c420e540"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/.crowdin/zh_tw.toml",
+      "sha1": "a0c399b692606034bb1e137d209233761a41cb57"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/cs_cz.toml",
+      "sha1": "7d83f44357b7c0c13abba6517102244af6cb0cc3"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/de_de.toml",
+      "sha1": "3dcc843533fdbbf020f809a928eaaba5f1093e9c"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/en_us.toml",
+      "sha1": "4a45b87f0c25709382de439bad2181a988652033"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/es_es.toml",
+      "sha1": "ce783516b46c8da21fa4773e91ff87484b13fd5f"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/fr_fr.toml",
+      "sha1": "48b348a32931a9155e53b4501127a6e5db7c672e"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/he_il.toml",
+      "sha1": "ce41ad6f3d493ec9dba6a6fe9b36f6f1503d192c"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/ja_jp.toml",
+      "sha1": "b0ab89bf73180ebe779a58a020caa8053392985f"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/ko_kr.toml",
+      "sha1": "ecf2220e1ec13ebb3624a789d766b44512118d5a"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/pl_pl.toml",
+      "sha1": "10e92cb1c7c34a77cd80f3ad90ee94ee642f5347"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/pt_br.toml",
+      "sha1": "97fa78a86a249f99bdedbfffdf8e256e4d1c77f9"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/ru_ru.toml",
+      "sha1": "9d29ab1ef5a4dc12806589fbe31db4d4908123ec"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/sr_sp.toml",
+      "sha1": "95cac2a83860409b6fb20da3b8d8a1b29c96d2f3"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/tr_tr.toml",
+      "sha1": "85aadea23d31e089ea5d6d129de98ca594454aff"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/tt_ru.toml",
+      "sha1": "afdaa199fb46c3c5277df29031ad90328a487f97"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/uk_ua.toml",
+      "sha1": "4c2c41bf5b4314c218d101f966cff3034862a3b3"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/vi_vn.toml",
+      "sha1": "b1f7020c2f34381d6bbfcc2d366049e70ead06f9"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/zh_cn.toml",
+      "sha1": "cfd4de787ee2cb746864390f182e98f5b8142c58"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/languages/zh_tw.toml",
+      "sha1": "2bb9a6db1c99bf02e8ea85c43e6ecd9affe328e8"
+    },
+    {
+      "path": "overrides/config/plasmovoice/server/voice_mutes.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/ponder-client.toml",
+      "sha1": "deddc6f67e212577af0151dd6e0ddf7830a65d3e"
+    },
+    {
+      "path": "overrides/config/reliable_backpacks.json",
+      "sha1": "9b51526eed078e5e980fcb71c3f624784a0a821d"
+    },
+    {
+      "path": "overrides/config/reliable_recipes.json",
+      "sha1": "e5aac16ed27fb9595de76cdd20e25a9e223152b2"
     },
     {
       "path": "overrides/config/reliable_recipes/recipe_example.json.disabled",
@@ -565,6 +1053,10 @@
       "sha1": "785dea45d113319a0ac0040f2b0057b87dcf4d74"
     },
     {
+      "path": "overrides/config/reliable_replacer.json",
+      "sha1": "1133f4e856244f84d12c590f7672524cd4f98cb4"
+    },
+    {
       "path": "overrides/config/reliable_replacer/example_rules.json.disabled",
       "sha1": "cb1e1b638fdc9a3557de5c3319a3308942b7a27f"
     },
@@ -589,6 +1081,42 @@
       "sha1": "5a27f7efa5aa17b6d7c5087fa7e1f495817e9ac0"
     },
     {
+      "path": "overrides/config/remi/remi.json",
+      "sha1": "753bbf5be0502b1a7a36d93b428dca93299b31d0"
+    },
+    {
+      "path": "overrides/config/sable-client.toml",
+      "sha1": "e8f806b583ccda048e84a0bb6294e01968beea9e"
+    },
+    {
+      "path": "overrides/config/sable-common.toml",
+      "sha1": "00dc7fcbb01ea87c7020307e5481e174977f4d79"
+    },
+    {
+      "path": "overrides/config/sable-server.toml",
+      "sha1": "2ae72c8b6392b27c338bb2392ecf00733f032fe1"
+    },
+    {
+      "path": "overrides/config/sablejade-client.toml",
+      "sha1": "e1e08f16467b8c4fcbf39e97f8dea6c2e14eb787"
+    },
+    {
+      "path": "overrides/config/servercore/config.yml",
+      "sha1": "54d33d1cb3710bad3c2056925fd20838989f6a36"
+    },
+    {
+      "path": "overrides/config/servercore/optimizations.yml",
+      "sha1": "a906c6930e2224ea376c59d91739a6128dab42e6"
+    },
+    {
+      "path": "overrides/config/simulated-client.toml",
+      "sha1": "5ecd38c0dc2dc7245bbbb7ad0187a1196f816d2f"
+    },
+    {
+      "path": "overrides/config/simulated-server.toml",
+      "sha1": "1ab3343ed4a74008ad939c208a2536d7b3e79fe0"
+    },
+    {
       "path": "overrides/config/slag-common.toml",
       "sha1": "84fc0e3ee3cfc96db9978aacb719e880b59481b3"
     },
@@ -597,8 +1125,32 @@
       "sha1": "ec23ccbd526fef6cf3566608499629fdb0b260dd"
     },
     {
+      "path": "overrides/config/smart_particles/config.json",
+      "sha1": "00c0bed5197c0773b785b5b6e89762cc37ab2441"
+    },
+    {
+      "path": "overrides/config/sodium-mixins.properties",
+      "sha1": "5455463ee999b945c1cff8ae90f2b705e19fb86c"
+    },
+    {
       "path": "overrides/config/sodium-options.json",
       "sha1": "4276028e40cfe17b5668da800c558529f3700509"
+    },
+    {
+      "path": "overrides/config/sound_physics_remastered/occlusion.properties",
+      "sha1": "0c39bc1ec4b2ac839c49d38abbded87f25755eb8"
+    },
+    {
+      "path": "overrides/config/sound_physics_remastered/reflectivity.properties",
+      "sha1": "f535269c4173ed9c499611b9f595befc02d512cf"
+    },
+    {
+      "path": "overrides/config/sound_physics_remastered/sound_rates.properties",
+      "sha1": "6f922c50fbb755c76a8bf2d61a12085c91e7fe25"
+    },
+    {
+      "path": "overrides/config/sound_physics_remastered/soundphysics.properties",
+      "sha1": "f19e89b002596ede2b4b5a528ddb12180db6ac93"
     },
     {
       "path": "overrides/config/spicedcider-client.toml",
@@ -606,7 +1158,7 @@
     },
     {
       "path": "overrides/config/spicedcider-common.toml",
-      "sha1": "8b398566c76ba95e573af28ecfca6c9d1bc56e8d"
+      "sha1": "48b285a5e6b676cf73e01ad65dfa14dc1d39f592"
     },
     {
       "path": "overrides/config/spicedcider-startup.toml",
@@ -617,8 +1169,36 @@
       "sha1": "a852bd1e3b7bd058e65469ff21003d2b08940bc5"
     },
     {
+      "path": "overrides/config/tide/tide_client.json",
+      "sha1": "52faa62f42efd75fbf1a9731a2b849445c84e6c1"
+    },
+    {
+      "path": "overrides/config/tide/tide_server.json",
+      "sha1": "1e13f58cfb8d4f148b4c6ab6cfe587c802db29f0"
+    },
+    {
       "path": "overrides/config/tidybinds.toml",
       "sha1": "5ca11e48c49f532dc893d5d7bfdf1359d72f57ae"
+    },
+    {
+      "path": "overrides/config/tolerable_creepers.json",
+      "sha1": "8d614ab149336c5d0af60d8d39bdfb311b8bdfb4"
+    },
+    {
+      "path": "overrides/config/transition.json",
+      "sha1": "8b50cd4b9956dc3443acd38e47f80e23ff7712f5"
+    },
+    {
+      "path": "overrides/config/trender.json",
+      "sha1": "1ecd2edb27bfbc69f24e0cd52d3a22f98bdce8f0"
+    },
+    {
+      "path": "overrides/config/tt20/block_entity_mask.json",
+      "sha1": "748eca32e260f7fab8bf3805a665add7a0108dec"
+    },
+    {
+      "path": "overrides/config/tt20/config.json",
+      "sha1": "a6e7c1578461bbfc4b715a1a7e0af3d0b7cd3b6c"
     },
     {
       "path": "overrides/config/vanillabackport-client.toml",
@@ -639,6 +1219,14 @@
     {
       "path": "overrides/config/wishfulrecipes.json",
       "sha1": "a2ecb41979d3513b2ad4c84fbcf34c1d6066ad57"
+    },
+    {
+      "path": "overrides/config/yacl.json5",
+      "sha1": "622920f29084efcd3a8d0b2a0ea0756fece182d2"
+    },
+    {
+      "path": "overrides/config/zfastnoise.mixin.properties",
+      "sha1": "788e6eba28191177e0406a0c8b08f8e8379b0a07"
     },
     {
       "path": "overrides/data/fabricDefaultResourcePacks.dat",
@@ -695,6 +1283,14 @@
     {
       "path": "overrides/datapacks/OreFix/pack.png",
       "sha1": "02d1c4088f2485ead7fe2a780306a2a218e16755"
+    },
+    {
+      "path": "overrides/defaultconfigs/biolith/general.json",
+      "sha1": "67fc13adf7658431900e6a4a8c686644764dfb1e"
+    },
+    {
+      "path": "overrides/icon.png",
+      "sha1": "5a72150d4f7f30503eb3acc4c246ef6207bf4008"
     },
     {
       "path": "overrides/kubejs/README.txt",
@@ -945,203 +1541,123 @@
       "sha1": "b85de4b2735450ed3f4b34ff138ad8970464518d"
     },
     {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/ancient_nugget.png",
-      "sha1": "64ca55d0bf2242f159018e727d84a4fcb458fb01"
-    },
-    {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/brass_screw.png",
-      "sha1": "61a24a9a6fe9ca01c4719b468e6d4d7991f6feb0"
-    },
-    {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/brass_wire.png",
-      "sha1": "325e4479eb4dabd73f3535667dd541afaa805d60"
-    },
-    {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/crushed_ancient_scrap.png",
-      "sha1": "7cd14017f8f769fc55480efa62a86e4dbf6eabea"
-    },
-    {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/dirty_ancient_dust.png",
-      "sha1": "c801873d90869162678463a76ba5aec3cb8ad259"
-    },
-    {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/dirty_lead_dust.png",
-      "sha1": "c17a037449fba6ee4cef12f06c182195536b4101"
-    },
-    {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/dirty_silver_dust.png",
-      "sha1": "5689b0885c282249ad00b1bdd18fa6937c31dac7"
-    },
-    {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/dirty_tin_dust.png",
-      "sha1": "c801873d90869162678463a76ba5aec3cb8ad259"
-    },
-    {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/electrum_screw.png",
-      "sha1": "61a24a9a6fe9ca01c4719b468e6d4d7991f6feb0"
-    },
-    {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/electrum_sheet.png",
-      "sha1": "d49b2aea34c75a7a9bf92846b25dffe3577a3a37"
-    },
-    {
       "path": "overrides/kubejs/assets/kubejs/textures/item/eye_of_flames.png",
       "sha1": "057ac052a3a3bb7336eb98922e9d32366ea4039a"
     },
     {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/gold_screw.png",
+      "path": "overrides/kubejs/assets/kubejs/textures/item/jam_jar.png",
+      "sha1": "cb62548cabd791067ea6121b467e0c00223c165d"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/metals/ancient/ancient_nugget.png",
+      "sha1": "64ca55d0bf2242f159018e727d84a4fcb458fb01"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/metals/ancient/crushed_ancient_scrap.png",
+      "sha1": "7cd14017f8f769fc55480efa62a86e4dbf6eabea"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/metals/gold/gold_screw.png",
       "sha1": "61a24a9a6fe9ca01c4719b468e6d4d7991f6feb0"
     },
     {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/gold_wire.png",
+      "path": "overrides/kubejs/assets/kubejs/textures/item/metals/gold/gold_wire.png",
       "sha1": "325e4479eb4dabd73f3535667dd541afaa805d60"
     },
     {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/iron_screw.png",
-      "sha1": "61a24a9a6fe9ca01c4719b468e6d4d7991f6feb0"
-    },
-    {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/lead_screw.png",
-      "sha1": "61a24a9a6fe9ca01c4719b468e6d4d7991f6feb0"
-    },
-    {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/lead_sheet.png",
-      "sha1": "704f781130a17c82bb9d646727c407bef402568e"
-    },
-    {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/lead_wire.png",
-      "sha1": "325e4479eb4dabd73f3535667dd541afaa805d60"
-    },
-    {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/netherite_screw.png",
-      "sha1": "61a24a9a6fe9ca01c4719b468e6d4d7991f6feb0"
-    },
-    {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/netherite_sheet.png",
-      "sha1": "c232df3fa62d033dd1028cd8af9044ac3c0a925e"
-    },
-    {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/netherite_wire.png",
-      "sha1": "325e4479eb4dabd73f3535667dd541afaa805d60"
-    },
-    {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/prismarite_screw.png",
-      "sha1": "61a24a9a6fe9ca01c4719b468e6d4d7991f6feb0"
-    },
-    {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/prismarite_sheet.png",
-      "sha1": "c232df3fa62d033dd1028cd8af9044ac3c0a925e"
-    },
-    {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/prismarite_wire.png",
-      "sha1": "325e4479eb4dabd73f3535667dd541afaa805d60"
-    },
-    {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/raw_copper_nugget.png",
-      "sha1": "2a510a5680891c66e6dd1751dc46a88ab6179042"
-    },
-    {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/raw_gold_nugget.png",
+      "path": "overrides/kubejs/assets/kubejs/textures/item/metals/gold/raw_gold_nugget.png",
       "sha1": "c23d1e87aa1780b78b6178f2fe738a8ba40d95aa"
     },
     {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/raw_iron_nugget.png",
+      "path": "overrides/kubejs/assets/kubejs/textures/item/metals/iron/iron_screw.png",
+      "sha1": "61a24a9a6fe9ca01c4719b468e6d4d7991f6feb0"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/metals/iron/raw_iron_nugget.png",
       "sha1": "b9229f56d8f79759df30f3a91ed0e9ebc8dbd399"
     },
     {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/raw_lead_nugget.png",
-      "sha1": "64ca55d0bf2242f159018e727d84a4fcb458fb01"
-    },
-    {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/raw_silver_nugget.png",
-      "sha1": "64ca55d0bf2242f159018e727d84a4fcb458fb01"
-    },
-    {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/raw_tin_nugget.png",
-      "sha1": "64ca55d0bf2242f159018e727d84a4fcb458fb01"
-    },
-    {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/raw_tungsten.png",
-      "sha1": "557937ddd17a93b2133a21bb814146612d66390d"
-    },
-    {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/raw_tungsten_nugget.png",
-      "sha1": "64ca55d0bf2242f159018e727d84a4fcb458fb01"
-    },
-    {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/raw_zinc_nugget.png",
-      "sha1": "259f75343dde103e1541f12c9883a8a31281b82a"
-    },
-    {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/rose_gold_screw.png",
+      "path": "overrides/kubejs/assets/kubejs/textures/item/metals/lead/lead_screw.png",
       "sha1": "61a24a9a6fe9ca01c4719b468e6d4d7991f6feb0"
     },
     {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/rose_gold_sheet.png",
-      "sha1": "c232df3fa62d033dd1028cd8af9044ac3c0a925e"
+      "path": "overrides/kubejs/assets/kubejs/textures/item/metals/lead/lead_sheet.png",
+      "sha1": "704f781130a17c82bb9d646727c407bef402568e"
     },
     {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/rose_gold_wire.png",
+      "path": "overrides/kubejs/assets/kubejs/textures/item/metals/lead/lead_wire.png",
       "sha1": "325e4479eb4dabd73f3535667dd541afaa805d60"
     },
     {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/silver_dust.png",
+      "path": "overrides/kubejs/assets/kubejs/textures/item/metals/lead/raw_lead_nugget.png",
+      "sha1": "64ca55d0bf2242f159018e727d84a4fcb458fb01"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/metals/silver/raw_silver_nugget.png",
+      "sha1": "64ca55d0bf2242f159018e727d84a4fcb458fb01"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/metals/silver/silver_dust.png",
       "sha1": "f725316a84565a864425002ca1011c267c1cc0af"
     },
     {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/silver_screw.png",
+      "path": "overrides/kubejs/assets/kubejs/textures/item/metals/silver/silver_screw.png",
       "sha1": "61a24a9a6fe9ca01c4719b468e6d4d7991f6feb0"
     },
     {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/silver_sheet.png",
+      "path": "overrides/kubejs/assets/kubejs/textures/item/metals/silver/silver_sheet.png",
       "sha1": "c232df3fa62d033dd1028cd8af9044ac3c0a925e"
     },
     {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/silver_wire.png",
+      "path": "overrides/kubejs/assets/kubejs/textures/item/metals/silver/silver_wire.png",
       "sha1": "325e4479eb4dabd73f3535667dd541afaa805d60"
     },
     {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/tin_dust.png",
+      "path": "overrides/kubejs/assets/kubejs/textures/item/metals/tin/raw_tin_nugget.png",
+      "sha1": "64ca55d0bf2242f159018e727d84a4fcb458fb01"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/metals/tin/tin_dust.png",
       "sha1": "8e89fc725b3c170c494ed060679390a7153bdd33"
     },
     {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/tin_screw.png",
+      "path": "overrides/kubejs/assets/kubejs/textures/item/metals/tin/tin_screw.png",
       "sha1": "61a24a9a6fe9ca01c4719b468e6d4d7991f6feb0"
     },
     {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/tin_sheet.png",
+      "path": "overrides/kubejs/assets/kubejs/textures/item/metals/tin/tin_sheet.png",
       "sha1": "c232df3fa62d033dd1028cd8af9044ac3c0a925e"
     },
     {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/tin_wire.png",
+      "path": "overrides/kubejs/assets/kubejs/textures/item/metals/tin/tin_wire.png",
       "sha1": "325e4479eb4dabd73f3535667dd541afaa805d60"
     },
     {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/tungsten_screw.png",
+      "path": "overrides/kubejs/assets/kubejs/textures/item/metals/tungsten/raw_tungsten.png",
+      "sha1": "557937ddd17a93b2133a21bb814146612d66390d"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/metals/tungsten/raw_tungsten_nugget.png",
+      "sha1": "64ca55d0bf2242f159018e727d84a4fcb458fb01"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/metals/tungsten/tungsten_screw.png",
       "sha1": "61a24a9a6fe9ca01c4719b468e6d4d7991f6feb0"
     },
     {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/unfired_ingot_mold.png",
-      "sha1": "0e183503abe325ca1effd10263b1db6b15c0ef16"
+      "path": "overrides/kubejs/assets/kubejs/textures/item/metals/zinc/raw_zinc_nugget.png",
+      "sha1": "259f75343dde103e1541f12c9883a8a31281b82a"
     },
     {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/unfired_nugget_mold.png",
-      "sha1": "cc12dadcb35f75df975cdbe82e52d402adc05e3b"
-    },
-    {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/unfired_plate_mold.png",
-      "sha1": "e50054c1121ae214767a6f04c573e4a3ff17e080"
-    },
-    {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/zinc_screw.png",
+      "path": "overrides/kubejs/assets/kubejs/textures/item/metals/zinc/zinc_screw.png",
       "sha1": "61a24a9a6fe9ca01c4719b468e6d4d7991f6feb0"
     },
     {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/zinc_sheet.png",
+      "path": "overrides/kubejs/assets/kubejs/textures/item/metals/zinc/zinc_sheet.png",
       "sha1": "c232df3fa62d033dd1028cd8af9044ac3c0a925e"
     },
     {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/zinc_wire.png",
+      "path": "overrides/kubejs/assets/kubejs/textures/item/metals/zinc/zinc_wire.png",
       "sha1": "325e4479eb4dabd73f3535667dd541afaa805d60"
     },
     {
@@ -1746,7 +2262,7 @@
     },
     {
       "path": "overrides/kubejs/startup_scripts/fluid_registry.js",
-      "sha1": "a58051c07357172485768b3511e586cd42a0b4f7"
+      "sha1": "53e85c35cbc78c7505f696b0a7dae83f1767fba1"
     },
     {
       "path": "overrides/kubejs/startup_scripts/heat_levels.js",
@@ -1799,6 +2315,110 @@
     {
       "path": "overrides/kubejs/unused_scripts/startup/food.js",
       "sha1": "d99ecfecedd6b65ae9c96b7348ff9996764d2460"
+    },
+    {
+      "path": "overrides/packdev_toolkit_resource_pack/assets/culturaldelights/textures/item/apple_cider.png",
+      "sha1": "f5ecb042b7efc1afcd6b8f76a07327d5e807dc2f"
+    },
+    {
+      "path": "overrides/packdev_toolkit_resource_pack/assets/culturaldelights/textures/item/beer.png",
+      "sha1": "493a3d8f7a90ad51dc43649ac164cdf74f48bfe2"
+    },
+    {
+      "path": "overrides/packdev_toolkit_resource_pack/assets/culturaldelights/textures/item/bloody_mary.png",
+      "sha1": "be694cc062b5d18fffbfc35b495f92d1f3036cd0"
+    },
+    {
+      "path": "overrides/packdev_toolkit_resource_pack/assets/culturaldelights/textures/item/brandy.png",
+      "sha1": "6d8ba56acc6d76010e7ecffbe5a81b3807df75fd"
+    },
+    {
+      "path": "overrides/packdev_toolkit_resource_pack/assets/culturaldelights/textures/item/cola.png",
+      "sha1": "dcb1ee1ebdad2d25ec5c174e967bc4c7abd5c769"
+    },
+    {
+      "path": "overrides/packdev_toolkit_resource_pack/assets/culturaldelights/textures/item/gin.png",
+      "sha1": "49eba4f127c61be9dd437bc3c30b0529b1e6e1d3"
+    },
+    {
+      "path": "overrides/packdev_toolkit_resource_pack/assets/culturaldelights/textures/item/ginger.png",
+      "sha1": "8f62f26c80f35ecaca1fdebd957ae2a098c3902c"
+    },
+    {
+      "path": "overrides/packdev_toolkit_resource_pack/assets/culturaldelights/textures/item/ginger_beer.png",
+      "sha1": "14d8af2904dbac08027d1033229c701ef89ed2b8"
+    },
+    {
+      "path": "overrides/packdev_toolkit_resource_pack/assets/culturaldelights/textures/item/glow_wine.png",
+      "sha1": "177b3df7968a1b01a8ec7f0e31fa6e746f46e2cd"
+    },
+    {
+      "path": "overrides/packdev_toolkit_resource_pack/assets/culturaldelights/textures/item/ice_cream.png",
+      "sha1": "b9d1f878fcbbc5a9c0454196094e07a62778a84c"
+    },
+    {
+      "path": "overrides/packdev_toolkit_resource_pack/assets/culturaldelights/textures/item/lemon_liqueur.png",
+      "sha1": "48fb89c9df862ef70ae05e63b1fb179d6dacd19f"
+    },
+    {
+      "path": "overrides/packdev_toolkit_resource_pack/assets/culturaldelights/textures/item/lemonade.png",
+      "sha1": "877f23a69460ce40df315f66f5b0c66efba5115d"
+    },
+    {
+      "path": "overrides/packdev_toolkit_resource_pack/assets/culturaldelights/textures/item/margarita.png",
+      "sha1": "5448f91941384680a9be6307361e5bcac89dadec"
+    },
+    {
+      "path": "overrides/packdev_toolkit_resource_pack/assets/culturaldelights/textures/item/mead.png",
+      "sha1": "d1bb11dca7711d72428127ccab5f7dffa733d05f"
+    },
+    {
+      "path": "overrides/packdev_toolkit_resource_pack/assets/culturaldelights/textures/item/mojito.png",
+      "sha1": "d103bec0c8d4ebd42ed9a44f8ee7cd23026fe3c3"
+    },
+    {
+      "path": "overrides/packdev_toolkit_resource_pack/assets/culturaldelights/textures/item/rum.png",
+      "sha1": "14bfa3dbaaffd2b83d28d160d1c803e9bdb408e7"
+    },
+    {
+      "path": "overrides/packdev_toolkit_resource_pack/assets/culturaldelights/textures/item/tequila.png",
+      "sha1": "28e548d99b03c306b5037034b36bd4be09226220"
+    },
+    {
+      "path": "overrides/packdev_toolkit_resource_pack/assets/culturaldelights/textures/item/vinegar.png",
+      "sha1": "ba0a6eaeca490696e8cd22c7f723aaa25e4b465e"
+    },
+    {
+      "path": "overrides/packdev_toolkit_resource_pack/assets/culturaldelights/textures/item/vodka.png",
+      "sha1": "2c06bd6eacc0c1b0f8f2fdea555681c8ed7c32f7"
+    },
+    {
+      "path": "overrides/packdev_toolkit_resource_pack/assets/culturaldelights/textures/item/whiskey.png",
+      "sha1": "16ee485c924498e96a14945df250d09e45ffe76a"
+    },
+    {
+      "path": "overrides/packdev_toolkit_resource_pack/assets/culturaldelights/textures/item/wine.png",
+      "sha1": "d804e7e39c04ea8be16bd990a04bf49f03b005d1"
+    },
+    {
+      "path": "overrides/packdev_toolkit_resource_pack/assets/farmersdelight/textures/item/apple_cider.png",
+      "sha1": "2bfb25e52a032b14bb8e855b1d8e5d12b87bb068"
+    },
+    {
+      "path": "overrides/packdev_toolkit_resource_pack/assets/farmersdelight/textures/item/glow_berry_custard.png",
+      "sha1": "933446ccfccaf2165d4384ba50b0cc5904432516"
+    },
+    {
+      "path": "overrides/packdev_toolkit_resource_pack/assets/farmersdelight/textures/item/melon_juice.png",
+      "sha1": "8ce911b029c2dd9b4b0e84a2336db3dd6a376f47"
+    },
+    {
+      "path": "overrides/packdev_toolkit_resource_pack/assets/nomansland/textures/item/pear_jelly.png",
+      "sha1": "cb62548cabd791067ea6121b467e0c00223c165d"
+    },
+    {
+      "path": "overrides/packdev_toolkit_resource_pack/assets/nomansland/textures/item/pear_juice.png",
+      "sha1": "2bb1f36fba8f3bf6fc17f014aab55b59e282d2f2"
     },
     {
       "path": "overrides/packweaver.jar",

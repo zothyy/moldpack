@@ -75,6 +75,8 @@
 	paleGardenPlants = true
 	#Sniffers can dig up golden dandelions. Requires Tiny Takeover Backport. Takes effect after /reload.
 	snifferGoldenDandelions = true
+	#Mining an ore also drops the stone it sits in, such as deepslate or netherrack. Takes effect after /reload.
+	oreStoneDrops = false
 
 	[features.gameplay]
 		#Beds don't explode outside the Overworld; instead they show a message and wake sleeping villagers.
