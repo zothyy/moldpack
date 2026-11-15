@@ -1,0 +1,10 @@
+{
+  "name": "moldpack",
+  "version": "0.0.1",
+  "minecraft": "1.21.1",
+  "loader": "neoforge",
+  "loaderVersion": "21.1.265",
+  "channel": "alpha",
+  "datapacks": "datapacks",
+  "formatVersion": 1
+}
