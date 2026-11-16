@@ -16,7 +16,7 @@
 - [Biolith](https://modrinth.com/project/biolith) `3.0.14`
 - [Blueprint](https://modrinth.com/project/blueprint) `8.2.0`
 - [Caverns & Chasms](https://modrinth.com/project/caverns-and-chasms) `3.0.1`
-- [Cider Core](https://modrinth.com/project/cider-core) `1.13.3+1.21.1`
+- [Cider Core](https://modrinth.com/project/cider-core) `1.13.5+1.21.1`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.124+1.21.1`
 - [Crawl on Demand](https://modrinth.com/project/crawl-on-demand) `1.21-1.21.5-1.2.0+neoforge`
@@ -45,7 +45,7 @@
 - [Gentler Rain Sounds](https://modrinth.com/project/gentler-rain-sounds) `1.2`
 - [Get Creative](https://modrinth.com/project/get-creative) `1.21.1-2.7`
 - [Global Packs](https://modrinth.com/project/globalpacks) `21.0.6`
-- [Gnetum](https://modrinth.com/project/gnetum) `3.3.6`
+- [Gnetum](https://modrinth.com/project/gnetum) `3.3.7`
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.15+1.21.1-neoforge`
 - [Immersive Optimization](https://modrinth.com/project/immersive-optimization) `0.2.0+1.21.1`
 - [Ixeris](https://modrinth.com/project/ixeris) `4.6.11+1.21.1-neoforge`
@@ -53,8 +53,8 @@
 - [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
 - [Jasione](https://modrinth.com/project/jasione) `1.0.9+1.21.1-neoforge`
 - [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.70.0.469`
-- [Kerria](https://modrinth.com/project/kerria-opt) `1.3.2+1.21.1-neoforge`
-- [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `5.12.0`
+- [Kerria](https://modrinth.com/project/kerria-opt) `1.4.0+1.21.1-neoforge`
+- [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `5.13.0`
 - [Krypton Reno](https://modrinth.com/project/krypton-fnp) `0.2.28.1-1.21.1`
 - [KubeJS](https://modrinth.com/project/kubejs) `2101.7.2-build.381`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
@@ -64,7 +64,7 @@
 - [Model Gap Fix](https://modrinth.com/project/modelfix) `1.21-1.10`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.27+mc1.21.1`
 - [Modest Mining](https://modrinth.com/project/modest-mining) `1.5.0-1.21.1`
-- [Modulation](https://modrinth.com/project/modulation) `4.0.7+1.21.1-neoforge`
+- [Modulation](https://modrinth.com/project/modulation) `4.0.8+1.21.1-neoforge`
 - [More Culling](https://modrinth.com/project/moreculling) `1.0.11`
 - [MoreJS: KubeJS Addon](https://modrinth.com/project/morejs) `1.21.1-0.16.0+neoforge`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
@@ -102,7 +102,7 @@
 - [Sun & Moon Fusion](https://modrinth.com/project/sun-moon-fusion) `2.1`
 - [Tide 2](https://modrinth.com/project/tide) `2.1.1`
 - [Tolerable Creepers](https://modrinth.com/project/tolerable-creepers) `2.3.0-1.21.1-neoforge`
-- [TT20 (TPS Fixer)](https://modrinth.com/project/tt20) `0.9.2`
+- [TT20 (TPS Fixer)](https://modrinth.com/project/tt20) `0.8.5`
 - [Vanilla Backport](https://modrinth.com/project/vanillabackport) `1.2.2`
 - [YetAnotherConfigLib (YACL)](https://modrinth.com/project/yacl) `3.8.2+1.21.1-neoforge`
 

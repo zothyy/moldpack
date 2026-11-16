@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "7MoE34WK",
       "slug": "gnetum",
-      "versionId": "zJLIzmi7",
-      "versionNumber": "3.3.6",
-      "filename": "gnetum-3.3.6.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/7MoE34WK/versions/zJLIzmi7/gnetum-3.3.6.jar",
-      "sha1": "d017e2bb57af33bb8985e759ac929289da05ea4d",
-      "sha512": "4a5efde1d9525cad773a5d1aa32a3d6734d2aee8c8e6894012b8244bb305eee823024b75eb6d3e140f075f3a254efc26efc4c5eb6f2ac390be96877686019f68",
-      "fileSize": 120726
+      "versionId": "3WifnKNy",
+      "versionNumber": "3.3.7",
+      "filename": "gnetum-3.3.7.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/7MoE34WK/versions/3WifnKNy/gnetum-3.3.7.jar",
+      "sha1": "c71f592fc679664d497518ca6cb6762460a2426f",
+      "sha512": "15b8007782283b429662e0b4397b6827da5ffde536ab83efbf1fa578bf087968fef6bd0174c76468d955f8782b164f5c04e1becc22dd6012db52c9ce9f376d43",
+      "fileSize": 120890
     }
   },
   "dependents": [],

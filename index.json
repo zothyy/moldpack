@@ -50,7 +50,7 @@
     },
     {
       "path": "content/mods/cider-core.json",
-      "sha1": "e1e0fae5f7330fe6582f580aaf69875947acb7e4"
+      "sha1": "8d8e89cc884afd62029be58a4a6d1de7098b1389"
     },
     {
       "path": "content/mods/cloth-config.json",
@@ -150,7 +150,7 @@
     },
     {
       "path": "content/mods/gnetum.json",
-      "sha1": "5c788935341b87f32f87c6ff356ba2927b45eb01"
+      "sha1": "eff2aa46b410b22a5be51f9997e00a7cd62dd157"
     },
     {
       "path": "content/mods/immediatelyfast.json",
@@ -182,11 +182,11 @@
     },
     {
       "path": "content/mods/kerria-opt.json",
-      "sha1": "301b6e59bf250cacd532373c0098919a4c736160"
+      "sha1": "497111813ba97c7e7a5180fe428369ef03ed001c"
     },
     {
       "path": "content/mods/kotlin-for-forge.json",
-      "sha1": "4b07c9ffb156b676c971a07043d8cf2239408a8a"
+      "sha1": "e717a254026e45f5d0a079a79f708655d702d8f4"
     },
     {
       "path": "content/mods/krypton-fnp.json",
@@ -234,7 +234,7 @@
     },
     {
       "path": "content/mods/modulation.json",
-      "sha1": "d1cb84e6b0c2f7b3d8984367be0857713c6faa9b"
+      "sha1": "2005493e0aed776e20d07045ea74551281ce3a53"
     },
     {
       "path": "content/mods/moreculling.json",
@@ -382,7 +382,7 @@
     },
     {
       "path": "content/mods/tt20.json",
-      "sha1": "31bf3b0525740eae13c3850e878a997846d033a1"
+      "sha1": "56893e5bc2c57ba4b91b9cb90b9bc04535766d18"
     },
     {
       "path": "content/mods/vanillabackport.json",
