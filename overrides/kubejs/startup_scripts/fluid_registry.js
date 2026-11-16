@@ -6,7 +6,9 @@ StartupEvents.registry('fluid', event => {
   event.create('undistilled_ethanol', 'thick')
       .displayName('Undistilled Ethanol')
       .tint(0xFFFFFF)
-
+  event.create('life_blood', 'thick')
+      .displayName('Life Blood')
+      .tint(0xF0F1A3)
 
 // drinkse :>
   event.create('ginger_beer', 'thin')

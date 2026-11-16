@@ -110,10 +110,6 @@ StartupEvents.registry('block', event => {
 
 
  // prismarine
- event.create('prismarine')
- event.create(`prismarine_stairs`, 'stairs')
- event.create(`prismarine_slab`, 'slab')
- event.create(`prismarine_wall`, 'wall')
 
  event.create(`prismarine_tile_wall`, 'wall')
 

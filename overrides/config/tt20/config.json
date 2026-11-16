@@ -19,5 +19,6 @@
   "tnt-acceleration": false,
   "iframe-acceleration": true,
   "vanilla-lagback": true,
-  "automatic-updater": true
+  "automatic-updater": true,
+  "item-cooldown-acceleration": true
 }
