@@ -18,3 +18,5 @@ sulfurCavesRework = false
 brightCageLanterns = false
 #Uses the pack's own window and taskbar icon on Windows, including during loading. Requires a restart to take effect.
 customWindowIcon = false
+#EMI Discovery only filters the item index. Recipe and usage pages always show every item and workstation. Requires a restart to take effect.
+emiDiscoveryIndexOnly = false

@@ -87,16 +87,6 @@ ServerEvents.recipes(event => {
     )
 
 
-
-    event.shapeless(
-        Item.of('artistry:poster'),
-        [
-            'minecraft:paper',
-            'farmersdelight:canvas',
-            'minecraft:stick'
-        ]
-    )
-
     event.shapeless(
         Item.of('farmersdelight:stove'),
         [

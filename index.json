@@ -22,7 +22,7 @@
     },
     {
       "path": "content/mods/asyncparticles.json",
-      "sha1": "88580932bdcdfe1240cd67e1a68e790a0dd6786c"
+      "sha1": "8d47a63026c0d803cec06cbf3bee17d18d775161"
     },
     {
       "path": "content/mods/badoptimizations.json",
@@ -50,7 +50,7 @@
     },
     {
       "path": "content/mods/cider-core.json",
-      "sha1": "8d8e89cc884afd62029be58a4a6d1de7098b1389"
+      "sha1": "f40d416ec70675336192de49a747e9cffad82fff"
     },
     {
       "path": "content/mods/cloth-config.json",
@@ -178,7 +178,7 @@
     },
     {
       "path": "content/mods/jei.json",
-      "sha1": "728b1cc393544e50617a2cc56561fa98cad8c813"
+      "sha1": "a8523b79784ff43453949915aebfb2c17410cebd"
     },
     {
       "path": "content/mods/kerria-opt.json",
@@ -202,7 +202,7 @@
     },
     {
       "path": "content/mods/kubejs.json",
-      "sha1": "c45189ddddf20d59ebbd59a98865e3fac7009f49"
+      "sha1": "b8dbae83bdc65e0a20d4794cf63b629d50b81e2f"
     },
     {
       "path": "content/mods/lambdynamiclights.json",
@@ -234,7 +234,7 @@
     },
     {
       "path": "content/mods/modulation.json",
-      "sha1": "2005493e0aed776e20d07045ea74551281ce3a53"
+      "sha1": "0df7cddd09708ca09f22248b871b14293fb4becc"
     },
     {
       "path": "content/mods/moreculling.json",
@@ -262,7 +262,7 @@
     },
     {
       "path": "content/mods/no-chat-restrictions.json",
-      "sha1": "ba14800355bfee964406cda1d2d6d1ba21acac80"
+      "sha1": "fb7f06f8c3b81af494c44b94b3388f5bcd39bda3"
     },
     {
       "path": "content/mods/no-f3.json",
@@ -294,7 +294,7 @@
     },
     {
       "path": "content/mods/plasmo-voice.json",
-      "sha1": "bbd3b9fc5331f9525d8e04e5a7bc884536eb5918"
+      "sha1": "3fcffd9aeb80f0fc1b38b1c12f76d8f4c04c680c"
     },
     {
       "path": "content/mods/platform.json",
@@ -318,7 +318,7 @@
     },
     {
       "path": "content/mods/reliable-emi.json",
-      "sha1": "2b4670674f6b39d3f86ddd38cf00435c623efe0f"
+      "sha1": "8a3af73b37b30150c109d7a864edaf41a86c213b"
     },
     {
       "path": "content/mods/reliable-recipes.json",
@@ -326,11 +326,11 @@
     },
     {
       "path": "content/mods/reliable-remover.json",
-      "sha1": "d2401dbcd5e27768371b19f430f8bfa2b12a3b53"
+      "sha1": "17d6bb62584869f6f7c2cabee233782cc2f934d2"
     },
     {
       "path": "content/mods/reliable-replacer.json",
-      "sha1": "9a0e03b1b49b41029b5c80f179b303711610a71d"
+      "sha1": "1bbd0825d4dec048cdef58330eb4676035f11767"
     },
     {
       "path": "content/mods/rhino.json",
@@ -382,7 +382,7 @@
     },
     {
       "path": "content/mods/tt20.json",
-      "sha1": "2df15ad89577be42dcbd06cf6972d80188dd3f30"
+      "sha1": "c8f81a68b61f295a44de4d2d17a8f559ea66c842"
     },
     {
       "path": "content/mods/vanillabackport.json",
@@ -450,7 +450,7 @@
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles-mixin.properties",
-      "sha1": "25b12628a74c07a68b840b29059b8db614aa09e3"
+      "sha1": "2216ad732def5829f95072a1f47a2d5af2084a7f"
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles.json",
@@ -578,7 +578,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "9d20ee5db45938c3f78db2ddfada2936adf70201"
+      "sha1": "6e97205e19bc171aac82c09717a6c7235da6709a"
     },
     {
       "path": "overrides/config/farmersdelight-client.toml",
@@ -714,7 +714,7 @@
     },
     {
       "path": "overrides/config/mixed_litter-startup.toml",
-      "sha1": "c50169f79757d41c249a426c56e581b8a25791a2"
+      "sha1": "2b99a34c0928e628ee8a2c7e4cf12705326e0963"
     },
     {
       "path": "overrides/config/modelfix-client.toml",
@@ -782,7 +782,7 @@
     },
     {
       "path": "overrides/config/packetfixer.properties",
-      "sha1": "1e0abdf5c2cdfff520d20a370eaece8d2739d261"
+      "sha1": "f78e38a82836f425fcc1815d69c58c08573bfadb"
     },
     {
       "path": "overrides/config/peeping_angels-common.toml",
@@ -862,11 +862,11 @@
     },
     {
       "path": "overrides/config/plasmovoice/client.toml",
-      "sha1": "2c4fa5f206486d7c5f91cec14317f940576f0ca9"
+      "sha1": "48e36b6c0528fe2b12ed6915b6ee41da21ad330f"
     },
     {
       "path": "overrides/config/plasmovoice/meta_cache.json",
-      "sha1": "585010ec6eb888772ff2ca395aaa0c16ace4e27d"
+      "sha1": "0e5e1ae763b8e4e62a149f14e217d9d927dc5290"
     },
     {
       "path": "overrides/config/plasmovoice/server/config.toml",
@@ -1133,10 +1133,6 @@
       "sha1": "00c0bed5197c0773b785b5b6e89762cc37ab2441"
     },
     {
-      "path": "overrides/config/sodium-mixins.properties",
-      "sha1": "5455463ee999b945c1cff8ae90f2b705e19fb86c"
-    },
-    {
       "path": "overrides/config/sodium-options.json",
       "sha1": "4276028e40cfe17b5668da800c558529f3700509"
     },
@@ -1158,15 +1154,15 @@
     },
     {
       "path": "overrides/config/spicedcider-client.toml",
-      "sha1": "43b8b6aff274abbd84945c274945c0c5a55054b3"
+      "sha1": "e0841b5192ba1363a748207b1c7b931b3104a981"
     },
     {
       "path": "overrides/config/spicedcider-common.toml",
-      "sha1": "48b285a5e6b676cf73e01ad65dfa14dc1d39f592"
+      "sha1": "ee2377074d0884cffa7ea18b7b5128cab0f8d586"
     },
     {
       "path": "overrides/config/spicedcider-startup.toml",
-      "sha1": "493bed2a9aa84d1291aaa686707b5838c8eaeaad"
+      "sha1": "c7e07d8cf181b16b89c5159c8b9eecd644b4c3fd"
     },
     {
       "path": "overrides/config/structureeyes-common.toml",
@@ -1230,7 +1226,7 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "030db2d07f9f23e01e2f2fdf2206f45680864344"
+      "sha1": "6424854a196139c7edd2b0c017e96eb4503b97be"
     },
     {
       "path": "overrides/data/fabricDefaultResourcePacks.dat",
@@ -2193,8 +2189,16 @@
       "sha1": "6f3392e66ad83c235f922633cbc4b2685d3d266d"
     },
     {
+      "path": "overrides/kubejs/server_scripts/no_farmland_trampling.js",
+      "sha1": "d8df16160a7ce92b8abe176a2b4fda6e9fc57d33"
+    },
+    {
       "path": "overrides/kubejs/server_scripts/no_nighttime_mobs.js",
       "sha1": "4ea1ee5979175033ebff4c623641735f588d300d"
+    },
+    {
+      "path": "overrides/kubejs/server_scripts/noportals.js",
+      "sha1": "ef0e05a2e9eec311fa7dd8ae45e9ed14e9b4d4d4"
     },
     {
       "path": "overrides/kubejs/server_scripts/ore_recipes.js",
@@ -2222,7 +2226,7 @@
     },
     {
       "path": "overrides/kubejs/server_scripts/shapeless.js",
-      "sha1": "e135aefb87f2f45cc8f33b573bf3bb74fc474e0e"
+      "sha1": "e29a54353de3af3a7c7c0f7f2b92a5d6c3dca825"
     },
     {
       "path": "overrides/kubejs/server_scripts/simpleradio.js",
@@ -2282,7 +2286,7 @@
     },
     {
       "path": "overrides/kubejs/startup_scripts/item_registry.js",
-      "sha1": "77fbdba3d87330ecc1abf5c38a6eaa15df2e684e"
+      "sha1": "a385047dcdb91cad772856834644fca8d212fe38"
     },
     {
       "path": "overrides/kubejs/startup_scripts/raw_registry.js",

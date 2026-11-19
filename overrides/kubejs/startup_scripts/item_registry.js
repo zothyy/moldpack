@@ -4,7 +4,7 @@ StartupEvents.registry('item', event => {
 //bottles
   event.create('lifeblood_bottle').food(food => {
     food
-      .effect('caverns_and_chasms:rewind', 300, 0, 1)
+      .effect('caverns_and_chasms:rewind', 600, 0, 1)
       .alwaysEdible()
   }).useAnimation('drink').maxStackSize(16)
 

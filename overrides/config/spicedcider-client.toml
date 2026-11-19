@@ -33,6 +33,14 @@
 	goldenDandelionParticles = true
 	#Replaces No Man's Land's carving menu with a radial wheel. Requires No Man's Land.
 	carvingWheel = false
+	#Adds an EMI category for what cave urns can hold when broken. Requires EMI and Supplementaries. Reload EMI or rejoin the world to apply.
+	emiUrnLootCategory = false
+	#Advancements listed in config/spicedcider/index_unlocks.json reveal groups of items in the EMI index, and can keep the creative tabs hidden until one is earned.
+	emiDiscoveryIndexUnlocks = false
+	#EMI shows Spelunkery's rough diamonds and emeralds being polished on a regular grindstone instead of the Diamond Grindstone. Pair with grindstone_polishing loot tables for them.
+	roughGemsOnGrindstone = false
+	#Your graves show on the locator bar as tombstone icons, even in singleplayer. Requires Vanilla Backport.
+	graveLocatorBar = false
 
 [naming]
 	#Auto-generates a random world name on the world creation screen, with a reroll button if Modern World Creation is present.
@@ -63,6 +71,14 @@
 	hideSmithingTemplateTooltips = false
 	#Blindness fog reaches farther and the Darkness pulse is weaker, so both stay playable at night and underground.
 	softerBlindnessAndDarkness = false
+	#Removes the armor bar from the HUD.
+	hideArmorBar = false
+	#Held and dropped light-giving blocks glow the same colour as when they're placed. Requires Polytone.
+	matchHeldLightColors = false
+	#Lanterns and other lights hung from chains and ropes glow the same colour as when they're placed. Requires Polytone.
+	matchChainLightColors = false
+	#While Picture Mode is open, everything past the loaded chunks is covered by a drifting sea of clouds instead of see-through distant terrain. Requires Picture Mode.
+	pictureModeClouds = true
 
 [vista]
 	#Applies performance fixes to Vista's mirror/TV reflection rendering (better culling, better shared-states, re-render throttling). Requires Vista (obviously).
@@ -101,6 +117,10 @@
 	windParticleStrength = 100
 	#Tiny specks of grass, dust, sand and snow blow off exposed ground when it is windy.
 	windMotes = true
+	#Fruit hanging from tree leaves swings in the wind. Requires the Wind option.
+	hangingFruitSway = true
+	#Lanterns, banners and buntings hung from chains and ropes sway in the wind. Requires the Wind option.
+	chainDecorationSway = true
 
 [voxy]
 	#Replaces the terrain fog with configurable start and end distances that cover Voxy's LoD terrain, plus weather and cave fog. Disable to use Roxy's own fog.

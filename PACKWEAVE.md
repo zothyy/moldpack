@@ -1,6 +1,6 @@
 # moldpack
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 95 mods (2 dependencies), 4 resource packs, 2 data packs
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 94 mods (3 dependencies), 4 resource packs, 2 data packs
 
 ## Contents
 
@@ -9,14 +9,14 @@
 - [Alternate Current](https://modrinth.com/project/alternate-current) `neoforge-mc1.21-1.9.0`
 - [Angel Islands](https://modrinth.com/project/angel-islands) `2.0.3`
 - [Async Logger](https://modrinth.com/project/asynclogger) `2.2.3+1.21.1-neoforge`
-- [AsyncParticles](https://modrinth.com/project/asyncparticles) `21.1.4.12`
+- [AsyncParticles](https://modrinth.com/project/asyncparticles) `21.1.4.13`
 - [BadOptimizations](https://modrinth.com/project/badoptimizations) `2.4.1`
 - [Beds Spawn Phantoms](https://modrinth.com/project/beds-spawn-phantoms) `1.0.3+datapack`
 - [Better Advanced Tooltips](https://modrinth.com/project/better-advanced-tooltips) `2101.1.0-build.5`
 - [Biolith](https://modrinth.com/project/biolith) `3.0.14`
 - [Blueprint](https://modrinth.com/project/blueprint) `8.2.0`
 - [Caverns & Chasms](https://modrinth.com/project/caverns-and-chasms) `3.0.1`
-- [Cider Core](https://modrinth.com/project/cider-core) `1.13.5+1.21.1`
+- [Cider Core](https://modrinth.com/project/cider-core) `2.2.1+1.21.1`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.124+1.21.1`
 - [Crawl on Demand](https://modrinth.com/project/crawl-on-demand) `1.21-1.21.5-1.2.0+neoforge`
@@ -52,11 +52,10 @@
 - [Jade Sable Compat](https://modrinth.com/project/jade-sable-compat) `1.3.0`
 - [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
 - [Jasione](https://modrinth.com/project/jasione) `1.0.9+1.21.1-neoforge`
-- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.70.0.469`
+- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.71.0.470`
 - [Kerria](https://modrinth.com/project/kerria-opt) `1.4.0+1.21.1-neoforge`
 - [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `5.13.0`
 - [Krypton Reno](https://modrinth.com/project/krypton-fnp) `0.2.28.1-1.21.1`
-- [KubeJS](https://modrinth.com/project/kubejs) `2101.7.2-build.381`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [LootJS: KubeJS Addon](https://modrinth.com/project/lootjs) `1.21.1-3.7.0+neoforge`
@@ -64,14 +63,14 @@
 - [Model Gap Fix](https://modrinth.com/project/modelfix) `1.21-1.10`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.27+mc1.21.1`
 - [Modest Mining](https://modrinth.com/project/modest-mining) `1.5.0-1.21.1`
-- [Modulation](https://modrinth.com/project/modulation) `4.0.8+1.21.1-neoforge`
+- [Modulation](https://modrinth.com/project/modulation) `4.1.0+1.21.1-neoforge`
 - [More Culling](https://modrinth.com/project/moreculling) `1.0.11`
 - [MoreJS: KubeJS Addon](https://modrinth.com/project/morejs) `1.21.1-0.16.0+neoforge`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [Natural Temperature](https://modrinth.com/project/natural-temperature) `1.2.3.1`
 - [Nethermore](https://modrinth.com/project/nethermore) `1.1.3`
 - [No Chat Reports](https://modrinth.com/project/no-chat-reports) `NeoForge-1.21.1-v2.9.1`
-- [No Chat Restrictions](https://modrinth.com/project/no-chat-restrictions) `NeoForge-MC1.21.11-v1.0.3`
+- [No Chat Restrictions](https://modrinth.com/project/no-chat-restrictions) `NeoForge-MC1.21.11-v1.1.0`
 - [no f3](https://modrinth.com/project/no-f3) `4+mod`
 - [No Man's Delight](https://modrinth.com/project/no-mans-delight) `2.2.0`
 - [No Man's Land](https://modrinth.com/project/no-mans-land) `1.6.3`
@@ -79,16 +78,16 @@
 - [Packdev Toolkit](https://modrinth.com/project/packdev-toolkit) `2.1.0-1.21.1-neoforge`
 - [Packet Fixer](https://modrinth.com/project/packet-fixer) `3.3.1`
 - [Peeping Angels](https://modrinth.com/project/peeping-angels) `3.0.0`
-- [Plasmo Voice](https://modrinth.com/project/plasmo-voice) `neoforge-1.21.1-2.2.0-beta.3`
+- [Plasmo Voice](https://modrinth.com/project/plasmo-voice) `neoforge-1.21.1-2.2.0-beta.4`
 - [Plasmo Voice Walkie-Talkie](https://modrinth.com/project/pv-addon-walkietalkie) `1.1.2`
 - [Platform](https://modrinth.com/project/platform) `1.4.2`
 - [pv-addon-soundphysics](https://modrinth.com/project/pv-addon-soundphysics) `1.1.2`
 - [Ratchel - Caverns & Chasms](https://modrinth.com/project/ratchel-caverns-chasms) `1.0`
 - [Reliable Backpacks](https://modrinth.com/project/reliable-backpacks) `1.9.1-1.21.1-neoforge`
-- [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.8.4-1.21.1-neoforge`
+- [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.9.0-1.21.1-neoforge`
 - [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.9.0+1.21.1-neoforge`
-- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.9.2+1.21.1-neoforge`
-- [Reliable Replacer](https://modrinth.com/project/reliable-replacer) `1.8.2+1.21.1-neoforge`
+- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.9.3+1.21.1-neoforge`
+- [Reliable Replacer](https://modrinth.com/project/reliable-replacer) `1.8.3+1.21.1-neoforge`
 - [Rhino](https://modrinth.com/project/rhino) `2101.2.8-build.91+Rhino-1.21`
 - [Sable](https://modrinth.com/project/sable) `2.0.6+mc1.21.1`
 - [ServerCore](https://modrinth.com/project/servercore) `1.5.19+1.21.1`
@@ -102,7 +101,7 @@
 - [Sun & Moon Fusion](https://modrinth.com/project/sun-moon-fusion) `2.1`
 - [Tide 2](https://modrinth.com/project/tide) `2.1.1`
 - [Tolerable Creepers](https://modrinth.com/project/tolerable-creepers) `2.3.0-1.21.1-neoforge`
-- [TT20 (TPS Fixer)](https://www.curseforge.com/projects/1368326) `0.9.2`
+- [TT20 (TPS Fixer)](https://www.curseforge.com/projects/1368326) `0.9.3`
 - [Vanilla Backport](https://modrinth.com/project/vanillabackport) `1.2.2`
 - [YetAnotherConfigLib (YACL)](https://modrinth.com/project/yacl) `3.8.2+1.21.1-neoforge`
 

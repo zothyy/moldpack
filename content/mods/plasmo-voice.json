@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "1bZhdhsH",
       "slug": "plasmo-voice",
-      "versionId": "AykGyNFR",
-      "versionNumber": "neoforge-1.21.1-2.2.0-beta.3",
-      "filename": "plasmovoice-neoforge-1.21.1-2.2.0-beta.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/1bZhdhsH/versions/AykGyNFR/plasmovoice-neoforge-1.21.1-2.2.0-beta.3.jar",
-      "sha1": "6dbb213e6a577e0bc14044f1f7424954ead15c3f",
-      "sha512": "a78718898d5ee7db3bbd4d13de036c166be95de21e44c3cf0328d208dd9ef545130a42653db556a5a71ff0aa966dfb4c140de5557308fe2fabb7c6d9c88e1ae6",
-      "fileSize": 14457857
+      "versionId": "sqjboZgz",
+      "versionNumber": "neoforge-1.21.1-2.2.0-beta.4",
+      "filename": "plasmovoice-neoforge-1.21.1-2.2.0-beta.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/1bZhdhsH/versions/sqjboZgz/plasmovoice-neoforge-1.21.1-2.2.0-beta.4.jar",
+      "sha1": "7242b1a8183c4ee3ab7f90e81611d90f577127fd",
+      "sha512": "c844e4675af902c9941b540f48a05cbac9ead57508b6a6daa60ae3d8ec3975ff6a7c4929f75fe3bacf35beb2e91aa5bc47dea7893dba1f2df4495c3544f49e0b",
+      "fileSize": 14461678
     }
   },
   "dependents": [
