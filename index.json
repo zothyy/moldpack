@@ -17,6 +17,10 @@
       "sha1": "9da02df59ff0c75fa5e0f5b3882703e9b5187c9f"
     },
     {
+      "path": "content/mods/architectury-api.json",
+      "sha1": "a672fbb925d02ce786844799c297502842d1f2ae"
+    },
+    {
       "path": "content/mods/asynclogger.json",
       "sha1": "2dc690ac717399f86d256e49b500a55ca26eea82"
     },
@@ -62,15 +66,11 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "9651a4e8068a9823c0b29066b70a14ceea464c3f"
+      "sha1": "7902e70b496ebbd1e70811d423ce7ff4814df78d"
     },
     {
       "path": "content/mods/create-diesel-generators.json",
       "sha1": "8f1a931163a3a7d1fa7e3c1bd5c2c29ce748565b"
-    },
-    {
-      "path": "content/mods/create-electro-energetics.json",
-      "sha1": "9e33917b1a3df88a2bf15b4f17dffa71eb183647"
     },
     {
       "path": "content/mods/create-extra-casing.json",
@@ -82,7 +82,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "1b43401338017f6dbd7926cbcbb4b0245253c450"
+      "sha1": "9827ada33b90f68ed4e701b0984e08192ff70393"
     },
     {
       "path": "content/mods/creature-feature.json",
@@ -234,7 +234,7 @@
     },
     {
       "path": "content/mods/modulation.json",
-      "sha1": "0df7cddd09708ca09f22248b871b14293fb4becc"
+      "sha1": "4877f35168b3b4ef92724610df63e0bd90499f18"
     },
     {
       "path": "content/mods/moreculling.json",
@@ -301,6 +301,10 @@
       "sha1": "7e2096d5371caa03bdb4fc0b52ba010305f65d3f"
     },
     {
+      "path": "content/mods/power-grid.json",
+      "sha1": "0adef63a93fe0eaa04f8721427c8b2c55730400a"
+    },
+    {
       "path": "content/mods/pv-addon-soundphysics.json",
       "sha1": "86d2348cccd51b2768558a3e9940357fc7396a33"
     },
@@ -314,11 +318,11 @@
     },
     {
       "path": "content/mods/reliable-backpacks.json",
-      "sha1": "149fe33d099689ab0f6a8a2f8a699a069c56581b"
+      "sha1": "99a9fe933f75e73c9ebce76426598f9502050dfd"
     },
     {
       "path": "content/mods/reliable-emi.json",
-      "sha1": "8a3af73b37b30150c109d7a864edaf41a86c213b"
+      "sha1": "0a00be4fd3b0720d88aaeb07bd181e832d3c0fa2"
     },
     {
       "path": "content/mods/reliable-recipes.json",
@@ -330,7 +334,7 @@
     },
     {
       "path": "content/mods/reliable-replacer.json",
-      "sha1": "1bbd0825d4dec048cdef58330eb4676035f11767"
+      "sha1": "8efe27dcbfa3ed9e2dfffe5630634daac383ab39"
     },
     {
       "path": "content/mods/rhino.json",
@@ -406,11 +410,11 @@
     },
     {
       "path": "content/resourcepacks/gentler-rain-sounds.json",
-      "sha1": "3ce5902d32fe3be86b22c1226cf06f676fb89105"
+      "sha1": "f4b820eca273957c599e4a410d06f104b63c9f35"
     },
     {
       "path": "content/resourcepacks/sun-moon-fusion.json",
-      "sha1": "e659b6c1d3b6f26a62255bb51188b963642a73ab"
+      "sha1": "88123b46e82b14c6c75709e661f9719e5cd2aad0"
     },
     {
       "path": "overrides/config/MouseTweaks.cfg",
@@ -437,6 +441,10 @@
       "sha1": "75d98286a0aa3e180708523c8f582a2d23e590b3"
     },
     {
+      "path": "overrides/config/NoChatRestrictions.json",
+      "sha1": "7601980d29c859c2acd075e3ea0efaaa7ed9ff78"
+    },
+    {
       "path": "overrides/config/aeronautics-server.toml",
       "sha1": "427bd55fa8cea09a79f6d00947cbca9944a36dd5"
     },
@@ -450,7 +458,7 @@
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles-mixin.properties",
-      "sha1": "2216ad732def5829f95072a1f47a2d5af2084a7f"
+      "sha1": "db22834e5477f34a1ffdb34205a21162ada9b4e0"
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles.json",
@@ -578,7 +586,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "6e97205e19bc171aac82c09717a6c7235da6709a"
+      "sha1": "7d6b5568e84f98db178b6d08d51fcf8e5e228cd8"
     },
     {
       "path": "overrides/config/farmersdelight-client.toml",
@@ -682,7 +690,7 @@
     },
     {
       "path": "overrides/config/jei/client/recipe-category-sort-order.ini",
-      "sha1": "e90a1e649d482e35036bed656bd2a8bdec632db4"
+      "sha1": "d3351c55439672dbf64e9f55bab24e8c337bfce7"
     },
     {
       "path": "overrides/config/jei/server/world/default/jei-server.ini",
@@ -782,7 +790,7 @@
     },
     {
       "path": "overrides/config/packetfixer.properties",
-      "sha1": "f78e38a82836f425fcc1815d69c58c08573bfadb"
+      "sha1": "7e8d4c373360b56bf81622a37bb3553104ce9108"
     },
     {
       "path": "overrides/config/peeping_angels-common.toml",
@@ -862,11 +870,11 @@
     },
     {
       "path": "overrides/config/plasmovoice/client.toml",
-      "sha1": "48e36b6c0528fe2b12ed6915b6ee41da21ad330f"
+      "sha1": "2c4fa5f206486d7c5f91cec14317f940576f0ca9"
     },
     {
       "path": "overrides/config/plasmovoice/meta_cache.json",
-      "sha1": "0e5e1ae763b8e4e62a149f14e217d9d927dc5290"
+      "sha1": "813c4ad76d51fe064421ae5c4df0021c83d80666"
     },
     {
       "path": "overrides/config/plasmovoice/server/config.toml",
@@ -1025,6 +1033,18 @@
       "sha1": "deddc6f67e212577af0151dd6e0ddf7830a65d3e"
     },
     {
+      "path": "overrides/config/powergrid-client.toml",
+      "sha1": "49de848b853ce11604b2a9e12481325e10e90bc8"
+    },
+    {
+      "path": "overrides/config/powergrid-common.toml",
+      "sha1": "f8f7260f3ccf0fd31dd1a4a51e02a2dbbbdace82"
+    },
+    {
+      "path": "overrides/config/powergrid-server.toml",
+      "sha1": "0a5dab8f316a760c28b7c3834656b43918ef935a"
+    },
+    {
       "path": "overrides/config/reliable_backpacks.json",
       "sha1": "9b51526eed078e5e980fcb71c3f624784a0a821d"
     },
@@ -1133,6 +1153,10 @@
       "sha1": "00c0bed5197c0773b785b5b6e89762cc37ab2441"
     },
     {
+      "path": "overrides/config/sodium-mixins.properties",
+      "sha1": "5455463ee999b945c1cff8ae90f2b705e19fb86c"
+    },
+    {
       "path": "overrides/config/sodium-options.json",
       "sha1": "4276028e40cfe17b5668da800c558529f3700509"
     },
@@ -1146,7 +1170,7 @@
     },
     {
       "path": "overrides/config/sound_physics_remastered/sound_rates.properties",
-      "sha1": "37a9d3d4139c40db3d38821406c6c2bc507d25e5"
+      "sha1": "df489b91bf27071f3564aadc29d72e4ee2ea03d1"
     },
     {
       "path": "overrides/config/sound_physics_remastered/soundphysics.properties",
@@ -1226,7 +1250,7 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "6424854a196139c7edd2b0c017e96eb4503b97be"
+      "sha1": "25a026392771192584a2e505db22714a7db57fa9"
     },
     {
       "path": "overrides/data/fabricDefaultResourcePacks.dat",

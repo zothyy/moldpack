@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "swDAEYpN",
       "slug": "reliable-replacer",
-      "versionId": "tULPF0XU",
-      "versionNumber": "1.8.3+1.21.1-neoforge",
-      "filename": "reliable_replacer-1.8.3+1.21.1-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/swDAEYpN/versions/tULPF0XU/reliable_replacer-1.8.3%2B1.21.1-neoforge.jar",
-      "sha1": "2d85a6da5e5f6f41c608f1068090bc20cc5b145b",
-      "sha512": "61c93edde3a1b819bf7c77c5538882d2ebd8ac28011c34901c7d3c2c005f33f3022e61e7ce3a6f17acaabbc2456adb1475910bba983c69723d6a4f878c04b484",
-      "fileSize": 174516
+      "versionId": "QApWWjhG",
+      "versionNumber": "1.9.0+1.21.1-neoforge",
+      "filename": "reliable_replacer-1.9.0+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/swDAEYpN/versions/QApWWjhG/reliable_replacer-1.9.0%2B1.21.1-neoforge.jar",
+      "sha1": "b435ce17554dc329ed035a3d391138af3518d90b",
+      "sha512": "83a848379b10ffbf18a9d8e0c13c50dd325779ad8d70d982e8ed9b8f1f854f44ece712aba02592cd26be9284e387a84e936092fbc9dd0de240368eddc5820a58",
+      "fileSize": 174344
     }
   },
   "dependents": [],

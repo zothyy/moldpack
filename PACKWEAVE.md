@@ -1,6 +1,6 @@
 # moldpack
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 94 mods (3 dependencies), 4 resource packs, 2 data packs
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 94 mods (4 dependencies), 4 resource packs, 2 data packs
 
 ## Contents
 
@@ -21,11 +21,11 @@
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.124+1.21.1`
 - [Crawl on Demand](https://modrinth.com/project/crawl-on-demand) `1.21-1.21.5-1.2.0+neoforge`
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
-- [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.2+mc1.21.1`
+- [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.3+mc1.21.1`
 - [Create Extra Casing](https://modrinth.com/project/create-extra-casing) `4.0.4`
 - [Create Heat JS](https://www.curseforge.com/projects/1034948) `create_heat_js-1.21.1-0.0.6.jar`
 - [Create: Diesel Generators](https://modrinth.com/project/create-diesel-generators) `1.21.1-1.3.15`
-- [Create: Electro Energetics](https://modrinth.com/project/create-electro-energetics) `1.21.1-1.1.4`
+- [Create: Power Grid](https://modrinth.com/project/power-grid) `0.6.2`
 - [Creature Feature](https://modrinth.com/project/creature-feature) `1.3.0`
 - [Cultural Delights](https://modrinth.com/project/cultural-delights) `0.19.8-1.21.1`
 - [DeclutterUI](https://modrinth.com/project/declutterui) `1.0.4`
@@ -42,7 +42,7 @@
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
 - [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.15+2.3.6+1.21.1`
 - [Fzzy Config](https://modrinth.com/project/fzzy-config) `0.7.7+fix1+1.21+neoforge`
-- [Gentler Rain Sounds](https://modrinth.com/project/gentler-rain-sounds) `1.2`
+- [Gentler Rain Sounds](https://modrinth.com/project/gentler-rain-sounds) `1.3`
 - [Get Creative](https://modrinth.com/project/get-creative) `1.21.1-2.7`
 - [Global Packs](https://modrinth.com/project/globalpacks) `21.0.6`
 - [Gnetum](https://modrinth.com/project/gnetum) `3.3.7`
@@ -63,7 +63,7 @@
 - [Model Gap Fix](https://modrinth.com/project/modelfix) `1.21-1.10`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.27+mc1.21.1`
 - [Modest Mining](https://modrinth.com/project/modest-mining) `1.5.0-1.21.1`
-- [Modulation](https://modrinth.com/project/modulation) `4.1.0+1.21.1-neoforge`
+- [Modulation](https://modrinth.com/project/modulation) `4.2.0+1.21.1-neoforge`
 - [More Culling](https://modrinth.com/project/moreculling) `1.0.11`
 - [MoreJS: KubeJS Addon](https://modrinth.com/project/morejs) `1.21.1-0.16.0+neoforge`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
@@ -83,11 +83,11 @@
 - [Platform](https://modrinth.com/project/platform) `1.4.2`
 - [pv-addon-soundphysics](https://modrinth.com/project/pv-addon-soundphysics) `1.1.2`
 - [Ratchel - Caverns & Chasms](https://modrinth.com/project/ratchel-caverns-chasms) `1.0`
-- [Reliable Backpacks](https://modrinth.com/project/reliable-backpacks) `1.9.1-1.21.1-neoforge`
+- [Reliable Backpacks](https://modrinth.com/project/reliable-backpacks) `1.10.0-1.21.1-neoforge`
 - [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.9.0-1.21.1-neoforge`
 - [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.9.0+1.21.1-neoforge`
 - [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.9.3+1.21.1-neoforge`
-- [Reliable Replacer](https://modrinth.com/project/reliable-replacer) `1.8.3+1.21.1-neoforge`
+- [Reliable Replacer](https://modrinth.com/project/reliable-replacer) `1.9.0+1.21.1-neoforge`
 - [Rhino](https://modrinth.com/project/rhino) `2101.2.8-build.91+Rhino-1.21`
 - [Sable](https://modrinth.com/project/sable) `2.0.6+mc1.21.1`
 - [ServerCore](https://modrinth.com/project/servercore) `1.5.19+1.21.1`
@@ -98,7 +98,7 @@
 - [Sound Physics Remastered](https://modrinth.com/project/sound-physics-remastered) `neoforge-1.21.1-1.5.2`
 - [Strike After Swing](https://modrinth.com/project/strike-after-swing) `1.0.4`
 - [Structure Eyes](https://modrinth.com/project/structure-eyes) `1.0.0`
-- [Sun & Moon Fusion](https://modrinth.com/project/sun-moon-fusion) `2.1`
+- [Sun & Moon Fusion](https://modrinth.com/project/sun-moon-fusion) `3`
 - [Tide 2](https://modrinth.com/project/tide) `2.1.1`
 - [Tolerable Creepers](https://modrinth.com/project/tolerable-creepers) `2.3.0-1.21.1-neoforge`
 - [TT20 (TPS Fixer)](https://www.curseforge.com/projects/1368326) `0.9.3`

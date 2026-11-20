@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "Lhu1mjD6",
       "slug": "sun-moon-fusion",
-      "versionId": "pEkJ4ZZW",
-      "versionNumber": "2.1",
-      "filename": "Sun & Moon Fusion 2.1.zip",
-      "downloadUrl": "https://cdn.modrinth.com/data/Lhu1mjD6/versions/pEkJ4ZZW/Sun%20%26%20Moon%20Fusion%202.1.zip",
-      "sha1": "90d0bdb17c9c0e117b613837b750abd58dce7be6",
-      "sha512": "20d7f873415d04e0ac0f8afd99c04218b2a7b9751b2c15431b49efe8b96c57285ef15fafd8ddba24ae4ca6dcea93aa1a97f7bc64f44079e7bf482e4de235513e",
-      "fileSize": 10556
+      "versionId": "F9zqN1Rb",
+      "versionNumber": "3",
+      "filename": "Sun & Moon Fusion 3.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/Lhu1mjD6/versions/F9zqN1Rb/Sun%20%26%20Moon%20Fusion%203.zip",
+      "sha1": "932d6bcc402ff29e4740927dd8be448ae68e565d",
+      "sha512": "f2f7f7c9caefe24561caae582945330994a0c72f16bc44c51aaba94284028ad20cfc90d1eb606f23f61610130878b6302fc7f21d12bee9ec6491803c25994f89",
+      "fileSize": 10575
     }
   },
   "dependents": [],

@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "pdFBGz8R",
       "slug": "gentler-rain-sounds",
-      "versionId": "Br4DgX7i",
-      "versionNumber": "1.2",
-      "filename": "Gentler Rain Sounds.zip",
-      "downloadUrl": "https://cdn.modrinth.com/data/pdFBGz8R/versions/Br4DgX7i/Gentler%20Rain%20Sounds.zip",
-      "sha1": "a1d769de1a68b2ee150c9cadf5dbc2fb79f71df4",
-      "sha512": "8a407194b559ca9fe0ddd42fa35f00f35df43e304ea6b3e8b5f3a6cded10c472b46bd80918b0f863bc2116764776df5657ba2148b75950ff3e6ec3d0a46a9e18",
-      "fileSize": 926891
+      "versionId": "37ahNUHU",
+      "versionNumber": "1.3",
+      "filename": "Gentler Rain Sounds 1.3.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/pdFBGz8R/versions/37ahNUHU/Gentler%20Rain%20Sounds%201.3.zip",
+      "sha1": "16a199ac9c5a1e3158fe417c606f33741603ff31",
+      "sha512": "a5442e486e52e97c378cda26303e1bde2ccaa43cf71aeb9b9a15e54654e326ddfc390910e2c9f95068e66ff95142e01822d7b621674c0585ab98e75cb635462d",
+      "fileSize": 910844
     }
   },
   "dependents": [],
