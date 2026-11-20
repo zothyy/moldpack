@@ -2310,7 +2310,7 @@
     },
     {
       "path": "overrides/kubejs/startup_scripts/item_registry.js",
-      "sha1": "a385047dcdb91cad772856834644fca8d212fe38"
+      "sha1": "49cacc686072fa9818f471866a5c12c778e67a24"
     },
     {
       "path": "overrides/kubejs/startup_scripts/raw_registry.js",
