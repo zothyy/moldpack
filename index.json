@@ -2198,7 +2198,7 @@
     },
     {
       "path": "overrides/kubejs/server_scripts/lifeblood.js",
-      "sha1": "8782409e6a6dfe9cc3464b6b431338c9ff4a53ec"
+      "sha1": "ea053d724ebdfbd295442de0bcd6330427d0aa46"
     },
     {
       "path": "overrides/kubejs/server_scripts/lootjs.js",
