@@ -54,7 +54,7 @@
     },
     {
       "path": "content/mods/cider-core.json",
-      "sha1": "f40d416ec70675336192de49a747e9cffad82fff"
+      "sha1": "7be4a21b796650e09c390667ba91e8e672f5d522"
     },
     {
       "path": "content/mods/cloth-config.json",
@@ -178,7 +178,7 @@
     },
     {
       "path": "content/mods/jei.json",
-      "sha1": "a8523b79784ff43453949915aebfb2c17410cebd"
+      "sha1": "f20bb4424832005ecab9a0288596dd4bd0c6d1d0"
     },
     {
       "path": "content/mods/kerria-opt.json",

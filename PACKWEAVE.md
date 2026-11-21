@@ -16,7 +16,7 @@
 - [Biolith](https://modrinth.com/project/biolith) `3.0.14`
 - [Blueprint](https://modrinth.com/project/blueprint) `8.2.0`
 - [Caverns & Chasms](https://modrinth.com/project/caverns-and-chasms) `3.0.1`
-- [Cider Core](https://modrinth.com/project/cider-core) `2.2.1+1.21.1`
+- [Cider Core](https://modrinth.com/project/cider-core) `3.0.1+1.21.1`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.124+1.21.1`
 - [Crawl on Demand](https://modrinth.com/project/crawl-on-demand) `1.21-1.21.5-1.2.0+neoforge`
@@ -52,7 +52,7 @@
 - [Jade Sable Compat](https://modrinth.com/project/jade-sable-compat) `1.3.0`
 - [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
 - [Jasione](https://modrinth.com/project/jasione) `1.0.9+1.21.1-neoforge`
-- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.71.0.470`
+- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.71.0.475`
 - [Kerria](https://modrinth.com/project/kerria-opt) `1.4.0+1.21.1-neoforge`
 - [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `5.13.0`
 - [Krypton Reno](https://modrinth.com/project/krypton-fnp) `0.2.28.1-1.21.1`

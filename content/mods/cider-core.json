@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "Fg6qWws8",
       "slug": "cider-core",
-      "versionId": "9P3sHtwI",
-      "versionNumber": "2.2.1+1.21.1",
-      "filename": "spicedcider-2.2.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/Fg6qWws8/versions/9P3sHtwI/spicedcider-2.2.1.jar",
-      "sha1": "b9bc97f266d30ed38b72bc50d824420b1db1c8b2",
-      "sha512": "b7977b012cfb895e11a8a5e681bceab71f66af495c4f695c2b6a529c4657875a10cdf75fd06ee7d5d1d976a6e750416aac7cb84e29385033b6abd7fd3c511de2",
-      "fileSize": 16981500
+      "versionId": "StuiZTK9",
+      "versionNumber": "3.0.1+1.21.1",
+      "filename": "spicedcider-3.0.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Fg6qWws8/versions/StuiZTK9/spicedcider-3.0.1.jar",
+      "sha1": "8b40c3e9103432a30dc76be4ca8afa31432edcf8",
+      "sha512": "0960e6efc4fbe5cf02b6bd85e677725d833d4320663660d182632c4b35bb6c00ff959565788c236c066a43353acb706fa6659f792146b0c64143daff8cd3defe",
+      "fileSize": 16967751
     }
   },
   "dependents": [],
