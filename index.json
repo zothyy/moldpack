@@ -26,7 +26,7 @@
     },
     {
       "path": "content/mods/asyncparticles.json",
-      "sha1": "8d47a63026c0d803cec06cbf3bee17d18d775161"
+      "sha1": "23c1d4efa82db3f29721eb8a35c24958ab5732e1"
     },
     {
       "path": "content/mods/badoptimizations.json",
@@ -54,7 +54,7 @@
     },
     {
       "path": "content/mods/cider-core.json",
-      "sha1": "7be4a21b796650e09c390667ba91e8e672f5d522"
+      "sha1": "a2ff256dd4b9f98466d7cfdb83b09e40c3154a44"
     },
     {
       "path": "content/mods/cloth-config.json",
@@ -70,7 +70,7 @@
     },
     {
       "path": "content/mods/create-diesel-generators.json",
-      "sha1": "8f1a931163a3a7d1fa7e3c1bd5c2c29ce748565b"
+      "sha1": "63dd9eb79bfea9a4e87fa50c03a90316e24c02ad"
     },
     {
       "path": "content/mods/create-extra-casing.json",
@@ -110,7 +110,7 @@
     },
     {
       "path": "content/mods/entityculling.json",
-      "sha1": "c8b224c55f6a18ff760a739522785d73d6a9ee43"
+      "sha1": "1e7d35f6672076a2a4b58ad419f8fb0d548c43e1"
     },
     {
       "path": "content/mods/experience-obliterator.json",
@@ -158,7 +158,7 @@
     },
     {
       "path": "content/mods/immersive-optimization.json",
-      "sha1": "ef0379bb6e0f8a224626c5c67570d61e03704a21"
+      "sha1": "670a64566aef6c0b5c0873ba16cb1bbd6a5177c6"
     },
     {
       "path": "content/mods/ixeris.json",
@@ -178,7 +178,7 @@
     },
     {
       "path": "content/mods/jei.json",
-      "sha1": "f20bb4424832005ecab9a0288596dd4bd0c6d1d0"
+      "sha1": "34fa8277e7f2a2e306abc32d61a5da0964285925"
     },
     {
       "path": "content/mods/kerria-opt.json",
@@ -234,7 +234,7 @@
     },
     {
       "path": "content/mods/modulation.json",
-      "sha1": "4877f35168b3b4ef92724610df63e0bd90499f18"
+      "sha1": "c060e65092b5b5773c79c570d1569206a6f00cb4"
     },
     {
       "path": "content/mods/moreculling.json",

@@ -9,14 +9,14 @@
 - [Alternate Current](https://modrinth.com/project/alternate-current) `neoforge-mc1.21-1.9.0`
 - [Angel Islands](https://modrinth.com/project/angel-islands) `2.0.3`
 - [Async Logger](https://modrinth.com/project/asynclogger) `2.2.3+1.21.1-neoforge`
-- [AsyncParticles](https://modrinth.com/project/asyncparticles) `21.1.4.13`
+- [AsyncParticles](https://modrinth.com/project/asyncparticles) `21.1.4.14`
 - [BadOptimizations](https://modrinth.com/project/badoptimizations) `2.4.1`
 - [Beds Spawn Phantoms](https://modrinth.com/project/beds-spawn-phantoms) `1.0.3+datapack`
 - [Better Advanced Tooltips](https://modrinth.com/project/better-advanced-tooltips) `2101.1.0-build.5`
 - [Biolith](https://modrinth.com/project/biolith) `3.0.14`
 - [Blueprint](https://modrinth.com/project/blueprint) `8.2.0`
 - [Caverns & Chasms](https://modrinth.com/project/caverns-and-chasms) `3.0.1`
-- [Cider Core](https://modrinth.com/project/cider-core) `3.0.1+1.21.1`
+- [Cider Core](https://modrinth.com/project/cider-core) `4.0.0+1.21.1`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.124+1.21.1`
 - [Crawl on Demand](https://modrinth.com/project/crawl-on-demand) `1.21-1.21.5-1.2.0+neoforge`
@@ -24,7 +24,7 @@
 - [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.3+mc1.21.1`
 - [Create Extra Casing](https://modrinth.com/project/create-extra-casing) `4.0.4`
 - [Create Heat JS](https://www.curseforge.com/projects/1034948) `create_heat_js-1.21.1-0.0.6.jar`
-- [Create: Diesel Generators](https://modrinth.com/project/create-diesel-generators) `1.21.1-1.3.15`
+- [Create: Diesel Generators](https://modrinth.com/project/create-diesel-generators) `1.21.1-1.3.16`
 - [Create: Power Grid](https://modrinth.com/project/power-grid) `0.6.2`
 - [Creature Feature](https://modrinth.com/project/creature-feature) `1.3.0`
 - [Cultural Delights](https://modrinth.com/project/cultural-delights) `0.19.8-1.21.1`
@@ -33,7 +33,7 @@
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
 - [EMI Loot](https://modrinth.com/project/emi-loot) `0.7.10+1.21+neoforge`
 - [EMI Ores](https://modrinth.com/project/emi-ores) `1.3+1.21.1+neoforge`
-- [Entity Culling](https://modrinth.com/project/entityculling) `1.12.1`
+- [Entity Culling](https://modrinth.com/project/entityculling) `1.12.2`
 - [Experience Obliterator](https://modrinth.com/project/experience-obliterator) `2.2.0+1.21.1-neoforge`
 - [Exposure](https://modrinth.com/project/exposure) `1.9.21`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
@@ -47,12 +47,12 @@
 - [Global Packs](https://modrinth.com/project/globalpacks) `21.0.6`
 - [Gnetum](https://modrinth.com/project/gnetum) `3.3.7`
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.15+1.21.1-neoforge`
-- [Immersive Optimization](https://modrinth.com/project/immersive-optimization) `0.2.0+1.21.1`
+- [Immersive Optimization](https://modrinth.com/project/immersive-optimization) `0.3.0+1.21.1`
 - [Ixeris](https://modrinth.com/project/ixeris) `4.6.11+1.21.1-neoforge`
 - [Jade Sable Compat](https://modrinth.com/project/jade-sable-compat) `1.3.0`
 - [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
 - [Jasione](https://modrinth.com/project/jasione) `1.0.9+1.21.1-neoforge`
-- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.71.0.475`
+- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.76.1.481`
 - [Kerria](https://modrinth.com/project/kerria-opt) `1.4.0+1.21.1-neoforge`
 - [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `5.13.0`
 - [Krypton Reno](https://modrinth.com/project/krypton-fnp) `0.2.28.1-1.21.1`
@@ -63,7 +63,7 @@
 - [Model Gap Fix](https://modrinth.com/project/modelfix) `1.21-1.10`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.27+mc1.21.1`
 - [Modest Mining](https://modrinth.com/project/modest-mining) `1.5.0-1.21.1`
-- [Modulation](https://modrinth.com/project/modulation) `4.2.0+1.21.1-neoforge`
+- [Modulation](https://modrinth.com/project/modulation) `4.4.0+1.21.1-neoforge`
 - [More Culling](https://modrinth.com/project/moreculling) `1.0.11`
 - [MoreJS: KubeJS Addon](https://modrinth.com/project/morejs) `1.21.1-0.16.0+neoforge`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
