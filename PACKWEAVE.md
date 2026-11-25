@@ -1,6 +1,6 @@
 # moldpack
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 95 mods (3 dependencies), 4 resource packs, 2 data packs
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 91 mods (1 dependency), 4 resource packs, 2 data packs
 
 ## Contents
 
@@ -23,7 +23,6 @@
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
 - [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.3+mc1.21.1`
 - [Create Extra Casing](https://modrinth.com/project/create-extra-casing) `4.0.4`
-- [Create Heat JS](https://www.curseforge.com/projects/1034948) `create_heat_js-1.21.1-0.0.6.jar`
 - [Create: Diesel Generators](https://modrinth.com/project/create-diesel-generators) `1.21.1-1.3.16`
 - [Create: Power Grid](https://modrinth.com/project/power-grid) `0.6.2`
 - [Creature Feature](https://modrinth.com/project/creature-feature) `1.3.0`
@@ -56,17 +55,14 @@
 - [Kerria](https://modrinth.com/project/kerria-opt) `1.4.0+1.21.1-neoforge`
 - [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `5.13.0`
 - [Krypton Reno](https://modrinth.com/project/krypton-fnp) `0.2.28.1-1.21.1`
-- [KubeJS Create](https://www.curseforge.com/projects/429371) `KubeJS Create NeoForge 2101.3.1-build.18`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
-- [LootJS: KubeJS Addon](https://modrinth.com/project/lootjs) `1.21.1-3.7.0+neoforge`
 - [MezzConfig](https://modrinth.com/project/mezzconfig) `0.7.1`
 - [Model Gap Fix](https://modrinth.com/project/modelfix) `1.21-1.10`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.27+mc1.21.1`
 - [Modest Mining](https://modrinth.com/project/modest-mining) `1.5.0-1.21.1`
 - [Modulation](https://modrinth.com/project/modulation) `4.4.0+1.21.1-neoforge`
 - [More Culling](https://modrinth.com/project/moreculling) `1.0.11`
-- [MoreJS: KubeJS Addon](https://modrinth.com/project/morejs) `1.21.1-0.16.0+neoforge`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [Natural Temperature](https://modrinth.com/project/natural-temperature) `1.2.3.1`
 - [Nethermore](https://modrinth.com/project/nethermore) `1.1.3`
