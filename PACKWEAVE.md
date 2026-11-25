@@ -97,7 +97,7 @@
 - [Slag n' Embers](https://modrinth.com/project/slag-n-embers) `1.21.1-1.2b`
 - [Smart Particles](https://modrinth.com/project/smart-particles) `21.8.10`
 - [Smeltery Required! [Slag n' Embers]](https://modrinth.com/project/smeltery-required) `1.0.0`
-- [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.14-beta.2-neoforge`
+- [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
 - [Sound Physics Remastered](https://modrinth.com/project/sound-physics-remastered) `neoforge-1.21.1-1.5.2`
 - [Strike After Swing](https://modrinth.com/project/strike-after-swing) `1.0.4`
 - [Sun & Moon Fusion](https://modrinth.com/project/sun-moon-fusion) `3`

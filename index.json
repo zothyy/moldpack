@@ -362,7 +362,7 @@
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "fcd2fab1c6732d0913214178c6eb0726b85c5451"
+      "sha1": "592b4af0448f2cfb25e84058fc39f140eb4dd648"
     },
     {
       "path": "content/mods/sound-physics-remastered.json",
@@ -458,7 +458,7 @@
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles-mixin.properties",
-      "sha1": "155469c714ef69d60f1d9b2611731657f9a65f97"
+      "sha1": "f8b6e55592db413f386ace6cd964df72f7f1af7f"
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles.json",
@@ -586,7 +586,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "f42893954e5a2d3e5b5499e78e206b5dc39a4764"
+      "sha1": "9b24c6d2fbc6d07c38b47ee6c9f152431b1f437b"
     },
     {
       "path": "overrides/config/farmersdelight-client.toml",
@@ -790,7 +790,7 @@
     },
     {
       "path": "overrides/config/packetfixer.properties",
-      "sha1": "3a2be94ddd5ba4f8b4109685bdf29fded169bdba"
+      "sha1": "bee645395340bc01fb21694acde4040f8d929a70"
     },
     {
       "path": "overrides/config/peeping_angels-common.toml",
@@ -1246,7 +1246,7 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "9094c89b030301883aa3aaeb3fd6679d0b385f9b"
+      "sha1": "9896bda5fd0eb77140a12de1b8aef3647f049357"
     },
     {
       "path": "overrides/data/fabricDefaultResourcePacks.dat",
