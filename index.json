@@ -34,7 +34,7 @@
     },
     {
       "path": "content/mods/better-advanced-tooltips.json",
-      "sha1": "b0a0008bcfed466b3a7dae60e3cec818881defd6"
+      "sha1": "34ee99182c297f32367c48a631d776551415cdde"
     },
     {
       "path": "content/mods/biolith.json",
@@ -82,7 +82,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "aa404d42aa81d0c78a9a9cb06b3bf90f1eada548"
+      "sha1": "9827ada33b90f68ed4e701b0984e08192ff70393"
     },
     {
       "path": "content/mods/creature-feature.json",
@@ -191,6 +191,14 @@
     {
       "path": "content/mods/krypton-fnp.json",
       "sha1": "76c6d699f407de5a6d75377f766a5a44ed76ba94"
+    },
+    {
+      "path": "content/mods/kubejs-create.json",
+      "sha1": "826a04261c22badc46ff93a619601271fdb8d370"
+    },
+    {
+      "path": "content/mods/kubejs.json",
+      "sha1": "b8dbae83bdc65e0a20d4794cf63b629d50b81e2f"
     },
     {
       "path": "content/mods/lambdynamiclights.json",
@@ -326,7 +334,7 @@
     },
     {
       "path": "content/mods/rhino.json",
-      "sha1": "e49f3edd58b254bf6c6a857cf86e42892af0bf94"
+      "sha1": "fbc2252b39a090e20c9e53386ffc6084e8448463"
     },
     {
       "path": "content/mods/sable.json",

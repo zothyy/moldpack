@@ -1,6 +1,6 @@
 # moldpack
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 94 mods (1 dependency), 4 resource packs, 2 data packs
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 95 mods (2 dependencies), 4 resource packs, 2 data packs
 
 ## Contents
 
@@ -56,6 +56,7 @@
 - [Kerria](https://modrinth.com/project/kerria-opt) `1.4.0+1.21.1-neoforge`
 - [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `5.13.0`
 - [Krypton Reno](https://modrinth.com/project/krypton-fnp) `0.2.28.1-1.21.1`
+- [KubeJS Create](https://www.curseforge.com/projects/429371) `KubeJS Create NeoForge 2101.3.1-build.18`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [LootJS: KubeJS Addon](https://modrinth.com/project/lootjs) `1.21.1-3.7.0+neoforge`

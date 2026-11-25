@@ -2,12 +2,12 @@
   "name": "KubeJS Create",
   "side": "auto",
   "explicit": true,
-  "disabled": true,
+  "disabled": false,
   "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "T38eAZQC",
-      "slug": ""
+      "slug": "kubejs-create"
     },
     "curseforge": {
       "id": "429371",
