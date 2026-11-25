@@ -1,8 +1,4 @@
 [compat]
-	#Hides the arrow depth line (Shallow hit, Lodged, Deep lodged) from Lodged's inventory arrow tooltip. Requires Lodged.
-	lodgedHideArrowDepth = false
-	#Hides the Bleeding risk line from Lodged's inventory arrow tooltip. Requires Lodged.
-	lodgedHideBleedingRisk = false
 	#Hides the voice chat HUD while playing in a world that isn't open to LAN. Requires Simple Voice Chat.
 	voiceChatHideSingleplayerHud = false
 	#Adds an EMI category for tapping trees with a tap. Requires EMI and No Man's Land. Reload EMI or rejoin the world to apply.
@@ -35,12 +31,16 @@
 	carvingWheel = false
 	#Adds an EMI category for what cave urns can hold when broken. Requires EMI and Supplementaries. Reload EMI or rejoin the world to apply.
 	emiUrnLootCategory = false
-	#Advancements listed in config/spicedcider/index_unlocks.json reveal groups of items in the EMI index, and can keep the creative tabs hidden until one is earned.
-	emiDiscoveryIndexUnlocks = false
 	#EMI shows Spelunkery's rough diamonds and emeralds being polished on a regular grindstone instead of the Diamond Grindstone. Pair with grindstone_polishing loot tables for them.
 	roughGemsOnGrindstone = false
 	#Your graves show on the locator bar as tombstone icons, even in singleplayer. Requires Vanilla Backport.
 	graveLocatorBar = false
+	#Jade tooltips only show while looking through a spyglass or wearing or looking through a Caverns & Chasms monocle. Requires Jade.
+	jadeNeedsSpyglassOrMonocle = false
+	#Run up full blocks without jumping while sprinting.
+	stepUpEnabled = true
+	#The camera glides when you step up onto or down off a block or slab instead of snapping, in first and third person and while riding.
+	smoothStepUp = false
 
 [naming]
 	#Auto-generates a random world name on the world creation screen, with a reroll button if Modern World Creation is present.
@@ -77,8 +77,12 @@
 	matchHeldLightColors = false
 	#Lanterns and other lights hung from chains and ropes glow the same colour as when they're placed. Requires Polytone.
 	matchChainLightColors = false
-	#While Picture Mode is open, everything past the loaded chunks is covered by a drifting sea of clouds instead of see-through distant terrain. Requires Picture Mode.
+	#While Picture Mode is open, everything past the loaded chunks fades into the distance fog colour instead of showing see-through distant terrain. Requires Picture Mode.
 	pictureModeClouds = true
+	#Click and drag your player model in the inventory to turn it around.
+	inventoryModelRotation = false
+	#Sack tooltips no longer list their contents as text. The contents preview still shows.
+	hideSackContentsTooltip = false
 
 [vista]
 	#Applies performance fixes to Vista's mirror/TV reflection rendering (better culling, better shared-states, re-render throttling). Requires Vista (obviously).
@@ -121,6 +125,12 @@
 	hangingFruitSway = true
 	#Lanterns, banners and buntings hung from chains and ropes sway in the wind. Requires the Wind option.
 	chainDecorationSway = true
+	#Leaves slowly turn white while snow falls on them and green again once it stops. Takes effect after rejoining the world.
+	snowfallLeafWhitening = false
+	#How far around you, in chunks, leaves frost over. Larger values cost more performance.
+	# Default: 8
+	# Range: 2 ~ 32
+	snowfallLeafWhiteningRadius = 8
 
 [voxy]
 	#Replaces the terrain fog with configurable start and end distances that cover Voxy's LoD terrain, plus weather and cave fog. Disable to use Roxy's own fog.

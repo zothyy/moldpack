@@ -21,7 +21,7 @@
 	dustBunnySpawners = false
 	#A change in redstone power opens or closes a tap. Requires No Man's Land.
 	tapRedstone = false
-	#Taps drain and fill everything a Supplementaries faucet can, such as jars, beehives and modded cauldrons, and show a stream of liquid while pouring. Requires No Man's Land and Supplementaries.
+	#Taps drain and fill everything a Supplementaries faucet can, such as jars, beehives and basins, and show a stream of liquid while pouring. Requires No Man's Land and Supplementaries.
 	tapFaucetFluids = false
 	#Trees with pinecone-growing logs generate with pinecones. Requires Environmental. Only affects newly generated terrain.
 	pineconesOnTrees = false
@@ -35,16 +35,40 @@
 	goldenDandelionTempting = false
 	#Ocean ruins generate prismarine chests instead of regular chests. Requires Quark. Only affects newly generated terrain.
 	oceanRuinPrismarineChests = false
-	#Look at an arrow stuck in a tamed animal to highlight it, then right-click to pull it out. Uses the same removal chances as pulling arrows out of yourself. Requires Lodged.
-	lodgedTamedArrowPulling = false
 	#Each Treeliable chop costs half a bolt of Modest Meals stamina. Without stamina, logs break normally without counting as a chop. Requires Treeliable and Modest Meals.
 	treeChoppingStamina = false
-	#Animals that flee after seeing one of their herd hurt run at a normal panic speed instead of sprinting away. Requires Big Brain.
+	#Animals that flee after seeing one of their herd hurt run at a normal panic speed instead of sprinting away, and calm down 10 seconds later. Requires Big Brain.
 	calmerHerdPanic = false
 	#Leapers deal a third less explosion damage. Requires Adapted Mobs.
 	weakerLeapers = false
 	#Learning a new chalk symbol shows its message above the hotbar instead of in chat. Requires Chalk.
 	chalkSymbolsAboveHotbar = false
+	#Fully repairing a tool in an anvil takes as much material as crafting its head: one for shovels, two for swords and hoes, three for pickaxes and axes. Requires Easy Anvils.
+	toolRepairMaterialCounts = false
+	#Cleaning out an empty Pot of Witch Stew leaves a Create Basin instead of a Cauldron. Requires No Man's Land and Create.
+	witchStewBasin = false
+	#Jack-o'-Straws can be placed facing any of 16 directions, like heads. Requires Bountiful Fares.
+	jackOStrawRotation = false
+	#Get Over It only pulls you up ledges taller than a jump (about two blocks) that you are looking at and walking into, climbs faster, and lands you on top. Requires Get Over It.
+	ledgeClimbRework = false
+	#Pulling yourself up a ledge costs a bolt of Modest Meals stamina, and you can't climb while exhausted. Requires Get Over It and Modest Meals.
+	ledgeClimbStamina = false
+	#Stamina recovers twice as fast while sitting on a seat, chair or cushion, or with Personality's sit key. Requires Modest Meals.
+	sittingStaminaRegen = false
+	#Eating never restores Modest Meals stamina directly, and food tooltips and the HUD preview stop showing it. Food can still give stamina effects. Requires Modest Meals.
+	noFoodStamina = false
+	#An ingredient never adds less health to a Modest Meals meal than it heals when eaten on its own. Requires Modest Meals.
+	mealIngredientsKeepHealth = false
+	#Percentage of Farmer's Delight Nourishment duration kept when Modest Meals turns it into stamina nourishment, in tooltips too. Requires Modest Meals and Farmer's Delight.
+	# Default: 100
+	# Range: 1 ~ 100
+	nourishmentDurationPercent = 100
+	#Animals and mobs can sit on Quark stools like on Create seats: walk or lead them onto one, or right-click it while holding a lead. Seated mobs work with Stock Tickers and other seat features. Requires Quark and Create.
+	quarkStoolSeats = false
+	#Campfires, Fire, Magma Blocks and other cooking heat sources under a Basin count as heated for mixing and brewing, so heated recipes don't need a Blaze Burner. Superheated recipes still do. Requires Create.
+	basinCampfireHeat = false
+	#Rabbits don't run from players who are sneaking.
+	sneakUpOnRabbits = false
 
 [features]
 	#Combine a named name tag with an item in the crafting grid to rename it. Takes effect after /reload.
@@ -75,8 +99,6 @@
 	deposits = false
 	#Wormy dirt generates underground. Needs a world restart and only affects new chunks.
 	wormyDirt = true
-	#Cacao and pear trees generate in the world. Needs a world restart and only affects new chunks.
-	fruitTrees = true
 	#Algae, chromarine and achromarine reefs and brambles, and hydrothermal vents generate in oceans. Needs a world restart and only affects new chunks.
 	oceanDepths = true
 	#Recipes for the extra stairs, slabs, walls and other building blocks. Takes effect after /reload.
@@ -95,6 +117,22 @@
 	richGravel = true
 	#Gravestones can be crafted. Carry one and your items and experience go into a grave where you die. Takes effect after /reload.
 	gravestones = true
+	#Netherite pickaxes, shovels, axes, hoes and hammers drop the smelted form of what they mine, except ores, raw metals, logs and crops. Silk Touch turns it off. Takes effect after /reload.
+	autoSmelting = false
+	#Small, shallow pools of spring water form on mountainsides. Requires Spelunkery. Needs a world restart and only affects new chunks.
+	springPools = true
+	#With Upgrade Aquatic, a few bare dead trees with jutting branches stand in deserts. Needs a world restart and only affects new chunks.
+	deadTrees = true
+	#Cacao trees generate in jungles. Needs a world restart and only affects new chunks.
+	cacaoTrees = true
+	#Pear trees generate in autumnal forests. Needs a world restart and only affects new chunks.
+	pearTrees = true
+	#Arrows stuck in players and mobs can be pulled back out: your own by clicking them on your player model in the inventory, and a tamed animal's by looking at one and right-clicking. Pulls from the head are riskiest; a failed pull breaks the arrow and deals a little damage. Arrows that can be picked up stay in until pulled and drop when the mob dies. Mobs show stuck arrows with Entity Pin Cushions.
+	stuckArrows = false
+	#Potions and water bottles used in a crafting or mixing recipe leave their empty Glass Bottle behind.
+	bottleCraftingRemainder = false
+	#Cats that spawn naturally stay in the world like other animals instead of despawning when nobody is near.
+	persistentWildCats = false
 
 	[features.gameplay]
 		#Beds don't explode outside the Overworld; instead they show a message and wake sleeping villagers.
@@ -151,6 +189,34 @@
 		noLeafSpawns = true
 		#Advancement chat messages are only shown to the player who earned them.
 		privateAdvancementMessages = false
+		#Players run up full blocks without jumping while sprinting.
+		stepUp = false
+		#Brown mushrooms and mushroom colonies no longer give off a faint light. Already placed mushrooms update when their chunk relights.
+		darkMushrooms = false
+		#How many items a bundle holds. 64 is the vanilla amount.
+		# Default: 64
+		# Range: 1 ~ 1024
+		bundleCapacity = 64
+		#Every fall deals this much less damage to players, in half hearts. 0 is the vanilla amount.
+		# Default: 0
+		# Range: 0 ~ 20
+		fallDamageReduction = 0
+		#Bundles can't be put inside other bundles.
+		noNestedBundles = false
+		#Bow-wielding skeletons stand still while they shoot instead of strafing, shoot faster the closer you are, and switch to a flint knife when you get within 3 blocks.
+		rangedSkeletons = false
+		#Blazes shoot one aimed fireball every 3.5 seconds instead of a spread of three.
+		singleBlazeFireball = false
+		#Lightning no longer spawns skeleton horse traps during thunderstorms.
+		noSkeletonTrapHorses = false
+		#Combat Test bow fatigue: arrows fly almost straight when loosed within 3 seconds, then lose accuracy and stop critting the longer the bow stays drawn, up to 10 seconds, while the bow wobbles more and more.
+		bowFatigue = false
+		#Skeletons spawn holding a Crude Bow instead of a Bow.
+		crudeBowSkeletons = false
+		#Skeleton horses catch fire in sunlight unless they wear horse armor. Horse armor with durability wears down in the sun instead.
+		skeletonHorsesBurn = false
+		#At night, Evokers come for players on the surface of Dark Forests every few minutes, outside the normal monster cap.
+		darkForestEvokers = false
 
 	[features.voidWater]
 		#Fluids at the bottom of the world spill into the void as fading trails you can swim in. Takes effect when a world is next loaded.
@@ -185,6 +251,8 @@
 		disableRecipeBookTracking = true
 		#Runs /locate biome searches, structure locating and map biome previews across several threads.
 		parallelLocate = true
+		#Monsters that stop you from sleeping glow briefly so you can find them.
+		revealThreateningMonsters = false
 
 	[features.lod]
 		#Generates terrain beyond your render distance in the background so it can be drawn in the distance, out to your Distant Terrain Range. The chunks are never saved, so the world folder doesn't grow.
@@ -231,3 +299,53 @@
 		gravestoneKeepAllExperience = false
 		#A worn grave gives back less experience: half at the second stage, a third at the last.
 		gravestoneExperienceDecay = false
+
+	[features.comfort]
+		#Ticks between each health point Comfort restores. 80 ticks (4 seconds) matches the old Farmer's Delight Comfort.
+		# Default: 80
+		# Range: 1 ~ 1200
+		comfortHealInterval = 80
+		#Ticks between each health point Comfort restores while sitting, on a seat or lying in bed.
+		# Default: 40
+		# Range: 1 ~ 1200
+		comfortRestingHealInterval = 40
+		#Seconds of Comfort granted per nutrition point when eating a soup or stew (the spicedcider:comfort_foods tag). 0 disables it.
+		# Default: 0
+		# Range: 0 ~ 600
+		comfortSoupSecondsPerNutrition = 0
+		#The most seconds of Comfort a single soup or stew can grant.
+		# Default: 180
+		# Range: 0 ~ 3600
+		comfortSoupMaxSeconds = 180
+		#Seconds of Comfort granted when waking up after sleeping through the night. Players lying in bed also have Comfort. 0 disables both.
+		# Default: 0
+		# Range: 0 ~ 3600
+		comfortSleepSeconds = 0
+
+	[features.horses]
+		#Every horse, donkey and mule gets the same speed and jump strength for its kind instead of random ones. Applies to entities in the spicedcider:static_horse_stats tag.
+		staticHorseStats = false
+		#Movement speed given to every horse when Fixed Horse Stats is on. 0.3375 is the fastest a vanilla horse can be.
+		# Default: 0.3375
+		# Range: 0.05 ~ 1.0
+		staticHorseSpeed = 0.3375
+		#Jump strength given to every horse when Fixed Horse Stats is on. 1.0 is the highest a vanilla horse can jump, about 5 blocks.
+		# Default: 1.0
+		# Range: 0.1 ~ 2.0
+		staticHorseJump = 1.0
+		#Movement speed given to every donkey when Fixed Horse Stats is on. 0.175 is what a vanilla donkey gets.
+		# Default: 0.175
+		# Range: 0.05 ~ 1.0
+		staticDonkeySpeed = 0.175
+		#Jump strength given to every donkey when Fixed Horse Stats is on. 0.5 is what a vanilla donkey gets.
+		# Default: 0.5
+		# Range: 0.1 ~ 2.0
+		staticDonkeyJump = 0.5
+		#Movement speed given to every mule when Fixed Horse Stats is on. 0.175 is what a vanilla mule gets.
+		# Default: 0.175
+		# Range: 0.05 ~ 1.0
+		staticMuleSpeed = 0.175
+		#Jump strength given to every mule when Fixed Horse Stats is on. 0.5 is what a vanilla mule gets.
+		# Default: 0.5
+		# Range: 0.1 ~ 2.0
+		staticMuleJump = 0.5

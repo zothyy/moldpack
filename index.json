@@ -334,7 +334,7 @@
     },
     {
       "path": "content/mods/reliable-replacer.json",
-      "sha1": "8efe27dcbfa3ed9e2dfffe5630634daac383ab39"
+      "sha1": "0d4e1818c6b1042b43d4503363b049fab79dffeb"
     },
     {
       "path": "content/mods/rhino.json",
@@ -362,7 +362,7 @@
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "592b4af0448f2cfb25e84058fc39f140eb4dd648"
+      "sha1": "fcd2fab1c6732d0913214178c6eb0726b85c5451"
     },
     {
       "path": "content/mods/sound-physics-remastered.json",
@@ -445,6 +445,10 @@
       "sha1": "7601980d29c859c2acd075e3ea0efaaa7ed9ff78"
     },
     {
+      "path": "overrides/config/aeronautics-client.toml",
+      "sha1": "bfeef9cdbcd934c4bbce58f3e25dd303845de5ee"
+    },
+    {
       "path": "overrides/config/aeronautics-server.toml",
       "sha1": "427bd55fa8cea09a79f6d00947cbca9944a36dd5"
     },
@@ -458,7 +462,7 @@
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles-mixin.properties",
-      "sha1": "db22834e5477f34a1ffdb34205a21162ada9b4e0"
+      "sha1": "56a8117854fca30a80af420b1a231755ccf060b4"
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles.json",
@@ -522,7 +526,7 @@
     },
     {
       "path": "overrides/config/createdieselgenerators-client.toml",
-      "sha1": "93ba88a441b9e10723e5c5ba49f330bf280d4652"
+      "sha1": "b0ac64ceeff221915b476c232f4715dd1072232f"
     },
     {
       "path": "overrides/config/createdieselgenerators-common.toml",
@@ -530,7 +534,7 @@
     },
     {
       "path": "overrides/config/createdieselgenerators-server.toml",
-      "sha1": "dd444d27c28d24dfd15901b483a568e18af166a9"
+      "sha1": "3393fe4b623caf5623e3d6bf5508bd4d584a0547"
     },
     {
       "path": "overrides/config/creaturefeature-client.toml",
@@ -586,7 +590,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "7d6b5568e84f98db178b6d08d51fcf8e5e228cd8"
+      "sha1": "dc0cf79c3d46f06e25d20fe30be837e3efcf6591"
     },
     {
       "path": "overrides/config/farmersdelight-client.toml",
@@ -638,7 +642,7 @@
     },
     {
       "path": "overrides/config/immersive_optimization.json",
-      "sha1": "7087f9ff0116afe5b7dc40e532c02955ef5149a3"
+      "sha1": "a6a174dd4020c84c98f0d18a8ffe1c6c245dbcc5"
     },
     {
       "path": "overrides/config/ixeris.toml",
@@ -790,7 +794,7 @@
     },
     {
       "path": "overrides/config/packetfixer.properties",
-      "sha1": "7e8d4c373360b56bf81622a37bb3553104ce9108"
+      "sha1": "6273e02d1dae39d1cb670043a50a254418f353fc"
     },
     {
       "path": "overrides/config/peeping_angels-common.toml",
@@ -842,7 +846,7 @@
     },
     {
       "path": "overrides/config/plasmovoice/.crowdin/timestamp",
-      "sha1": "097aa7ade98c98fc5d53dbe18a89a98afdc5d4f0"
+      "sha1": "d1a0688293cb7eba10069391708acea027a39745"
     },
     {
       "path": "overrides/config/plasmovoice/.crowdin/tr_tr.json",
@@ -874,7 +878,7 @@
     },
     {
       "path": "overrides/config/plasmovoice/meta_cache.json",
-      "sha1": "813c4ad76d51fe064421ae5c4df0021c83d80666"
+      "sha1": "dc7f953115fd0c74c3ae94d84ed54697935d4b22"
     },
     {
       "path": "overrides/config/plasmovoice/server/config.toml",
@@ -926,7 +930,7 @@
     },
     {
       "path": "overrides/config/plasmovoice/server/languages/.crowdin/timestamp",
-      "sha1": "2af3abd6ae45c8cac0062ea8f98e4cfe8809cc42"
+      "sha1": "750af6bf55887a5dda2d9bb88e11c087b71a2f45"
     },
     {
       "path": "overrides/config/plasmovoice/server/languages/.crowdin/tr_tr.toml",
@@ -1106,7 +1110,7 @@
     },
     {
       "path": "overrides/config/remi/remi.json",
-      "sha1": "753bbf5be0502b1a7a36d93b428dca93299b31d0"
+      "sha1": "53d6ccd9afcb776558d09d47808b10bee95b621e"
     },
     {
       "path": "overrides/config/sable-client.toml",
@@ -1170,7 +1174,7 @@
     },
     {
       "path": "overrides/config/sound_physics_remastered/sound_rates.properties",
-      "sha1": "df489b91bf27071f3564aadc29d72e4ee2ea03d1"
+      "sha1": "c3d380b2c60d8fbecad140d52655522a3eb14150"
     },
     {
       "path": "overrides/config/sound_physics_remastered/soundphysics.properties",
@@ -1178,15 +1182,15 @@
     },
     {
       "path": "overrides/config/spicedcider-client.toml",
-      "sha1": "e0841b5192ba1363a748207b1c7b931b3104a981"
+      "sha1": "cd52af1995aff5ff1a5fb5f3d256df51f4885605"
     },
     {
       "path": "overrides/config/spicedcider-common.toml",
-      "sha1": "ee2377074d0884cffa7ea18b7b5128cab0f8d586"
+      "sha1": "d9883ef29f581cbff99a5fc21b3afed37af474ff"
     },
     {
       "path": "overrides/config/spicedcider-startup.toml",
-      "sha1": "c7e07d8cf181b16b89c5159c8b9eecd644b4c3fd"
+      "sha1": "2b41e415c0b4ce8d0ef04e7f235dfc5c2da8fa43"
     },
     {
       "path": "overrides/config/structureeyes-common.toml",
@@ -1250,7 +1254,7 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "25a026392771192584a2e505db22714a7db57fa9"
+      "sha1": "d935a272b6f6a4d0611cac2dda7083072ec8d444"
     },
     {
       "path": "overrides/data/fabricDefaultResourcePacks.dat",
@@ -2198,7 +2202,7 @@
     },
     {
       "path": "overrides/kubejs/server_scripts/lifeblood.js",
-      "sha1": "ea053d724ebdfbd295442de0bcd6330427d0aa46"
+      "sha1": "3d6bdaee59867610ababf0efc985a4bc5200501a"
     },
     {
       "path": "overrides/kubejs/server_scripts/lootjs.js",
@@ -2310,7 +2314,7 @@
     },
     {
       "path": "overrides/kubejs/startup_scripts/item_registry.js",
-      "sha1": "49cacc686072fa9818f471866a5c12c778e67a24"
+      "sha1": "408fdc4f018054b168a11707651ede898dc0c2bb"
     },
     {
       "path": "overrides/kubejs/startup_scripts/raw_registry.js",

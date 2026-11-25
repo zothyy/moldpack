@@ -87,14 +87,14 @@
 - [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.9.0-1.21.1-neoforge`
 - [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.9.0+1.21.1-neoforge`
 - [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.9.3+1.21.1-neoforge`
-- [Reliable Replacer](https://modrinth.com/project/reliable-replacer) `1.9.0+1.21.1-neoforge`
+- [Reliable Replacer](https://modrinth.com/project/reliable-replacer) `1.9.1+1.21.1-neoforge`
 - [Rhino](https://modrinth.com/project/rhino) `2101.2.8-build.91+Rhino-1.21`
 - [Sable](https://modrinth.com/project/sable) `2.0.6+mc1.21.1`
 - [ServerCore](https://modrinth.com/project/servercore) `1.5.19+1.21.1`
 - [Slag n' Embers](https://modrinth.com/project/slag-n-embers) `1.21.1-1.2b`
 - [Smart Particles](https://modrinth.com/project/smart-particles) `21.8.10`
 - [Smeltery Required! [Slag n' Embers]](https://modrinth.com/project/smeltery-required) `1.0.0`
-- [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
+- [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.14-beta.2-neoforge`
 - [Sound Physics Remastered](https://modrinth.com/project/sound-physics-remastered) `neoforge-1.21.1-1.5.2`
 - [Strike After Swing](https://modrinth.com/project/strike-after-swing) `1.0.4`
 - [Structure Eyes](https://modrinth.com/project/structure-eyes) `1.0.0`

@@ -30,6 +30,11 @@
     "*": true,
     "minecraft:ender_dragon": false
   },
+  "blockEntities": {
+    "the_bumblezone:potion_candle": false,
+    "the_bumblezone:essence_block": false,
+    "*": true
+  },
   "cullProjectiles": false,
   "version": 2,
   "name": "immersive_optimization"
