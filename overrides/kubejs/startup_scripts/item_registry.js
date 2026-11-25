@@ -1,6 +1,9 @@
 StartupEvents.registry('item', event => {
-
-  event.create('eye_of_flames')
+  
+  event.create('heart_of_ichor', 'eyejs:structure_eye')
+    .displayName('Heart of ichor')
+    .structures('minecraft:fortress')
+    .trailColor(0x1FCC4D)
 //bottles
   event.create('lifeblood_bottle').food(food => {
     food

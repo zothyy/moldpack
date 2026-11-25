@@ -36,6 +36,7 @@
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.12.2`
 - [Experience Obliterator](https://modrinth.com/project/experience-obliterator) `2.2.0+1.21.1-neoforge`
 - [Exposure](https://modrinth.com/project/exposure) `1.9.21`
+- [EyeJS: KubeJS Addon](https://www.curseforge.com/projects/1624204) `EyeJS-1.21.1-1.0.0.jar`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
 - [Fast IP Ping](https://modrinth.com/project/fast-ip-ping) `v1.0.12-mc1.21.1-neoforge`
 - [Fast Noise](https://modrinth.com/project/zfastnoise) `1.0.13+1.21.1+neoforge`
@@ -99,7 +100,6 @@
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.14-beta.2-neoforge`
 - [Sound Physics Remastered](https://modrinth.com/project/sound-physics-remastered) `neoforge-1.21.1-1.5.2`
 - [Strike After Swing](https://modrinth.com/project/strike-after-swing) `1.0.4`
-- [Structure Eyes](https://modrinth.com/project/structure-eyes) `1.0.0`
 - [Sun & Moon Fusion](https://modrinth.com/project/sun-moon-fusion) `3`
 - [Tide 2](https://modrinth.com/project/tide) `2.1.1`
 - [Tolerable Creepers](https://modrinth.com/project/tolerable-creepers) `2.3.0-1.21.1-neoforge`

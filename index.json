@@ -197,8 +197,12 @@
       "sha1": "9e412d3a5c546b7afaf91e015cd3106eecad24b8"
     },
     {
+      "path": "content/mods/kubejs-eyejs.json",
+      "sha1": "4e01f86a7b13dab79672418f6767105d2cb82247"
+    },
+    {
       "path": "content/mods/kubejs.json",
-      "sha1": "81f26cb93dbf985a088c68650499710a56558d5d"
+      "sha1": "49de0cfdcf7aa80c147a0eb21deb393d099e0f8e"
     },
     {
       "path": "content/mods/lambdynamiclights.json",
@@ -334,7 +338,7 @@
     },
     {
       "path": "content/mods/rhino.json",
-      "sha1": "fbc2252b39a090e20c9e53386ffc6084e8448463"
+      "sha1": "585aaaa37c33a14822664d8b927d65cf50ba9257"
     },
     {
       "path": "content/mods/sable.json",
@@ -367,10 +371,6 @@
     {
       "path": "content/mods/strike-after-swing.json",
       "sha1": "a37c8723be34058b4ec7252cf6a248f4b0216283"
-    },
-    {
-      "path": "content/mods/structure-eyes.json",
-      "sha1": "202609eedc8b7f234e20e81c019c63eb5cf6194e"
     },
     {
       "path": "content/mods/tide.json",
@@ -458,7 +458,7 @@
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles-mixin.properties",
-      "sha1": "e7d6e0b42bb33efe6e7ce504401853053f7d9667"
+      "sha1": "155469c714ef69d60f1d9b2611731657f9a65f97"
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles.json",
@@ -586,7 +586,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "b03194ee6df32b5f765e17f84d2ebc8046f745f6"
+      "sha1": "f42893954e5a2d3e5b5499e78e206b5dc39a4764"
     },
     {
       "path": "overrides/config/farmersdelight-client.toml",
@@ -790,7 +790,7 @@
     },
     {
       "path": "overrides/config/packetfixer.properties",
-      "sha1": "89b6783ff2e0e568d5d975f273ee334c06c3be9d"
+      "sha1": "3a2be94ddd5ba4f8b4109685bdf29fded169bdba"
     },
     {
       "path": "overrides/config/peeping_angels-common.toml",
@@ -1189,10 +1189,6 @@
       "sha1": "2b41e415c0b4ce8d0ef04e7f235dfc5c2da8fa43"
     },
     {
-      "path": "overrides/config/structureeyes-common.toml",
-      "sha1": "a852bd1e3b7bd058e65469ff21003d2b08940bc5"
-    },
-    {
       "path": "overrides/config/tide/tide_client.json",
       "sha1": "52faa62f42efd75fbf1a9731a2b849445c84e6c1"
     },
@@ -1250,7 +1246,7 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "8ebf7300d64041198da85a47931f6fdbd1d14cce"
+      "sha1": "9094c89b030301883aa3aaeb3fd6679d0b385f9b"
     },
     {
       "path": "overrides/data/fabricDefaultResourcePacks.dat",
@@ -1565,7 +1561,7 @@
       "sha1": "b85de4b2735450ed3f4b34ff138ad8970464518d"
     },
     {
-      "path": "overrides/kubejs/assets/kubejs/textures/item/eye_of_flames.png",
+      "path": "overrides/kubejs/assets/kubejs/textures/item/heart_of_ichor.png",
       "sha1": "057ac052a3a3bb7336eb98922e9d32366ea4039a"
     },
     {
@@ -2310,7 +2306,7 @@
     },
     {
       "path": "overrides/kubejs/startup_scripts/item_registry.js",
-      "sha1": "408fdc4f018054b168a11707651ede898dc0c2bb"
+      "sha1": "4783a720b11c64d24db698853c87049a4713fac4"
     },
     {
       "path": "overrides/kubejs/startup_scripts/raw_registry.js",
