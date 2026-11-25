@@ -1,6 +1,6 @@
 # moldpack
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 96 mods (1 dependency), 4 resource packs, 2 data packs
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 97 mods (1 dependency), 4 resource packs, 2 data packs
 
 ## Contents
 
@@ -13,6 +13,7 @@
 - [BadOptimizations](https://modrinth.com/project/badoptimizations) `2.4.1`
 - [Beds Spawn Phantoms](https://modrinth.com/project/beds-spawn-phantoms) `1.0.3+datapack`
 - [Better Advanced Tooltips](https://modrinth.com/project/better-advanced-tooltips) `2101.1.0-build.5`
+- [Big Walk Controls](https://modrinth.com/project/big-walk-controls) `1.0.1`
 - [Biolith](https://modrinth.com/project/biolith) `3.0.14`
 - [Blueprint](https://modrinth.com/project/blueprint) `8.2.0`
 - [Caverns & Chasms](https://modrinth.com/project/caverns-and-chasms) `3.0.1`

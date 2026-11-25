@@ -1,0 +1,23 @@
+{
+  "name": "Big Walk Controls",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "OzAW9j3g",
+      "slug": "big-walk-controls",
+      "versionId": "n9b4MsdV",
+      "versionNumber": "1.0.1",
+      "filename": "bigwalkcontrols-1.0.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/OzAW9j3g/versions/n9b4MsdV/bigwalkcontrols-1.0.1.jar",
+      "sha1": "2f398dbbd62bbd31887ad6f2c95a5fb08739efd0",
+      "sha512": "a2d09424691e1221a7acfb189ae8c9fb1bfa87ea2f48233e01c7d222aa99456fba6fc16320750fc63cfb0aee318a4f6288b85bf851a8ed862c4cadbe48b0f202",
+      "fileSize": 25491
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
