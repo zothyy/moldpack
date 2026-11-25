@@ -2,7 +2,7 @@
   "name": "KubeJS",
   "side": "auto",
   "explicit": false,
-  "disabled": false,
+  "disabled": true,
   "preferred": "modrinth",
   "sources": {
     "modrinth": {
