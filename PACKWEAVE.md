@@ -1,6 +1,6 @@
 # moldpack
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 95 mods (2 dependencies), 4 resource packs, 2 data packs
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 95 mods (3 dependencies), 4 resource packs, 2 data packs
 
 ## Contents
 
@@ -87,7 +87,7 @@
 - [Reliable Backpacks](https://modrinth.com/project/reliable-backpacks) `1.10.0-1.21.1-neoforge`
 - [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.9.0-1.21.1-neoforge`
 - [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.9.0+1.21.1-neoforge`
-- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.9.3+1.21.1-neoforge`
+- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.9.4+1.21.1-neoforge`
 - [Reliable Replacer](https://modrinth.com/project/reliable-replacer) `1.9.1+1.21.1-neoforge`
 - [Rhino](https://modrinth.com/project/rhino) `2101.2.8-build.91+Rhino-1.21`
 - [Sable](https://modrinth.com/project/sable) `2.0.6+mc1.21.1`

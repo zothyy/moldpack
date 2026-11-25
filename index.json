@@ -34,7 +34,7 @@
     },
     {
       "path": "content/mods/better-advanced-tooltips.json",
-      "sha1": "34ee99182c297f32367c48a631d776551415cdde"
+      "sha1": "d1316ff0861b46892bee4a49c9784cc196f535b9"
     },
     {
       "path": "content/mods/biolith.json",
@@ -193,6 +193,10 @@
       "sha1": "76c6d699f407de5a6d75377f766a5a44ed76ba94"
     },
     {
+      "path": "content/mods/kubejs-2.json",
+      "sha1": "ee906f4b43b654e0e6f10a3c44c6accd7722ccb1"
+    },
+    {
       "path": "content/mods/kubejs-create.json",
       "sha1": "826a04261c22badc46ff93a619601271fdb8d370"
     },
@@ -326,7 +330,7 @@
     },
     {
       "path": "content/mods/reliable-remover.json",
-      "sha1": "17d6bb62584869f6f7c2cabee233782cc2f934d2"
+      "sha1": "e6623241946aa469465f401420d79074185f798c"
     },
     {
       "path": "content/mods/reliable-replacer.json",
@@ -334,7 +338,7 @@
     },
     {
       "path": "content/mods/rhino.json",
-      "sha1": "fbc2252b39a090e20c9e53386ffc6084e8448463"
+      "sha1": "82003696573a3567061e300a3f311220b4216c62"
     },
     {
       "path": "content/mods/sable.json",
