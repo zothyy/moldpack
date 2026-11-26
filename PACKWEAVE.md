@@ -1,6 +1,6 @@
 # moldpack
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 97 mods (1 dependency), 4 resource packs, 2 data packs
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 95 mods (1 dependency), 4 resource packs, 2 data packs
 
 ## Contents
 
@@ -17,7 +17,7 @@
 - [Biolith](https://modrinth.com/project/biolith) `3.0.14`
 - [Blueprint](https://modrinth.com/project/blueprint) `8.2.0`
 - [Caverns & Chasms](https://modrinth.com/project/caverns-and-chasms) `3.0.1`
-- [Cider Core](https://modrinth.com/project/cider-core) `4.0.0+1.21.1`
+- [Cider Core](https://modrinth.com/project/cider-core) `5.0.0+1.21.1`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.124+1.21.1`
 - [Crawl on Demand](https://modrinth.com/project/crawl-on-demand) `1.21-1.21.5-1.2.0+neoforge`
@@ -54,7 +54,7 @@
 - [Jade Sable Compat](https://modrinth.com/project/jade-sable-compat) `1.3.0`
 - [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
 - [Jasione](https://modrinth.com/project/jasione) `1.0.9+1.21.1-neoforge`
-- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.76.1.481`
+- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.76.1.482`
 - [Kerria](https://modrinth.com/project/kerria-opt) `1.4.0+1.21.1-neoforge`
 - [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `5.13.0`
 - [Krypton Reno](https://modrinth.com/project/krypton-fnp) `0.2.28.1-1.21.1`
@@ -95,12 +95,10 @@
 - [Rhino](https://modrinth.com/project/rhino) `2101.2.8-build.91+Rhino-1.21`
 - [Sable](https://modrinth.com/project/sable) `2.0.6+mc1.21.1`
 - [ServerCore](https://modrinth.com/project/servercore) `1.5.19+1.21.1`
-- [Slag n' Embers](https://modrinth.com/project/slag-n-embers) `1.21.1-1.2b`
 - [Smart Particles](https://modrinth.com/project/smart-particles) `21.8.10`
-- [Smeltery Required! [Slag n' Embers]](https://modrinth.com/project/smeltery-required) `1.0.0`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
 - [Sound Physics Remastered](https://modrinth.com/project/sound-physics-remastered) `neoforge-1.21.1-1.5.2`
-- [Strike After Swing](https://modrinth.com/project/strike-after-swing) `1.0.4`
+- [Strike After Swing](https://modrinth.com/project/strike-after-swing) `1.0.5`
 - [Sun & Moon Fusion](https://modrinth.com/project/sun-moon-fusion) `3`
 - [Tide 2](https://modrinth.com/project/tide) `2.1.1`
 - [Tolerable Creepers](https://modrinth.com/project/tolerable-creepers) `2.3.0-1.21.1-neoforge`

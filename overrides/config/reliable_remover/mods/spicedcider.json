@@ -1,0 +1,19 @@
+[
+  {
+    "action": "remove",
+    "items": [
+      "spicedcider:molten_copper_bucket",
+      "spicedcider:molten_tin_bucket",
+      "spicedcider:molten_lead_bucket",
+      "spicedcider:molten_gold_bucket",
+      "spicedcider:molten_silver_bucket",
+      "spicedcider:molten_electrum_bucket",
+      "spicedcider:molten_iron_bucket",
+      "spicedcider:molten_cast_iron_bucket",
+      "spicedcider:molten_netherite_bucket",
+      "spicedcider:molten_valkyrium_bucket",
+      "spicedcider:molten_prismarite_bucket",
+      "spicedcider:molten_necromium_bucket"
+    ]
+  }
+]

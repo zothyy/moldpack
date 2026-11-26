@@ -58,7 +58,7 @@
     },
     {
       "path": "content/mods/cider-core.json",
-      "sha1": "a2ff256dd4b9f98466d7cfdb83b09e40c3154a44"
+      "sha1": "0b8ff851f4e0e12b3a521fcffedfc9df747d23de"
     },
     {
       "path": "content/mods/cloth-config.json",
@@ -70,7 +70,7 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "7902e70b496ebbd1e70811d423ce7ff4814df78d"
+      "sha1": "c2613ffcacebe941514f12501225af78f6efaae2"
     },
     {
       "path": "content/mods/create-diesel-generators.json",
@@ -86,7 +86,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "7d9eaabeac5aa50f0b895446650288a352228204"
+      "sha1": "5f6865774bbbb2230596774cc398e53718414166"
     },
     {
       "path": "content/mods/creature-feature.json",
@@ -182,7 +182,7 @@
     },
     {
       "path": "content/mods/jei.json",
-      "sha1": "34fa8277e7f2a2e306abc32d61a5da0964285925"
+      "sha1": "e1ec20f0b7fed856b2f3a08737b54edd2ed18921"
     },
     {
       "path": "content/mods/kerria-opt.json",
@@ -346,27 +346,19 @@
     },
     {
       "path": "content/mods/sable.json",
-      "sha1": "bb25fe9f9c1d93e1491cb933ac82ca8f7e42fab9"
+      "sha1": "8edcd7315b809875fd49d8f32dbfb3dca9abf4fa"
     },
     {
       "path": "content/mods/servercore.json",
       "sha1": "2328497721535ee60efb4fd934e0d868e54620d6"
     },
     {
-      "path": "content/mods/slag-n-embers.json",
-      "sha1": "f6ceb9db3b4f6567ebe36f650ed51a6418aa65ef"
-    },
-    {
       "path": "content/mods/smart-particles.json",
       "sha1": "110e7166cb55dffadbb77f732ae4a97d224152f7"
     },
     {
-      "path": "content/mods/smeltery-required.json",
-      "sha1": "bb49a7fd9ae4b566d42ed6fd6bfed3aafdbac118"
-    },
-    {
       "path": "content/mods/sodium.json",
-      "sha1": "592b4af0448f2cfb25e84058fc39f140eb4dd648"
+      "sha1": "36311c7b68603eff260bbfb56c8c5af1e52a556c"
     },
     {
       "path": "content/mods/sound-physics-remastered.json",
@@ -374,7 +366,7 @@
     },
     {
       "path": "content/mods/strike-after-swing.json",
-      "sha1": "a37c8723be34058b4ec7252cf6a248f4b0216283"
+      "sha1": "d40d6422311e95c4113a7d9700a0d35daf4dc1d7"
     },
     {
       "path": "content/mods/tide.json",
@@ -462,7 +454,7 @@
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles-mixin.properties",
-      "sha1": "f8b6e55592db413f386ace6cd964df72f7f1af7f"
+      "sha1": "fc0d23f21a7907b6e9841a32c3fbfe1112682f47"
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles.json",
@@ -590,7 +582,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "9b24c6d2fbc6d07c38b47ee6c9f152431b1f437b"
+      "sha1": "cda69ccb9d8b1119bf38a2f8df99ee4fc1315a5d"
     },
     {
       "path": "overrides/config/farmersdelight-client.toml",
@@ -794,7 +786,7 @@
     },
     {
       "path": "overrides/config/packetfixer.properties",
-      "sha1": "bee645395340bc01fb21694acde4040f8d929a70"
+      "sha1": "6f305fafbc48a6b61b6d8b8cad544e2fd336086b"
     },
     {
       "path": "overrides/config/peeping_angels-common.toml",
@@ -1077,6 +1069,10 @@
       "sha1": "beaf0e1e153efca468f061b97510ee53cd698a5f"
     },
     {
+      "path": "overrides/config/reliable_remover/mods/spicedcider.json",
+      "sha1": "a7f08399dd4ea77fa205f1fcd2c27828e06cae81"
+    },
+    {
       "path": "overrides/config/reliable_remover/removal.json",
       "sha1": "785dea45d113319a0ac0040f2b0057b87dcf4d74"
     },
@@ -1250,7 +1246,7 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "9896bda5fd0eb77140a12de1b8aef3647f049357"
+      "sha1": "ef6c6344b2fad7d5c1366dc4a3dd67d680808c7e"
     },
     {
       "path": "overrides/data/fabricDefaultResourcePacks.dat",
