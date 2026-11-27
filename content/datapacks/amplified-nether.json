@@ -1,0 +1,23 @@
+{
+  "name": "Amplified Nether",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "wXiGiyGX",
+      "slug": "amplified-nether",
+      "versionId": "xIayvf8F",
+      "versionNumber": "1.2.15",
+      "filename": "Amplified_Nether_v1.2.15.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/wXiGiyGX/versions/xIayvf8F/Amplified_Nether_v1.2.15.zip",
+      "sha1": "94d9604cebbfca667aeb59e4b1ac03e9c6e5cb5d",
+      "sha512": "686edbd22e5cfc0956e6d5b2c606400480e6ec19c1b287cddbe59a0840836160ef2291224a411d23687c4e342bc322ecf19ffad763259db99f56ebb83f8200af",
+      "fileSize": 105555
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

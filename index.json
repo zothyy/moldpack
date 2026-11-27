@@ -1,6 +1,10 @@
 {
   "files": [
     {
+      "path": "content/datapacks/amplified-nether.json",
+      "sha1": "fb289f297064abdcec2020cc1326389ff52d52af"
+    },
+    {
       "path": "content/datapacks/angel-islands.json",
       "sha1": "a42df5b80beaceb2a52b3a92939a23d62ee6e2db"
     },
@@ -30,7 +34,7 @@
     },
     {
       "path": "content/mods/badoptimizations.json",
-      "sha1": "f658ca1ed127d4b77d26c308ac416b7854f1e613"
+      "sha1": "17bcaa50b2409c0da2131211642924adb0dc863e"
     },
     {
       "path": "content/mods/better-advanced-tooltips.json",
@@ -49,6 +53,10 @@
       "sha1": "41eecd0e34e6105af5f37229f748c0d79cd52bf6"
     },
     {
+      "path": "content/mods/brute-force-culling-revamped.json",
+      "sha1": "5cac9bc50bfa69d8d72dc0bbc71395536fcf19e5"
+    },
+    {
       "path": "content/mods/c2me-neoforge.json",
       "sha1": "1ba00aec2a4c3968b64b76d55df5c3ce63898779"
     },
@@ -58,7 +66,7 @@
     },
     {
       "path": "content/mods/cider-core.json",
-      "sha1": "0b8ff851f4e0e12b3a521fcffedfc9df747d23de"
+      "sha1": "a2ff256dd4b9f98466d7cfdb83b09e40c3154a44"
     },
     {
       "path": "content/mods/cloth-config.json",
@@ -86,7 +94,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "5f6865774bbbb2230596774cc398e53718414166"
+      "sha1": "2adf5ab1e75a31aa210c899fbaa68e71b210063d"
     },
     {
       "path": "content/mods/creature-feature.json",
@@ -182,7 +190,7 @@
     },
     {
       "path": "content/mods/jei.json",
-      "sha1": "e1ec20f0b7fed856b2f3a08737b54edd2ed18921"
+      "sha1": "6ad122bddd9876adac72e93e494c0c91bed65a2c"
     },
     {
       "path": "content/mods/kerria-opt.json",
@@ -219,6 +227,10 @@
     {
       "path": "content/mods/lootjs.json",
       "sha1": "ac377036e953455ae738ef2e4965d3b1aa1af893"
+    },
+    {
+      "path": "content/mods/manual-labour.json",
+      "sha1": "a94e6fa0a866c86055a9d4248f6af586ab3c5fb5"
     },
     {
       "path": "content/mods/mezzconfig.json",
@@ -358,7 +370,7 @@
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "36311c7b68603eff260bbfb56c8c5af1e52a556c"
+      "sha1": "32c0716731408d5984dea35f168875150a84786d"
     },
     {
       "path": "content/mods/sound-physics-remastered.json",
@@ -386,7 +398,7 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "6a21ea879ac7e73f66ba33f1737603156363f2e8"
+      "sha1": "98d050c82cd2a23b559e226afb6681f21eb9c077"
     },
     {
       "path": "content/mods/zfastnoise.json",
@@ -454,7 +466,7 @@
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles-mixin.properties",
-      "sha1": "fc0d23f21a7907b6e9841a32c3fbfe1112682f47"
+      "sha1": "817c5cc379aafbc8b04123880ea46d80b3fbaefa"
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles.json",
@@ -582,7 +594,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "cda69ccb9d8b1119bf38a2f8df99ee4fc1315a5d"
+      "sha1": "cfb53f87187d5937db9692751c920a5e01620863"
     },
     {
       "path": "overrides/config/farmersdelight-client.toml",
@@ -786,7 +798,7 @@
     },
     {
       "path": "overrides/config/packetfixer.properties",
-      "sha1": "6f305fafbc48a6b61b6d8b8cad544e2fd336086b"
+      "sha1": "ba0e3b02a17713341bd99e9084676456436df30a"
     },
     {
       "path": "overrides/config/peeping_angels-common.toml",
@@ -870,7 +882,7 @@
     },
     {
       "path": "overrides/config/plasmovoice/meta_cache.json",
-      "sha1": "dc7f953115fd0c74c3ae94d84ed54697935d4b22"
+      "sha1": "681f285e3954601d671a159cf76cf1503d8fa1e4"
     },
     {
       "path": "overrides/config/plasmovoice/server/config.toml",
@@ -1061,6 +1073,10 @@
       "sha1": "59a9e486cfe2cf6f15a23619f876455638d91c86"
     },
     {
+      "path": "overrides/config/reliable_remover/mods/get_creative.json",
+      "sha1": "9d72db6093a88f6ef98496d68853e0a01a2304a6"
+    },
+    {
       "path": "overrides/config/reliable_remover/mods/modestmining.json",
       "sha1": "e7cf30edbb79143bc221b70c2090e67aea32785e"
     },
@@ -1178,15 +1194,27 @@
     },
     {
       "path": "overrides/config/spicedcider-client.toml",
-      "sha1": "cd52af1995aff5ff1a5fb5f3d256df51f4885605"
+      "sha1": "31461e50ec67287ee0f9ad76e8729bdc960bfd24"
     },
     {
       "path": "overrides/config/spicedcider-common.toml",
-      "sha1": "d9883ef29f581cbff99a5fc21b3afed37af474ff"
+      "sha1": "a094ab3a36726583b659ad13b76cb528990dd928"
     },
     {
       "path": "overrides/config/spicedcider-startup.toml",
-      "sha1": "2b41e415c0b4ce8d0ef04e7f235dfc5c2da8fa43"
+      "sha1": "6485baa17a155081adbfb2061f47321144e48223"
+    },
+    {
+      "path": "overrides/config/strikeafterswing/blacklist.json",
+      "sha1": "cd0d4cc32346750408f7d4f5e78ec9a6e5b79a0d"
+    },
+    {
+      "path": "overrides/config/strikeafterswing/limits.json",
+      "sha1": "e6ae25e24db7a46328088096d60df6f87c5f36f4"
+    },
+    {
+      "path": "overrides/config/strikeafterswing/windup.json",
+      "sha1": "f8125ef878875a1423b5e9230fed6dadbe1ea218"
     },
     {
       "path": "overrides/config/tide/tide_client.json",
@@ -1194,7 +1222,7 @@
     },
     {
       "path": "overrides/config/tide/tide_server.json",
-      "sha1": "1e13f58cfb8d4f148b4c6ab6cfe587c802db29f0"
+      "sha1": "7e01afadde59360389d7f2face337b027242fd0d"
     },
     {
       "path": "overrides/config/tidybinds.toml",
@@ -1246,7 +1274,7 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "ef6c6344b2fad7d5c1366dc4a3dd67d680808c7e"
+      "sha1": "9498ce90fcadbd917ceebf77bec752b6fc2907b9"
     },
     {
       "path": "overrides/data/fabricDefaultResourcePacks.dat",
@@ -2194,7 +2222,7 @@
     },
     {
       "path": "overrides/kubejs/server_scripts/lifeblood.js",
-      "sha1": "3d6bdaee59867610ababf0efc985a4bc5200501a"
+      "sha1": "5ed23af9a088c9be1735ccf8761d93ca03ceae00"
     },
     {
       "path": "overrides/kubejs/server_scripts/lootjs.js",

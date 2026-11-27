@@ -1,23 +1,25 @@
 # moldpack
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 95 mods (1 dependency), 4 resource packs, 2 data packs
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 97 mods (1 dependency), 4 resource packs, 3 data packs
 
 ## Contents
 
 - [(Bee's) Fluffy Carpets and Wool](https://modrinth.com/project/fluffy-carpets) `1.1`
 - [AllTheLeaks (Memory Leak Fix)](https://www.curseforge.com/projects/1091339) `alltheleaks-1.1.16+1.21.1-neoforge.jar`
 - [Alternate Current](https://modrinth.com/project/alternate-current) `neoforge-mc1.21-1.9.0`
+- [Amplified Nether](https://modrinth.com/project/amplified-nether) `1.2.15`
 - [Angel Islands](https://modrinth.com/project/angel-islands) `2.0.3`
 - [Async Logger](https://modrinth.com/project/asynclogger) `2.2.3+1.21.1-neoforge`
 - [AsyncParticles](https://modrinth.com/project/asyncparticles) `21.1.4.14`
-- [BadOptimizations](https://modrinth.com/project/badoptimizations) `2.4.1`
+- [BadOptimizations](https://modrinth.com/project/badoptimizations) `3.0.0`
 - [Beds Spawn Phantoms](https://modrinth.com/project/beds-spawn-phantoms) `1.0.3+datapack`
 - [Better Advanced Tooltips](https://modrinth.com/project/better-advanced-tooltips) `2101.1.0-build.5`
 - [Big Walk Controls](https://modrinth.com/project/big-walk-controls) `1.0.1`
 - [Biolith](https://modrinth.com/project/biolith) `3.0.14`
 - [Blueprint](https://modrinth.com/project/blueprint) `8.2.0`
+- [Brute Force Culling Revamped](https://modrinth.com/project/brute-force-culling-revamped) `2.0.1-1.21.1-neoforge`
 - [Caverns & Chasms](https://modrinth.com/project/caverns-and-chasms) `3.0.1`
-- [Cider Core](https://modrinth.com/project/cider-core) `5.0.0+1.21.1`
+- [Cider Core](https://modrinth.com/project/cider-core) `4.0.0+1.21.1`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.124+1.21.1`
 - [Crawl on Demand](https://modrinth.com/project/crawl-on-demand) `1.21-1.21.5-1.2.0+neoforge`
@@ -63,6 +65,7 @@
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [LootJS: KubeJS Addon](https://modrinth.com/project/lootjs) `1.21.1-3.7.0+neoforge`
+- [Manual Labour](https://modrinth.com/project/manual-labour) `2.6.3-1.21.1`
 - [MezzConfig](https://modrinth.com/project/mezzconfig) `0.7.1`
 - [Model Gap Fix](https://modrinth.com/project/modelfix) `1.21-1.10`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.27+mc1.21.1`

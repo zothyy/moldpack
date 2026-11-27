@@ -11,10 +11,5 @@ ServerEvents.recipes(event => {
 ItemEvents.foodEaten('kubejs:lifeblood_bottle', event => {
 const { item, level, player } = event;
 //event.level.runCommand('execute in minecraft:the_nether run tp @s ~ ~ ~')
-  player.teleportTo(
-    event.server.getLevel('minecraft:the_nether'),
-    player.pos().x,
-    player.pos().y,
-    player.pos().z,
-  )
+  player.teleportToLevel(event.server.getLevel('minecraft:the_nether'))
 })

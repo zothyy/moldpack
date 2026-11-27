@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "g96Z4WVZ",
       "slug": "badoptimizations",
-      "versionId": "S2qthD5S",
-      "versionNumber": "2.4.1",
-      "filename": "BadOptimizations-2.4.1-1.21.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/S2qthD5S/BadOptimizations-2.4.1-1.21.1.jar",
-      "sha1": "1461d8e46391efd32a3085150e86094c9f6f5c9d",
-      "sha512": "2b66428bd98bd5ec0e09f2ec6af801cefb7b9b99cc4f0993daeaffe8d0ccc5ee0c2a73e9f38d4f92540ead0181704d2c9e946837ec05cf710fc3b20fce3b0cac",
-      "fileSize": 283566
+      "versionId": "qVtC2le0",
+      "versionNumber": "3.0.0",
+      "filename": "BadOptimizations-3.0.0-1.20.6-1.21.8.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/qVtC2le0/BadOptimizations-3.0.0-1.20.6-1.21.8.jar",
+      "sha1": "3d19f84356d7b4b4b8e02df770c2c7f6f74495d0",
+      "sha512": "6902dc0b8de4bded34cac6d9c2ca1cab810986ffe74df1b54dc6cd5d66cb1e118d28ee793311b6c2174efa7e71eda0dc7a63e1fba5becae1e5e41e68553d611c",
+      "fileSize": 121921
     }
   },
   "dependents": [],

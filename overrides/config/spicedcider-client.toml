@@ -2,17 +2,17 @@
 	#Hides the voice chat HUD while playing in a world that isn't open to LAN. Requires Simple Voice Chat.
 	voiceChatHideSingleplayerHud = false
 	#Adds an EMI category for tapping trees with a tap. Requires EMI and No Man's Land. Reload EMI or rejoin the world to apply.
-	emiTappingCategory = false
+	emiTappingCategory = true
 	#Adds an EMI category for what sluices filter out of each fluid. Requires EMI and Spelunkery. Reload EMI or rejoin the world to apply.
 	emiSluicingCategory = false
 	#Adds an EMI category for what piglins give in exchange for gold. Requires EMI. Reload EMI or rejoin the world to apply.
-	emiBarteringCategory = false
+	emiBarteringCategory = true
 	#Adds an EMI category for what sniffers dig up. Requires EMI. Reload EMI or rejoin the world to apply.
-	emiSniffingCategory = false
+	emiSniffingCategory = true
 	#Adds an EMI category for what brushing suspicious blocks can uncover. Requires EMI. Reload EMI or rejoin the world to apply.
-	emiArchaeologyCategory = false
+	emiArchaeologyCategory = true
 	#Adds an EMI category for the loot found in each structure's chests. Requires EMI. Reload EMI or rejoin the world to apply.
-	emiStructureLootCategory = false
+	emiStructureLootCategory = true
 	#Replaces Clutter No More's scrolling shape switcher with a radial wheel, and makes the controller shape button hold-to-open. Requires Clutter No More.
 	clutterNoMoreShapeWheel = false
 	#When the creative tab panel is on the right side of the item list, its tabs are drawn on the right edge too. Requires REMI.
@@ -28,7 +28,7 @@
 	#Golden dandelions give off drifting golden specks. Requires Tiny Takeover Backport.
 	goldenDandelionParticles = true
 	#Replaces No Man's Land's carving menu with a radial wheel. Requires No Man's Land.
-	carvingWheel = false
+	carvingWheel = true
 	#Adds an EMI category for what cave urns can hold when broken. Requires EMI and Supplementaries. Reload EMI or rejoin the world to apply.
 	emiUrnLootCategory = false
 	#EMI shows Spelunkery's rough diamonds and emeralds being polished on a regular grindstone instead of the Diamond Grindstone. Pair with grindstone_polishing loot tables for them.
@@ -36,11 +36,11 @@
 	#Your graves show on the locator bar as tombstone icons, even in singleplayer. Requires Vanilla Backport.
 	graveLocatorBar = false
 	#Jade tooltips only show while looking through a spyglass or wearing or looking through a Caverns & Chasms monocle. Requires Jade.
-	jadeNeedsSpyglassOrMonocle = false
+	jadeNeedsSpyglassOrMonocle = true
 	#Run up full blocks without jumping while sprinting.
 	stepUpEnabled = true
 	#The camera glides when you step up onto or down off a block or slab instead of snapping, in first and third person and while riding.
-	smoothStepUp = false
+	smoothStepUp = true
 
 [naming]
 	#Auto-generates a random world name on the world creation screen, with a reroll button if Modern World Creation is present.
@@ -58,21 +58,21 @@
 	#Restore classic style loading/progress screen when loading worlds, saving worlds, or changing dimensions.
 	oldProgressScreen = false
 	#Replace the vanilla Options screen with Spiced Cider's single settings screen (sidebar pages, curated options). Keybinds the screen hides are unbound.
-	customOptionsScreen = false
+	customOptionsScreen = true
 	#Removes the rename text field from the anvil screen.
 	anvilHideNameField = false
 	#While sleeping, the chat box is replaced by gameplay tips.
 	bedScreenTips = false
 	#Moves the recipe book button in the inventory screen to the right, beside the crafting grid.
-	moveRecipeBookButton = false
+	moveRecipeBookButton = true
 	#Hides your own potion effect particles in first person.
-	hideOwnEffectParticles = false
+	hideOwnEffectParticles = true
 	#Removes the "Applies to" and "Ingredients" lines from smithing template tooltips.
 	hideSmithingTemplateTooltips = false
 	#Blindness fog reaches farther and the Darkness pulse is weaker, so both stay playable at night and underground.
-	softerBlindnessAndDarkness = false
+	softerBlindnessAndDarkness = true
 	#Removes the armor bar from the HUD.
-	hideArmorBar = false
+	hideArmorBar = true
 	#Held and dropped light-giving blocks glow the same colour as when they're placed. Requires Polytone.
 	matchHeldLightColors = false
 	#Lanterns and other lights hung from chains and ropes glow the same colour as when they're placed. Requires Polytone.
@@ -80,7 +80,7 @@
 	#While Picture Mode is open, everything past the loaded chunks fades into the distance fog colour instead of showing see-through distant terrain. Requires Picture Mode.
 	pictureModeClouds = true
 	#Click and drag your player model in the inventory to turn it around.
-	inventoryModelRotation = false
+	inventoryModelRotation = true
 	#Sack tooltips no longer list their contents as text. The contents preview still shows.
 	hideSackContentsTooltip = false
 
@@ -126,7 +126,7 @@
 	#Lanterns, banners and buntings hung from chains and ropes sway in the wind. Requires the Wind option.
 	chainDecorationSway = true
 	#Leaves slowly turn white while snow falls on them and green again once it stops. Takes effect after rejoining the world.
-	snowfallLeafWhitening = false
+	snowfallLeafWhitening = true
 	#How far around you, in chunks, leaves frost over. Larger values cost more performance.
 	# Default: 8
 	# Range: 2 ~ 32

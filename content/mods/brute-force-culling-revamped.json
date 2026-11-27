@@ -1,0 +1,23 @@
+{
+  "name": "Brute Force Culling Revamped",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "tZn2RW1V",
+      "slug": "brute-force-culling-revamped",
+      "versionId": "t7A5MaUI",
+      "versionNumber": "2.0.1-1.21.1-neoforge",
+      "filename": "brute_force_culling-neoforge-1.21.1-2.0.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/tZn2RW1V/versions/t7A5MaUI/brute_force_culling-neoforge-1.21.1-2.0.1.jar",
+      "sha1": "c7fc060245cdb6cc8a1804a2843b4de880f3888a",
+      "sha512": "70db3f2e6083b21a88344d28753e68ca298e5db4c5a0626610a6fb060f425cec6f0f7f9569dd08140f272214d20aeb07fcb038e3e0676be96f187d921e221f1b",
+      "fileSize": 122922
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}
